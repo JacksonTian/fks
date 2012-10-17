@@ -1,0 +1,21 @@
+{
+  "name": "fks",
+  "version": "0.0.1",
+  "description": "Frontend Knowledge Structure",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JacksonTian/fks.git"
+  },
+  "keywords": [
+    "Frontend"
+  ],
+  "author": "Jackson Tian",
+  "license": "MIT"
+}
