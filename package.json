@@ -1,13 +1,10 @@
 {
-  "name": "fks",
+  "name": "FKS",
   "version": "0.0.1",
   "description": "Frontend Knowledge Structure",
   "main": "index.js",
   "directories": {
     "doc": "doc"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
