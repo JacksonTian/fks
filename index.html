@@ -1,74 +1,228 @@
 <!DOCTYPE html>
 <html>
-
   <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Fks : 前端技能汇总 Frontend Knowledge Structure" />
-
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
-    <title>Fks</title>
+    <meta charset="utf-8" />
+    <title>FKS Documentation</title>
+    <meta name="keywords" content="Frontend" />
+    <meta name="description" content="Frontend Knowledge Structure" />
+    <script src="assets/prettify.js"></script>
+    <script src="assets/jquery-1.8.2.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="assets/base.css" />
   </head>
-
   <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/JacksonTian/fks">View on GitHub</a>
-
-          <h1 id="project_title">Fks</h1>
-          <h2 id="project_tagline">前端技能汇总 Frontend Knowledge Structure</h2>
-
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/JacksonTian/fks/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/JacksonTian/fks/tarball/master">Download this project as a tar.gz file</a>
-            </section>
-        </header>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="brand" href="./index.html">FKS</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+            
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
+    <header class="jumbotron subhead">
+      <div class="container">
+        <h1>FKS <small>Version: 0.0.1 By @Jackson Tian</small></h1>
+        <p class="lead">
+          Frontend Knowledge Structure
+        </p>
+      </div>
+    </header>
+<div class="container content">
+  <div class="row">
+  	<div class="span3 bs-docs-sidebar">
+      <ul class="nav nav-list bs-docs-sidenav affix">
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>Welcome to GitHub Pages.</h3>
+  <li class="level_2">
+    <a href="#index_项目起源" title="项目起源">
+      <i class="icon-chevron-right"></i>项目起源
+    </a>
+  </li>
 
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
+  <li class="level_2">
+    <a href="#index_前端开发知识结构" title="前端开发知识结构">
+      <i class="icon-chevron-right"></i>前端开发知识结构
+    </a>
+  </li>
 
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
+</ul>
 
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
+    </div>
+    <div class="span9">
+      <section>
+        <h1>Frontend Knowledge Structure</h1>
 
-<h3>Designer Templates</h3>
+<h2>项目起源</h2>
 
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
+<p>还记得@jayli 的这幅前端知识结构图么。</p>
 
-<h3>Rather Drive Stick?</h3>
+<p><img src="https://raw.github.com/JacksonTian/fks/master/figures/fks.jpg" alt="前端知识结构" title="" /></p>
 
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
+<p>图片的形式具有诸多的不便。缺失源图的我们，无法为此图贡献些什么，随着时间的迁移，或许有些技术点会发生改变，所以有了这个github项目。我们可以通过协作的方式来共同维护这个项目。Git的历史记录也可以见证前端行业的一些变迁。</p>
 
-<h3>Authors and Contributors</h3>
+<p>尽管会变成文字的方式来维护这些内容，但是我承诺写一个小工具帮大家生成更好玩的图形（基于DataV项目）。</p>
 
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
+<h2>前端开发知识结构</h2>
 
-<h3>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
+<ul>
+<li>前端工程师
+<ul><li>浏览器
+<ul><li>IE6/<a href="http://www.microsoft.com/zh-cn/download/details.aspx?id=2">7</a>/<a href="http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-8">8</a>/<a href="http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-9/worldwide-languages">9</a></li>
+<li><a href="http://www.mozilla.org/en-US/">Firefox</a></li>
+<li><a href="http://www.google.com/chrome">Chrome</a>/<a href="http://www.apple.com/safari/">Safari</a>/<a href="http://www.opera.com/">Opera</a></li></ul></li>
+<li>编程语言
+<ul><li><a href="https://developer.mozilla.org/en-US/docs/JavaScript">JavaScript</a>/<a href="http://nodejs.org/">Node.js</a></li>
+<li><a href="http://book.douban.com/subject/3590768/">JavaScript语言精粹</a></li></ul></li>
+<li>切页面
+<ul><li><a href="http://www.w3.org/html/">HTML</a></li>
+<li><a href="http://www.w3.org/Style/CSS/">CSS</a></li>
+<li><a href="http://www.photoshop.com/products/photoshop">PhotoShop</a>/<a href="http://www.getpaint.net/">Paint.net</a></li></ul></li>
+<li>开发工具
+<ul><li>IDE
+<ul><li><a href="http://www.vim.org/">VIM</a>/<a href="http://www.sublimetext.com/">Sublime Text2</a></li>
+<li>Notepad++/EditPlus</li></ul></li>
+<li>调试工具
+<ul><li><a href="http://getfirebug.com/">Firebug</a></li>
+<li><a href="http://developer.yahoo.com/yslow/">YSlow</a></li>
+<li>IEDeveloperToolbar/IETester</li>
+<li><a href="http://www.fiddler2.com/fiddler2/">Fiddler</a></li></ul></li>
+<li>版本管理
+<ul><li><a href="git-scm.com/">Git</a>/<a href="http://subversion.apache.org/">SVN</a></li>
+<li><a href="https://github.com/">Github</a>/<a href="https://bitbucket.org/">Bitbucket</a>/<a href="http://code.google.com/hosting/">Google Code</a></li></ul></li></ul></li>
+<li>代码质量
+<ul><li>Coding style
+<ul><li><a href="http://www.jslint.com/">JSLint</a>/<a href="http://www.jshint.com/">JSHint</a></li>
+<li>CSSLint</li>
+<li><a href="http://validator.w3.org/">Markup Validation Service</a></li></ul></li>
+<li>单元测试
+<ul><li><a href="http://qunitjs.com/">QUnit</a>/<a href="http://pivotal.github.com/jasmine/">Jasmine</a></li>
+<li><a href="http://visionmedia.github.com/mocha/">Mocha</a>/<a href="https://github.com/visionmedia/should.js/">Should</a>/<a href="http://chaijs.com/">Chai</a></li></ul></li>
+<li>自动化测试
+<ul><li>WebDriver</li></ul></li></ul></li>
+<li>前端库/框架
+<ul><li><a href="http://jquery.com/">jQuery</a>/<a href="http://underscorejs.org/">Underscore</a>/<a href="http://mootools.net/">Mootools</a>/<a href="http://www.prototypejs.org/">Prototype.js</a></li>
+<li><a href="http://yuilibrary.com/projects/yui3/">YUI3</a>/<a href="http://dojotoolkit.org/">Dojo</a>/<a href="http://www.sencha.com/products/extjs">ExtJS</a></li>
+<li>Backbone/KnockoutJS</li></ul></li>
+<li>前端标准/规范
+<ul><li><a href="http://www.w3.org/Protocols/rfc2616/rfc2616.html">HTTP1.1</a></li>
+<li>ECMAScript3/5</li>
+<li>W3C/DOM/BOM/XHTML/XML/JSON/JSONP</li>
+<li>CommonJS/AMD</li>
+<li>HTML5/CSS3</li></ul></li>
+<li>性能
+<ul><li><a href="http://jsperf.com/">JSPerf</a></li>
+<li><a href="http://developer.yahoo.com/performance/rules.html">YSlow 35 rules</a></li>
+<li>PageSpeed</li>
+<li>HTTPWatch</li>
+<li>DynaTrace's Ajax</li>
+<li><a href="http://book.douban.com/subject/5362856/">高性能JavaScript</a></li></ul></li>
+<li>编程知识储备
+<ul><li>数据结构</li>
+<li>OOP/AOP</li>
+<li>原型链/作用域链</li>
+<li>函数式编程</li>
+<li>设计模式</li></ul></li>
+<li>部署流程
+<ul><li>压缩合并
+<ul><li><a href="http://developer.yahoo.com/yui/compressor/">YUI Compressor</a></li>
+<li><a href="https://developers.google.com/closure/compiler/">Google Clousure Complier</a></li>
+<li><a href="https://github.com/GoalSmashers/clean-css">CleanCSS</a>/<a href="https://github.com/mishoo/UglifyJS">UglifyJS</a></li></ul></li>
+<li>文档输出
+<ul><li><a href="http://code.google.com/p/jsdoc-toolkit/">JSDoc</a></li>
+<li><a href="https://github.com/visionmedia/dox">Dox</a>/<a href="https://github.com/JacksonTian/doxmate">Doxmate</a></li></ul></li>
+<li>项目构建工具
+<ul><li><a href="http://www.gnu.org/software/make/">make</a>/<a href="http://ant.apache.org/">Ant</a></li>
+<li><a href="http://code.google.com/p/gyp/">GYP</a></li></ul></li></ul></li>
+<li>代码组织
+<ul><li>类库模块化
+<ul><li>CommonJS/AMD</li>
+<li>YUI3模块</li></ul></li>
+<li>业务逻辑模块化</li>
+<li>文件加载
+<ul><li>LABjs</li>
+<li>SeaJS/Require.js</li></ul></li></ul></li>
+<li>安全
+<ul><li>CSRF/XSS</li>
+<li>ADsafe/Caja/Sandbox</li></ul></li>
+<li>移动Web
+<ul><li>HTML5/CSS3</li>
+<li>响应式设计</li>
+<li>Zeptojs/iScroll</li>
+<li>V5/Sencha Touch</li>
+<li>PhoneGap</li></ul></li>
+<li>JavaScript生态
+<ul><li>MongoDB/CouchDB</li></ul></li>
+<li>前沿技术社区/会议
+<ul><li>D2/WebRebuild</li>
+<li>NodeParty/W3CTech/HTML5梦工厂</li>
+<li>JSConf/<a href="http://jsconf.cn">沪JS(JSConf.cn)</a></li>
+<li>QCon/Velocity/SDCC</li>
+<li>JSConf/NodeConf</li>
+<li>YDN/YUIConf</li></ul></li>
+<li>计算机知识储备
+<ul><li>编译原理</li>
+<li>计算机网络</li>
+<li>操作系统</li>
+<li>算法原理</li>
+<li>软件工程/软件测试原理</li></ul></li>
+<li>软技能
+<ul><li>知识管理/总结分享</li>
+<li>沟通技巧/团队协作</li>
+<li>需求管理/PM</li>
+<li>交互设计/可用性/可访问性知识</li></ul></li>
+<li>可视化
+<ul><li>SVG/Canvas/VML</li>
+<li><a href="http://d3js.org/">D3</a>/<a href="http://raphaeljs.com/">Raphaël</a>/<a href="http://datavlab.org/datavjs/">DataV</a></li></ul></li></ul></li>
+</ul>
       </section>
     </div>
-
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Fks maintained by <a href="https://github.com/JacksonTian">JacksonTian</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
-
-    
-
+  </div>
+</div>
+      <footer class="footer">
+        <div class="container">
+          <p class="pull-right">
+            <a href="#">Back to top</a>
+          </p>
+          <p>此文档通过doxmate生成。主题借鉴Bootstrap API文档风格，注解基于<a href="https://github.com/visionmedia/dox">Dox</a>。欢迎关注doxmate作者<a href="http://weibo.com/shyvo" target="_blank">@朴灵</a></p>
+          <ul class="footer-links">
+            <li><a href="https://github.com/visionmedia/dox">Dox主页</a></li>
+            <li><a href="http://html5ify.com/doxmate">Doxmate主页</a></li>
+            <li><a href="https://github.com/JacksonTian/doxmate/issues?state=open">提交bug</a></li>
+          </ul>
+      </div>
+    </footer>
+    <script>
+      $(function() {
+        $('pre').addClass('prettyprint');
+        $('td pre').removeClass('prettyprint');
+        prettyPrint();
+        var $window = $(window);
+        $('.bs-docs-sidenav').affix({
+          offset: {
+            top: function () {
+              return $window.width() <= 980 ? 290 : 210
+            },
+            bottom: 270
+          }
+        });
+        $(".content").find('h1, h2, h3, h4, h5, h6').each(function () {
+          var node = $(this);
+          if (!node.attr("id")) {
+            node.attr("id", "index_" + node.text());
+          }
+          node.css("paddingTop", 40);
+        });
+      });
+    </script>
+  
   </body>
 </html>
