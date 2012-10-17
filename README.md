@@ -36,17 +36,17 @@ Frontend Knowledge Structure
             - [Github](https://github.com/)/[Bitbucket](https://bitbucket.org/)/[Google Code](http://code.google.com/hosting/)
     - 代码质量
         - Coding style
-            - JSLint/JSHint
+            - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)
             - CSSLint
             - [Markup Validation Service](http://validator.w3.org/)
         - 单元测试
-            - QUnit/Jasmine
-            - Mocha/Should/Chai
+            - [QUnit](http://qunitjs.com/)/[Jasmine](http://pivotal.github.com/jasmine/)
+            - [Mocha](http://visionmedia.github.com/mocha/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)
         - 自动化测试
             - WebDriver
     - 前端库/框架
-        - jQuery/Underscore/Mootools/PrototypeJS
-        - YUI3/Dojo/ExtJS
+        - [jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)
+        - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)
         - Backbone/KnockoutJS
     - 前端标准/规范
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
@@ -69,12 +69,12 @@ Frontend Knowledge Structure
         - 设计模式
     - 部署流程
         - 压缩合并
-            - YUI Compressor
-            - Google Clousure Complier
-            - CleanCSS/UglifyJS
+            - [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
+            - [Google Clousure Complier](https://developers.google.com/closure/compiler/)
+            - [CleanCSS](https://github.com/GoalSmashers/clean-css)/[UglifyJS](https://github.com/mishoo/UglifyJS)
         - 文档输出
-            - JSDoc
-            - Dox/Doxmate
+            - [JSDoc](http://code.google.com/p/jsdoc-toolkit/)
+            - [Dox](https://github.com/visionmedia/dox)/[Doxmate](https://github.com/JacksonTian/doxmate)
         - 项目构建工具
             - [make](http://www.gnu.org/software/make/)/[Ant](http://ant.apache.org/)
             - [GYP](http://code.google.com/p/gyp/)
@@ -86,12 +86,30 @@ Frontend Knowledge Structure
         - 文件加载
             - LABjs
             - SeaJS/Require.js
+    - 安全
+        - CSRF/XSS
+        - ADsafe/Caja/Sandbox
+    - 移动Web
+        - HTML5/CSS3
+        - 响应式设计
+        - Zeptojs/iScroll
+        - V5/Sencha Touch
+        - PhoneGap
+    - JavaScript生态
+        - MongoDB/CouchDB
     - 前沿技术社区/会议
         - D2/WebRebuild
         - NodeParty/W3CTech/HTML5梦工厂
         - JSConf/[沪JS(JSConf.cn)](http://jsconf.cn)
         - QCon/Velocity/SDCC
+        - JSConf/NodeConf
         - YDN/YUIConf
+    - 计算机知识储备
+        - 编译原理
+        - 计算机网络
+        - 操作系统
+        - 算法原理
+        - 软件工程/软件测试原理
     - 软技能
         - 知识管理/总结分享
         - 沟通技巧/团队协作
