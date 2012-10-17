@@ -96,9 +96,7 @@ Frontend Knowledge Structure
         - 知识管理/总结分享
         - 沟通技巧/团队协作
         - 需求管理/PM
-        - 交互设计
-        - 
-
+        - 交互设计/可用性/可访问性知识
     - 可视化
         - SVG/Canvas/VML
         - [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[DataV](http://datavlab.org/datavjs/)
