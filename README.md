@@ -16,49 +16,89 @@ Frontend Knowledge Structure
         - [Firefox](http://www.mozilla.org/en-US/)
         - [Chrome](http://www.google.com/chrome)/[Safari](http://www.apple.com/safari/)/[Opera](http://www.opera.com/)
     - 编程语言
-        - JavaScript/Node.js
-        - PHP/Python/Perl/Ruby/BashShell
-        - Flash ActionScript
+        - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
+        - [JavaScript语言精粹](http://book.douban.com/subject/3590768/)
     - 切页面
-        - HTML
-        - CSS
-        - PhotoShop
+        - [HTML](http://www.w3.org/html/)
+        - [CSS](http://www.w3.org/Style/CSS/)
+        - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)
     - 开发工具
         - IDE
-            - VIM/Sublime Text2
+            - [VIM](http://www.vim.org/)/[Sublime Text2](http://www.sublimetext.com/)
             - Notepad++/EditPlus
+        - 调试工具
+            - [Firebug](http://getfirebug.com/)
+            - [YSlow](http://developer.yahoo.com/yslow/)
+            - IEDeveloperToolbar/IETester
+            - [Fiddler](http://www.fiddler2.com/fiddler2/)
         - 版本管理
-            - GIT/SVN
-            - Github客户端
+            - [Git](git-scm.com/)/[SVN](http://subversion.apache.org/)
+            - [Github](https://github.com/)/[Bitbucket](https://bitbucket.org/)/[Google Code](http://code.google.com/hosting/)
+    - 代码质量
+        - Coding style
+            - JSLint/JSHint
+            - CSSLint
+            - [Markup Validation Service](http://validator.w3.org/)
+        - 单元测试
+            - QUnit/Jasmine
+            - Mocha/Should/Chai
+        - 自动化测试
+            - WebDriver
+    - 前端库/框架
+        - jQuery/Underscore/Mootools/PrototypeJS
+        - YUI3/Dojo/ExtJS
+        - Backbone/KnockoutJS
     - 前端标准/规范
+        - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
+        - ECMAScript3/5
         - W3C/DOM/BOM/XHTML/XML/JSON/JSONP
+        - CommonJS/AMD
         - HTML5/CSS3
-        - ECMAScript
-        - HTTP1.1
-    - 调试工具
-        - Firebug
-        - YSlow
-        - IEDeveloperToolbar/IETester
-        - [Fiddler](http://www.fiddler2.com/fiddler2/)
-    - 前沿技术社区/会议
-        - D2/WebRebuild
-        - NodeParty/W3CTech/HTML5梦工厂
-        - JSConf/[沪JS(JSConf.cn)](http://jsconf.cn)
-        - QCon/Velocity/SDCC
-        - YDN/YUIConf
     - 性能
         - [JSPerf](http://jsperf.com/)
         - [YSlow 35 rules](http://developer.yahoo.com/performance/rules.html)
         - PageSpeed
         - HTTPWatch
         - DynaTrace's Ajax
+        - [高性能JavaScript](http://book.douban.com/subject/5362856/)
     - 编程知识储备
         - 数据结构
         - OOP/AOP
         - 原型链/作用域链
         - 函数式编程
         - 设计模式
+    - 部署流程
+        - 压缩合并
+            - YUI Compressor
+            - Google Clousure Complier
+            - CleanCSS/UglifyJS
+        - 文档输出
+            - JSDoc
+            - Dox/Doxmate
+        - 项目构建工具
+            - [make](http://www.gnu.org/software/make/)/[Ant](http://ant.apache.org/)
+            - [GYP](http://code.google.com/p/gyp/)
+    - 代码组织
+        - 类库模块化
+            - CommonJS/AMD
+            - YUI3模块
+        - 业务逻辑模块化
+        - 文件加载
+            - LABjs
+            - SeaJS/Require.js
+    - 前沿技术社区/会议
+        - D2/WebRebuild
+        - NodeParty/W3CTech/HTML5梦工厂
+        - JSConf/[沪JS(JSConf.cn)](http://jsconf.cn)
+        - QCon/Velocity/SDCC
+        - YDN/YUIConf
+    - 软技能
+        - 知识管理/总结分享
+        - 沟通技巧/团队协作
+        - 需求管理/PM
+        - 交互设计
+        - 
+
     - 可视化
         - SVG/Canvas/VML
         - [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[DataV](http://datavlab.org/datavjs/)
-
