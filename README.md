@@ -123,7 +123,7 @@ Frontend Knowledge Structure
         - [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[DataV](http://datavlab.org/datavjs/)
 
 ## 内容贡献者
-以下内容由`git-summary`生成：
+除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成：
 
 ```
  project  : fks
