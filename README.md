@@ -121,3 +121,17 @@ Frontend Knowledge Structure
     - 可视化
         - SVG/Canvas/VML
         - [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[DataV](http://datavlab.org/datavjs/)
+
+## 内容贡献者
+以下内容由`git-summary`生成：
+
+```
+ project  : fks
+ repo age : 3 days
+ active   : 3 days
+ commits  : 11
+ files    : 3
+ authors  : 
+    10  Jackson Tian            90.9%
+     1  Johnny                  9.1%
+```
