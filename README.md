@@ -48,6 +48,7 @@ Frontend Knowledge Structure
         - [jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)
         - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)
         - Backbone/KnockoutJS
+        - [Emberjs](http://emberjs.com/)
     - 前端标准/规范
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
         - ECMAScript3/5
@@ -57,9 +58,9 @@ Frontend Knowledge Structure
     - 性能
         - [JSPerf](http://jsperf.com/)
         - [YSlow 35 rules](http://developer.yahoo.com/performance/rules.html)
-        - PageSpeed
-        - HTTPWatch
-        - DynaTrace's Ajax
+        - [PageSpeed](https://developers.google.com/speed/pagespeed/)
+        - [HTTPWatch](http://www.httpwatch.com/)
+        - [DynaTrace's Ajax](http://www.compuware.com/application-performance-management/dynatrace-ajax-download.html)
         - [高性能JavaScript](http://book.douban.com/subject/5362856/)
     - 编程知识储备
         - 数据结构
@@ -67,6 +68,7 @@ Frontend Knowledge Structure
         - 原型链/作用域链
         - 函数式编程
         - 设计模式
+        - [Javascript Tips](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
     - 部署流程
         - 压缩合并
             - [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
@@ -80,26 +82,27 @@ Frontend Knowledge Structure
             - [GYP](http://code.google.com/p/gyp/)
     - 代码组织
         - 类库模块化
-            - CommonJS/AMD
+            - [CommonJS](http://www.commonjs.org/)/AMD
             - YUI3模块
         - 业务逻辑模块化
         - 文件加载
-            - LABjs
-            - SeaJS/Require.js
+            - [LABjs](http://labjs.com/)
+            - [SeaJS](http://seajs.org/)/[Require.js](http://requirejs.org/)
     - 安全
-        - CSRF/XSS
+        - [CSRF](http://en.wikipedia.org/wiki/Cross-site_request_forgery)/XSS
         - ADsafe/Caja/Sandbox
     - 移动Web
         - HTML5/CSS3
         - 响应式设计
-        - Zeptojs/iScroll
-        - V5/Sencha Touch
-        - PhoneGap
+        - [Zeptojs](http://zeptojs.com/)/iScroll
+        - V5/[Sencha Touch](http://www.sencha.com/products/touch)
+        - [PhoneGap](http://phonegap.com/)
+        - [jQuery Mobile](http://jquerymobile.com/)
     - JavaScript生态
         - MongoDB/CouchDB
     - 前沿技术社区/会议
-        - D2/WebRebuild
-        - NodeParty/W3CTech/HTML5梦工厂
+        - D2/[WebRebuild](http://www.webrebuild.org/)
+        - NodeParty/[W3CTech](http://w3ctech.com)/HTML5梦工厂
         - JSConf/[沪JS(JSConf.cn)](http://jsconf.cn)
         - QCon/Velocity/SDCC
         - JSConf/NodeConf
