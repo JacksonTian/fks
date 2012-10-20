@@ -25,7 +25,7 @@ Frontend Knowledge Structure
     - 开发工具
         - IDE
             - [VIM](http://www.vim.org/)/[Sublime Text2](http://www.sublimetext.com/)
-            - Notepad++/EditPlus
+            - [Notepad++](http://notepad-plus-plus.org/)/[EditPlus](http://www.editplus.com/)
         - 调试工具
             - [Firebug](http://getfirebug.com/)
             - [YSlow](http://developer.yahoo.com/yslow/)
@@ -37,7 +37,7 @@ Frontend Knowledge Structure
     - 代码质量
         - Coding style
             - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)
-            - CSSLint
+            - [CSSLint](http://csslint.net/)
             - [Markup Validation Service](http://validator.w3.org/)
         - 单元测试
             - [QUnit](http://qunitjs.com/)/[Jasmine](http://pivotal.github.com/jasmine/)
@@ -47,7 +47,7 @@ Frontend Knowledge Structure
     - 前端库/框架
         - [jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)
         - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)
-        - Backbone/KnockoutJS
+        - [Backbone](http://backbonejs.org/)/[KnockoutJS](http://knockoutjs.com/)
     - 前端标准/规范
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
         - ECMAScript3/5
@@ -65,6 +65,7 @@ Frontend Knowledge Structure
         - 数据结构
         - OOP/AOP
         - 原型链/作用域链
+        - [闭包](http://www.jibbering.com/faq/notes/closures/)
         - 函数式编程
         - 设计模式
     - 部署流程
