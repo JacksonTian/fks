@@ -25,11 +25,11 @@ Frontend Knowledge Structure
     - 开发工具
         - IDE
             - [VIM](http://www.vim.org/)/[Sublime Text2](http://www.sublimetext.com/)
-            - Notepad++/EditPlus
+            - [Notepad++](http://notepad-plus-plus.org/)/[EditPlus](http://www.editplus.com/)
         - 调试工具
             - [Firebug](http://getfirebug.com/)
             - [YSlow](http://developer.yahoo.com/yslow/)
-            - IEDeveloperToolbar/IETester
+            - [IEDeveloperToolbar](http://www.microsoft.com/en-us/download/details.aspx?id=18359)/[IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
             - [Fiddler](http://www.fiddler2.com/fiddler2/)
         - 版本管理
             - [Git](git-scm.com/)/[SVN](http://subversion.apache.org/)
@@ -37,7 +37,7 @@ Frontend Knowledge Structure
     - 代码质量
         - Coding style
             - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)
-            - CSSLint
+            - [CSSLint](http://csslint.net/)
             - [Markup Validation Service](http://validator.w3.org/)
         - 单元测试
             - [QUnit](http://qunitjs.com/)/[Jasmine](http://pivotal.github.com/jasmine/)
@@ -47,8 +47,7 @@ Frontend Knowledge Structure
     - 前端库/框架
         - [jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)
         - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)
-        - Backbone/KnockoutJS
-        - [Emberjs](http://emberjs.com/)
+        - [Backbone](http://backbonejs.org/)/[KnockoutJS](http://knockoutjs.com/)/[Emberjs](http://emberjs.com/)
     - 前端标准/规范
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
         - ECMAScript3/5
@@ -65,7 +64,8 @@ Frontend Knowledge Structure
     - 编程知识储备
         - 数据结构
         - OOP/AOP
-        - 原型链/作用域链
+        - [原型链](http://net.tutsplus.com/tutorials/javascript-ajax/prototypes-in-javascript-what-you-need-to-know/)/作用域链
+        - [闭包](http://www.jibbering.com/faq/notes/closures/)
         - 函数式编程
         - 设计模式
         - [Javascript Tips](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
@@ -89,12 +89,12 @@ Frontend Knowledge Structure
             - [LABjs](http://labjs.com/)
             - [SeaJS](http://seajs.org/)/[Require.js](http://requirejs.org/)
     - 安全
-        - [CSRF](http://en.wikipedia.org/wiki/Cross-site_request_forgery)/XSS
+        - [CSRF](http://en.wikipedia.org/wiki/Cross-site_request_forgery)/[XSS](http://en.wikipedia.org/wiki/Cross-site_scripting)
         - ADsafe/Caja/Sandbox
     - 移动Web
         - HTML5/CSS3
         - 响应式设计
-        - [Zeptojs](http://zeptojs.com/)/iScroll
+        - [Zeptojs](http://zeptojs.com/)/[iScroll](http://cubiq.org/iscroll)
         - V5/[Sencha Touch](http://www.sencha.com/products/touch)
         - [PhoneGap](http://phonegap.com/)
         - [jQuery Mobile](http://jquerymobile.com/)
