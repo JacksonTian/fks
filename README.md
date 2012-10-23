@@ -22,6 +22,11 @@ Frontend Knowledge Structure
         - [HTML](http://www.w3.org/html/)
         - [CSS](http://www.w3.org/Style/CSS/)
         - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)
+        - 相关知识
+            - 语义化
+            - 页面编码
+            - Doctype
+            - CSS Sprite
     - 开发工具
         - IDE
             - [VIM](http://www.vim.org/)/[Sublime Text2](http://www.sublimetext.com/)
@@ -50,7 +55,7 @@ Frontend Knowledge Structure
         - [Backbone](http://backbonejs.org/)/[KnockoutJS](http://knockoutjs.com/)/[Emberjs](http://emberjs.com/)
     - 前端标准/规范
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
-        - ECMAScript3/5
+        - [ECMAScript3/5](http://www.ecmascript.org/docs.php)
         - W3C/DOM/BOM/XHTML/XML/JSON/JSONP
         - CommonJS/AMD
         - HTML5/CSS3
@@ -69,6 +74,7 @@ Frontend Knowledge Structure
         - 函数式编程
         - 设计模式
         - [Javascript Tips](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
+        - [I18N](http://www.w3.org/International/)/L10N
     - 部署流程
         - 压缩合并
             - [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
@@ -85,6 +91,8 @@ Frontend Knowledge Structure
             - [CommonJS](http://www.commonjs.org/)/AMD
             - YUI3模块
         - 业务逻辑模块化
+        	- MVVM/MVC
+        	- [AngularJS](http://angularjs.org)
         - 文件加载
             - [LABjs](http://labjs.com/)
             - [SeaJS](http://seajs.org/)/[Require.js](http://requirejs.org/)
@@ -98,6 +106,7 @@ Frontend Knowledge Structure
         - V5/[Sencha Touch](http://www.sencha.com/products/touch)
         - [PhoneGap](http://phonegap.com/)
         - [jQuery Mobile](http://jquerymobile.com/)
+        - [titanium](http://www.appcelerator.com/)
     - JavaScript生态
         - MongoDB/CouchDB
     - 前沿技术社区/会议
@@ -118,6 +127,7 @@ Frontend Knowledge Structure
         - 沟通技巧/团队协作
         - 需求管理/PM
         - 交互设计/可用性/可访问性知识
+        - Agile/Scrum
     - 可视化
         - SVG/Canvas/VML
         - [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[DataV](http://datavlab.org/datavjs/)
