@@ -26,6 +26,7 @@ Frontend Knowledge Structure
         - IDE
             - [VIM](http://www.vim.org/)/[Sublime Text2](http://www.sublimetext.com/)
             - [Notepad++](http://notepad-plus-plus.org/)/[EditPlus](http://www.editplus.com/)
+            - [WebStorm](http://www.jetbrains.com/webstorm/)
         - 调试工具
             - [Firebug](http://getfirebug.com/)
             - [YSlow](http://developer.yahoo.com/yslow/)
