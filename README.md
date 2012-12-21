@@ -19,8 +19,8 @@ Frontend Knowledge Structure
         - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
         - [JavaScript语言精粹](http://book.douban.com/subject/3590768/)
     - 切页面
-        - [HTML](http://www.w3.org/html/)
-        - [CSS](http://www.w3.org/Style/CSS/)
+        - [HTML](http://www.w3.org/html/)/HTML5
+        - [CSS](http://www.w3.org/Style/CSS/)/CSS3
         - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)
     - 开发工具
         - IDE
@@ -102,8 +102,8 @@ Frontend Knowledge Structure
     - JavaScript生态
         - MongoDB/CouchDB
     - 前沿技术社区/会议
-        - D2/[WebRebuild](http://www.webrebuild.org/)
-        - NodeParty/[W3CTech](http://w3ctech.com)/HTML5梦工厂
+        - [D2](http://d2forum.org)/[WebRebuild](http://www.webrebuild.org/)
+        - NodeParty/[W3CTech](http://w3ctech.com)/[HTML5梦工厂](http://www.html5dw.com)
         - JSConf/[沪JS(JSConf.cn)](http://jsconf.cn)
         - QCon/Velocity/SDCC
         - JSConf/NodeConf
