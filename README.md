@@ -122,17 +122,28 @@ Frontend Knowledge Structure
     - 可视化
         - SVG/Canvas/VML
         - [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[DataV](http://datavlab.org/datavjs/)
+- 后端工程师
+    - 编程语言
+        - C/C++/Java/PHP/Ruby/Python/...
+    - 数据库
+        - SQL
+        - MySQL/MongoDB/Oracle
+    - 操作系统
+        - Unix/Linux/OS X/Windows
+    - 数据结构
+
 
 ## 内容贡献者
 除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成：
 
 ```
  project  : fks
- repo age : 3 days
- active   : 3 days
- commits  : 11
+ repo age : 2 months
+ active   : 7 days
+ commits  : 20
  files    : 3
  authors  : 
-    10  Jackson Tian            90.9%
-     1  Johnny                  9.1%
+    16	Jackson Tian            80.0%
+     2	Johnny                  10.0%
+     2	Yinkan Li               10.0%
 ```
