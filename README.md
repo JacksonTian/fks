@@ -81,6 +81,8 @@ Frontend Knowledge Structure
         - 项目构建工具
             - [make](http://www.gnu.org/software/make/)/[Ant](http://ant.apache.org/)
             - [GYP](http://code.google.com/p/gyp/)
+            - [Grunt](http://gruntjs.com/)
+            - [Yeoman](http://yeoman.io/)
     - 代码组织
         - 类库模块化
             - [CommonJS](http://www.commonjs.org/)/AMD
