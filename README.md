@@ -20,7 +20,7 @@ Frontend Knowledge Structure
     - 切页面
         - [HTML](http://www.w3.org/html/)/HTML5
         - [CSS](http://www.w3.org/Style/CSS/)/CSS3
-        - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)
+        - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)
     - 开发工具
         - IDE
             - [VIM](http://www.vim.org/)/[Sublime Text2](http://www.sublimetext.com/)
