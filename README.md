@@ -31,6 +31,7 @@ Frontend Knowledge Structure
             - [YSlow](http://developer.yahoo.com/yslow/)
             - [IEDeveloperToolbar](http://www.microsoft.com/en-us/download/details.aspx?id=18359)/[IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
             - [Fiddler](http://www.fiddler2.com/fiddler2/)
+            - [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/)
         - 版本管理
             - [Git](git-scm.com/)/[SVN](http://subversion.apache.org/)
             - [Github](https://github.com/)/[Bitbucket](https://bitbucket.org/)/[Google Code](http://code.google.com/hosting/)
@@ -48,12 +49,13 @@ Frontend Knowledge Structure
         - [jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)
         - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)
         - [Backbone](http://backbonejs.org/)/[KnockoutJS](http://knockoutjs.com/)/[Emberjs](http://emberjs.com/)
+        - [AngularJS](http://angularjs.org/)
     - 前端标准/规范
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
-        - ECMAScript3/5
-        - W3C/DOM/BOM/XHTML/XML/JSON/JSONP
-        - CommonJS/AMD
-        - HTML5/CSS3
+        - [ECMAScript3/5](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
+        - [W3C/DOM/BOM/XHTML/XML/JSON/JSONP](http://www.w3.org/TR/)
+        - [CommonJS Modules](http://wiki.commonjs.org/wiki/Modules/1.0)/[AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)
+        - [HTML5](http://www.w3.org/html/wg/drafts/html/master/)/[CSS3](http://www.w3.org/Style/CSS/specs.en.html)
     - 性能
         - [JSPerf](http://jsperf.com/)
         - [YSlow 35 rules](http://developer.yahoo.com/performance/rules.html)
@@ -67,13 +69,14 @@ Frontend Knowledge Structure
         - [原型链](http://net.tutsplus.com/tutorials/javascript-ajax/prototypes-in-javascript-what-you-need-to-know/)/作用域链
         - [闭包](http://www.jibbering.com/faq/notes/closures/)
         - 函数式编程
-        - 设计模式
+        - [设计模式](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
         - [Javascript Tips](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
     - 部署流程
         - 压缩合并
             - [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
             - [Google Clousure Complier](https://developers.google.com/closure/compiler/)
-            - [CleanCSS](https://github.com/GoalSmashers/clean-css)/[UglifyJS](https://github.com/mishoo/UglifyJS)
+            - [UglifyJS](https://github.com/mishoo/UglifyJS)
+            - [CleanCSS](https://github.com/GoalSmashers/clean-css)
         - 文档输出
             - [JSDoc](http://code.google.com/p/jsdoc-toolkit/)
             - [Dox](https://github.com/visionmedia/dox)/[Doxmate](https://github.com/JacksonTian/doxmate)
@@ -90,6 +93,8 @@ Frontend Knowledge Structure
         - 文件加载
             - [LABjs](http://labjs.com/)
             - [SeaJS](http://seajs.org/)/[Require.js](http://requirejs.org/)
+        - 模块化预处理器
+            - [Browserify](https://github.com/substack/node-browserify)
     - 安全
         - [CSRF](http://en.wikipedia.org/wiki/Cross-site_request_forgery)/[XSS](http://en.wikipedia.org/wiki/Cross-site_scripting)
         - ADsafe/Caja/Sandbox
@@ -100,8 +105,6 @@ Frontend Knowledge Structure
         - V5/[Sencha Touch](http://www.sencha.com/products/touch)
         - [PhoneGap](http://phonegap.com/)
         - [jQuery Mobile](http://jquerymobile.com/)
-    - JavaScript生态
-        - MongoDB/CouchDB
     - 前沿技术社区/会议
         - [D2](http://d2forum.org)/[WebRebuild](http://www.webrebuild.org/)
         - NodeParty/[W3CTech](http://w3ctech.com)/[HTML5梦工厂](http://www.html5dw.com)
@@ -126,9 +129,19 @@ Frontend Knowledge Structure
 - 后端工程师
     - 编程语言
         - C/C++/Java/PHP/Ruby/Python/...
+    - 服务器
+        - [Nginx](http://nginx.org/en/)
+        - [Apache](http://httpd.apache.org/)
     - 数据库
         - SQL
-        - MySQL/MongoDB/Oracle
+        - MySQL/PostgreSQL/Oracle
+        - [MongoDB](http://www.mongodb.org/)/[CouchDB](http://couchdb.apache.org/)
+    - 数据缓存
+        - [Redis](http://redis.io/)
+        - [Memcached](http://memcached.org/)
+    - 文件缓存/代理
+        - [Varnish](https://www.varnish-cache.org/)
+        - [Squid](http://www.squid-cache.org/)
     - 操作系统
         - Unix/Linux/OS X/Windows
     - 数据结构
@@ -141,6 +154,7 @@ Frontend Knowledge Structure
 - [编写可维护的JavaScript](http://book.douban.com/subject/21792530/)
 - [JAVASCRIPT语言精髓与编程实践](http://book.douban.com/subject/3012828/)
 - [JavaScript DOM编程艺术 （第2版）](http://book.douban.com/subject/6038371/)
+- [Effective Javascript](http://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)
 
 ## 内容贡献者
 除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成：
