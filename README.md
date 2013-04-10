@@ -133,6 +133,14 @@ Frontend Knowledge Structure
         - Unix/Linux/OS X/Windows
     - 数据结构
 
+## 书籍推荐
+- [高性能JavaScript](http://book.douban.com/subject/5362856/)
+- [JavaScript语言精粹](http://book.douban.com/subject/3590768/)
+- [JavaScript高级程序设计（第3版）](http://book.douban.com/subject/10546125/)
+- [JavaScript权威指南](http://book.douban.com/subject/10549733/)
+- [编写可维护的JavaScript](http://book.douban.com/subject/21792530/)
+- [JAVASCRIPT语言精髓与编程实践](http://book.douban.com/subject/3012828/)
+- [JavaScript DOM编程艺术 （第2版）](http://book.douban.com/subject/6038371/)
 
 ## 内容贡献者
 除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成：
