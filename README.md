@@ -155,6 +155,8 @@ Frontend Knowledge Structure
 - [JAVASCRIPT语言精髓与编程实践](http://book.douban.com/subject/3012828/)
 - [JavaScript DOM编程艺术 （第2版）](http://book.douban.com/subject/6038371/)
 - [Effective Javascript](http://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)
+- [Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)
+- [JavaScript设计模式](http://book.douban.com/subject/3329540/)
 
 ## 内容贡献者
 除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成：
