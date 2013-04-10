@@ -50,7 +50,7 @@ Frontend Knowledge Structure
         - [Backbone](http://backbonejs.org/)/[KnockoutJS](http://knockoutjs.com/)/[Emberjs](http://emberjs.com/)
     - 前端标准/规范
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
-        - ECMAScript3/5
+        - [Ecma-262](http://www.ecma-international.org/publications/standards/Ecma-262.htm):ECMAScript3/5
         - W3C/DOM/BOM/XHTML/XML/JSON/JSONP
         - CommonJS/AMD
         - HTML5/CSS3
