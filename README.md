@@ -160,16 +160,23 @@ Frontend Knowledge Structure
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)
 
 ## 内容贡献者
-除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成：
+除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成于2013-04-11：
 
 ```
+
  project  : fks
- repo age : 2 months
- active   : 7 days
- commits  : 20
+ repo age : 6 months
+ active   : 17 days
+ commits  : 36
  files    : 3
  authors  : 
-    16	Jackson Tian            80.0%
-     2	Johnny                  10.0%
-     2	Yinkan Li               10.0%
+    26  Jackson Tian            72.2%
+     2  Johnny                  5.6%
+     2  吴晓兰               5.6%
+     2  Yinkan Li               5.6%
+     1  李亚川               2.8%
+     1  browsnet                2.8%
+     1  monkadd                 2.8%
+     1  Evan You                2.8%
+
 ```
