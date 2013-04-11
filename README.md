@@ -148,6 +148,7 @@ Frontend Knowledge Structure
     - 数据结构
 
 ## 书籍推荐
+###JavaScript
 - [高性能JavaScript](http://book.douban.com/subject/5362856/)
 - [JavaScript语言精粹](http://book.douban.com/subject/3590768/)
 - [JavaScript高级程序设计（第3版）](http://book.douban.com/subject/10546125/)
@@ -159,6 +160,34 @@ Frontend Knowledge Structure
 - [Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)
 
+###Linux管理
+- [Linux 系统管理技术手册](http://book.douban.com/subject/3042029/)
+- [鸟哥的 Linux 私房菜](http://book.douban.com/subject/4889838/)
+- [Linux 101 Hacks](http://www.thegeekstuff.com/linux-101-hacks-free-ebook-non-english/)
+- [UNIX Shell Scripting](http://book.douban.com/subject/3519360/)
+- [The Linux Command Line](http://book.douban.com/subject/6806862/)
+
+###Linux编程
+- [Linux程序设计](http://book.douban.com/subject/4831448/)
+- [Linux系统编程](http://book.douban.com/subject/3907181/)
+- [Unix环境高级编程](http://book.douban.com/subject/1788421/)
+- [Unix编程艺术](http://book.douban.com/subject/1467587/)
+- [The Linux Programming Interface](http://book.douban.com/subject/4292217/)
+- [程序员的自我修养](http://book.douban.com/subject/3652388/)
+- [深入理解Linux内核](http://book.douban.com/subject/2287506/)
+- [Unix网络编程](http://book.douban.com/subject/1500149/)
+- [TCP/IP高级编程](http://book.douban.com/subject/1088054/)
+
+###C/C++
+- [Linux C编程一站式学习](http://book.douban.com/subject/4141733/)
+- [C和指针](http://book.douban.com/subject/3012360/)
+- [C陷阱与缺陷](http://book.douban.com/subject/2778632/)
+- [C专家编程](http://book.douban.com/subject/2377310/)
+- [C语言核心技术](http://book.douban.com/subject/2226913/)
+- [彻底搞定C指针](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0CDEQFjAA&url=http%3A%2F%2Fblogimg.chinaunix.net%2Fblog%2Fupfile2%2F110210170023.pdf&ei=P95mUfrmNKKriALS04HAAw&usg=AFQjCNEzB88PnpfL0fRgJDkP3O9TlBPswA&sig2=isyd4ktsByNBMa5M9EPhRQ&bvm=bv.45107431,d.cGE&cad=rjt)
+- [征服C指针](http://book.douban.com/subject/21317828/)
+- [C++编程思想](http://book.douban.com/subject/1094797/)
+- [高质量程序设计指南---C/C++语言](http://book.douban.com/subject/2116929/)
 ## 内容贡献者
 除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成于2013-04-11：
 
