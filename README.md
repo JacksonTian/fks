@@ -159,6 +159,13 @@ Frontend Knowledge Structure
 - [Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)
 
+- [Linux程序设计](http://book.douban.com/subject/4831448/)
+- [算法导论](http://book.douban.com/subject/20432061/)
+- [C专家编程](http://book.douban.com/subject/2377310/)
+- [Linux C编程一站式学习](http://book.douban.com/subject/4141733/)
+- [C和指针](http://book.douban.com/subject/3012360/)
+- [征服C指针](http://book.douban.com/subject/21317828/)
+
 ## 内容贡献者
 除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成于2013-04-11：
 
