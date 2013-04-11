@@ -188,6 +188,7 @@ Frontend Knowledge Structure
 - [征服C指针](http://book.douban.com/subject/21317828/)
 - [C++编程思想](http://book.douban.com/subject/1094797/)
 - [高质量程序设计指南---C/C++语言](http://book.douban.com/subject/2116929/)
+
 ## 内容贡献者
 除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成于2013-04-11：
 
