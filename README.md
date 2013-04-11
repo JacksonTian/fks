@@ -109,9 +109,9 @@ Frontend Knowledge Structure
     - 前沿技术社区/会议
         - [D2](http://d2forum.org)/[WebRebuild](http://www.webrebuild.org/)
         - NodeParty/[W3CTech](http://w3ctech.com)/[HTML5梦工厂](http://www.html5dw.com)
-        - JSConf/[沪JS(JSConf.cn)](http://jsconf.cn)
+        - [JSConf](http://jsconf.com/)/[沪JS(JSConf.cn)](http://jsconf.cn)
         - QCon/Velocity/SDCC
-        - JSConf/NodeConf
+        - [JSConf](http://jsconf.com/)/[NodeConf](http://www.nodeconf.com/)
         - YDN/YUIConf
     - 计算机知识储备
         - 编译原理
