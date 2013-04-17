@@ -51,6 +51,7 @@ Frontend Knowledge Structure
         - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)
         - [Backbone](http://backbonejs.org/)/[KnockoutJS](http://knockoutjs.com/)/[Emberjs](http://emberjs.com/)
         - [AngularJS](http://angularjs.org/)
+        - [Bootstrap](http://twitter.github.io/bootstrap/)
     - 前端标准/规范
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
         - [ECMAScript3/5](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
@@ -91,6 +92,7 @@ Frontend Knowledge Structure
             - [CommonJS](http://www.commonjs.org/)/AMD
             - YUI3模块
         - 业务逻辑模块化
+            - [bower](https://github.com/twitter/bower)/[component](https://github.com/component/component)
         - 文件加载
             - [LABjs](http://labjs.com/)
             - [SeaJS](http://seajs.org/)/[Require.js](http://requirejs.org/)
