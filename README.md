@@ -17,7 +17,6 @@ Frontend Knowledge Structure
         - [Chrome](http://www.google.com/chrome)/[Safari](http://www.apple.com/safari/)/[Opera](http://www.opera.com/)
     - 编程语言
         - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
-        - [JavaScript语言精粹](http://book.douban.com/subject/3590768/)
     - 切页面
         - [HTML](http://www.w3.org/html/)/HTML5
         - [CSS](http://www.w3.org/Style/CSS/)/CSS3
@@ -150,7 +149,8 @@ Frontend Knowledge Structure
     - 数据结构
 
 ## 前端书籍推荐
-####★越少越简单,越适合入门
+★越少越简单,越适合入门
+
 ###JavaScript
 - [JavaScript DOM编程艺术 （第2版）](http://book.douban.com/subject/6038371/)★
 - [JavaScript高级程序设计（第3版）](http://book.douban.com/subject/10546125/)★★
@@ -164,14 +164,14 @@ Frontend Knowledge Structure
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)★★★
 
 ## 后端书籍推荐
-###Linux管理
+### Linux管理
 - [Linux 系统管理技术手册](http://book.douban.com/subject/3042029/)
 - [鸟哥的 Linux 私房菜](http://book.douban.com/subject/4889838/)
 - [Linux 101 Hacks](http://www.thegeekstuff.com/linux-101-hacks-free-ebook-non-english/)
 - [UNIX Shell Scripting](http://book.douban.com/subject/3519360/)
 - [The Linux Command Line](http://book.douban.com/subject/6806862/)
 
-###Linux编程
+### Linux编程
 - [Linux程序设计](http://book.douban.com/subject/4831448/)
 - [Linux系统编程](http://book.douban.com/subject/3907181/)
 - [Unix环境高级编程](http://book.douban.com/subject/1788421/)
@@ -182,7 +182,7 @@ Frontend Knowledge Structure
 - [Unix网络编程](http://book.douban.com/subject/1500149/)
 - [TCP/IP高级编程](http://book.douban.com/subject/1088054/)
 
-###C/C++
+### C/C++
 - [Linux C编程一站式学习](http://book.douban.com/subject/4141733/)
 - [C和指针](http://book.douban.com/subject/3012360/)
 - [C陷阱与缺陷](http://book.douban.com/subject/2778632/)
@@ -194,23 +194,25 @@ Frontend Knowledge Structure
 - [高质量程序设计指南---C/C++语言](http://book.douban.com/subject/2116929/)
 
 ## 内容贡献者
-除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成于2013-04-11：
+除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成于2013-04-17：
 
 ```
 
  project  : fks
  repo age : 6 months
- active   : 17 days
- commits  : 36
+ active   : 23 days
+ commits  : 46
  files    : 3
  authors  : 
-    26  Jackson Tian            72.2%
-     2  Johnny                  5.6%
-     2  吴晓兰               5.6%
-     2  Yinkan Li               5.6%
-     1  李亚川               2.8%
-     1  browsnet                2.8%
-     1  monkadd                 2.8%
-     1  Evan You                2.8%
+    31  Jackson Tian            67.4%
+     3  fengxiaolong            6.5%
+     3  吴晓兰               6.5%
+     2  Johnny                  4.3%
+     2  Yinkan Li               4.3%
+     1  李亚川               2.2%
+     1  XiNGRZ                  2.2%
+     1  browsnet                2.2%
+     1  monkadd                 2.2%
+     1  Evan You                2.2%
 
 ```
