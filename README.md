@@ -113,6 +113,7 @@ Frontend Knowledge Structure
         - [JSConf](http://jsconf.com/)/[沪JS(JSConf.cn)](http://jsconf.cn)
         - QCon/Velocity/SDCC
         - [JSConf](http://jsconf.com/)/[NodeConf](http://www.nodeconf.com/)
+        - [CSSConf](http://cssconf.com/)
         - YDN/YUIConf
     - 计算机知识储备
         - 编译原理
