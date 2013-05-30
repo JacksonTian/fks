@@ -152,6 +152,9 @@ Frontend Knowledge Structure
 
 ## 前端书籍推荐
 ★越少越简单,越适合入门
+###css
+- [css权威指南 （第3版）](http://book.douban.com/subject/2308234/)★★
+- [精通CSS](http://book.douban.com/subject/4736167/)★★★
 
 ###JavaScript
 - [JavaScript DOM编程艺术 （第2版）](http://book.douban.com/subject/6038371/)★
