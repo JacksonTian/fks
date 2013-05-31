@@ -160,6 +160,7 @@ Frontend Knowledge Structure
 ### JavaScript
 - [JavaScript DOM编程艺术 （第2版）](http://book.douban.com/subject/6038371/)★
 - [JavaScript高级程序设计（第3版）](http://book.douban.com/subject/10546125/)★★
+- [锋利的jQuery](http://book.douban.com/subject/10792216/)★★
 - [高性能JavaScript](http://book.douban.com/subject/5362856/)★★★
 - [JavaScript语言精粹](http://book.douban.com/subject/3590768/)★★★
 - [JavaScript权威指南](http://book.douban.com/subject/10549733/)★★★
