@@ -15,11 +15,16 @@ Frontend Knowledge Structure
         - IE6/[7](http://www.microsoft.com/zh-cn/download/details.aspx?id=2)/[8](http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-8)/[9](http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-9/worldwide-languages)/[10](http://windows.microsoft.com/zh-cn/windows-8/internet-explorer)
         - [Firefox](http://www.mozilla.org/en-US/)
         - [Chrome](http://www.google.com/chrome)/[Safari](http://www.apple.com/safari/)/[Opera](http://www.opera.com/)
-    - 编程语言
-        - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
-    - 切页面
-        - [HTML](http://www.w3.org/html/)/HTML5
-        - [CSS](http://www.w3.org/Style/CSS/)/CSS3
+    - 语言
+        - 编程语言
+            - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
+            - [ActionScript]
+        - 非编程语言
+            - [HTML](http://www.w3.org/html/)/HTML5
+            - [CSS](http://www.w3.org/Style/CSS/)/CSS3
+    - 网络协议
+        - [http](http://zh.wikipedia.org/wiki/Http)
+    - 图像处理        
         - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)
     - 开发工具
         - IDE
@@ -27,6 +32,12 @@ Frontend Knowledge Structure
             - [Notepad++](http://notepad-plus-plus.org/)/[EditPlus](http://www.editplus.com/)
             - [WebStorm](http://www.jetbrains.com/webstorm/)
             - [Emacs](http://www.gnu.org/software/emacs/)  [EmacsWiki](http://emacswiki.org)
+            - [textmate](http://macromates.com) 
+            - [coda]
+        - 开发技巧
+            - [less]
+            - [zen-coding]
+            - [markdown]
         - 调试工具
             - [Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
             - [YSlow](http://developer.yahoo.com/yslow/)
@@ -46,7 +57,7 @@ Frontend Knowledge Structure
             - [Mocha](http://visionmedia.github.com/mocha/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
         - 自动化测试
             - WebDriver
-    - 前端库/框架
+    - JS前端库/框架
         - [jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)
         - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)
         - [Backbone](http://backbonejs.org/)/[KnockoutJS](http://knockoutjs.com/)/[Emberjs](http://emberjs.com/)
