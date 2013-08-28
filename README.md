@@ -17,6 +17,8 @@ Frontend Knowledge Structure
         - [Chrome](http://www.google.com/chrome)/[Safari](http://www.apple.com/safari/)/[Opera](http://www.opera.com/)
     - 编程语言
         - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
+        - [CoffeeScript](http://coffeescript.org/)
+        - [TypeScript](http://www.typescriptlang.org/)
     - 切页面
         - [HTML](http://www.w3.org/html/)/HTML5
         - [CSS](http://www.w3.org/Style/CSS/)/CSS3
@@ -51,7 +53,7 @@ Frontend Knowledge Structure
         - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)
         - [Backbone](http://backbonejs.org/)/[KnockoutJS](http://knockoutjs.com/)/[Emberjs](http://emberjs.com/)
         - [AngularJS](http://angularjs.org/)
-        - [Bootstrap](http://twitter.github.io/bootstrap/)
+        - [Bootstrap](http://getbootstrap.com/)
     - 前端标准/规范
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
         - [ECMAScript3/5](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
@@ -210,7 +212,7 @@ Frontend Knowledge Structure
  active   : 23 days
  commits  : 46
  files    : 3
- authors  : 
+ authors  :
     31  Jackson Tian            67.4%
      3  fengxiaolong            6.5%
      3  吴晓兰               6.5%
