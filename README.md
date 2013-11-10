@@ -47,7 +47,7 @@ Frontend Knowledge Structure
             - [QUnit](http://qunitjs.com/)/[Jasmine](http://pivotal.github.com/jasmine/)
             - [Mocha](http://visionmedia.github.com/mocha/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
         - 自动化测试
-            - WebDriver
+            - WebDriver/[Karma Runner](https://github.com/karma-runner/karma)
     - 前端库/框架
         - [jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)
         - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)
