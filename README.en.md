@@ -168,18 +168,18 @@ would be developed for us to generate more funny graphs.
 
 ### CSS
 
-- [CSS权威指南 （第3版）](http://book.douban.com/subject/2308234/)★★
-- [精通CSS](http://book.douban.com/subject/4736167/)★★★
+- [CSS: The Definitive Guide (3rd Edition)](http://www.amazon.com/CSS-Definitive-Eric-A-Meyer/dp/0596527330/ref=sr_1_1?ie=UTF8&qid=1384349637&sr=8-1&keywords=css+the+definitive+guide+3rd+edition)★★
+- [CSS Mastery: Advanced Web Standards Solutions](http://www.amazon.com/CSS-Mastery-Advanced-Standards-Solutions/dp/1430223979/ref=sr_1_1?ie=UTF8&qid=1384349522&sr=8-1&keywords=css+mastery+advanced+web+standards+solutions)★★★
 
 ### JavaScript
 
-- [JavaScript DOM编程艺术 （第2版）](http://book.douban.com/subject/6038371/)★
-- [JavaScript高级程序设计（第3版）](http://book.douban.com/subject/10546125/)★★
+- [DOM Scripting: Web Design with JavaScript and the Document Object Model](http://www.amazon.com/DOM-Scripting-Design-JavaScript-Document/dp/1430233893/)★
+- [Professional JavaScript for Web Developsers (Third Edition)](http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691/)★★
 - [锋利的jQuery](http://book.douban.com/subject/10792216/)★★
-- [高性能JavaScript](http://book.douban.com/subject/5362856/)★★★
-- [JavaScript语言精粹](http://book.douban.com/subject/3590768/)★★★
-- [JavaScript权威指南](http://book.douban.com/subject/10549733/)★★★
-- [编写可维护的JavaScript](http://book.douban.com/subject/21792530/)★★★
+- [High Performance JavaScript](ihttp://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/)★★★
+- [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/)★★★
+- [JavaScript: The Definitive Guide (Sixth Edition)](http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527/)★★★
+- [Maintainable JavaScript](http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680/)★★★
 - [JAVASCRIPT语言精髓与编程实践](http://book.douban.com/subject/3012828/)★★★
 - [Effective Javascript](http://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)★★★
 - [Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)★★★
