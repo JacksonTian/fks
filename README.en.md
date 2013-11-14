@@ -168,7 +168,7 @@ would be developed for us to generate more funny graphs.
 
 ### CSS
 
-- [CSS: The Definitive Guide (3rd Edition)](http://www.amazon.com/CSS-Definitive-Eric-A-Meyer/dp/0596527330/ref=sr_1_1?ie=UTF8&qid=1384349637&sr=8-1&keywords=css+the+definitive+guide+3rd+edition)★★
+- [CSS: The Definitive Guide (3rd Edition)](http://www.amazon.com/CSS-Definitive-Eric-A-Meyer/dp/0596527330/)★★
 - [CSS Mastery: Advanced Web Standards Solutions](http://www.amazon.com/CSS-Mastery-Advanced-Standards-Solutions/dp/1430223979/)★★★
 
 ### JavaScript
