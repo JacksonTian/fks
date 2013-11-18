@@ -21,7 +21,7 @@ Frontend Knowledge Structure
         - [TypeScript](http://www.typescriptlang.org/)
     - 切页面
         - [HTML](http://www.w3.org/html/)/HTML5
-        - [CSS](http://www.w3.org/Style/CSS/)/CSS3
+        - [CSS/CSS3](http://www.w3.org/Style/CSS/)
         - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)
     - 开发工具
         - IDE
@@ -47,13 +47,13 @@ Frontend Knowledge Structure
             - [QUnit](http://qunitjs.com/)/[Jasmine](http://pivotal.github.com/jasmine/)
             - [Mocha](http://visionmedia.github.com/mocha/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
         - 自动化测试
-            - WebDriver/[Karma Runner](https://github.com/karma-runner/karma)
+            - [WebDriver](http://www.cnblogs.com/huang0925/p/3155763.html)/[Karma Runner](https://github.com/karma-runner/karma)
     - 前端库/框架
         - [jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)
         - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)
         - [Backbone](http://backbonejs.org/)/[KnockoutJS](http://knockoutjs.com/)/[Emberjs](http://emberjs.com/)
         - [AngularJS](http://angularjs.org/)
-            - [Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)
+        - [Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)
         - [Bootstrap](http://getbootstrap.com/)
     - 前端标准/规范
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
@@ -93,7 +93,7 @@ Frontend Knowledge Structure
     - 代码组织
         - 类库模块化
             - [CommonJS](http://www.commonjs.org/)/AMD
-            - YUI3模块
+            - [YUI3模块](http://yuilibrary.com/projects/yui3/)
         - 业务逻辑模块化
             - [bower](https://github.com/twitter/bower)/[component](https://github.com/component/component)
         - 文件加载
