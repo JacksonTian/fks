@@ -172,6 +172,9 @@ The ★ less and easier, the more suitable for starters
 - [Effective Javascript](http://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)★★★
 - [Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)★★★
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)★★★★
+### VCS
+- [Pragmatic Version Control Using Git](http://book.douban.com/subject/3105192/)★★
+- [Git权威指南](http://book.douban.com/subject/6526452/)★★★★
 
 ## Book Recommendations for Backend-ers
 ### Linux management
