@@ -173,6 +173,10 @@ Frontend Knowledge Structure
 - [Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)★★★
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)★★★★
 
+### 版本控制工具
+- [版本控制之道 (git)](http://book.douban.com/subject/4813786/)★★
+- [Git权威指南](http://book.douban.com/subject/6526452/)★★★★
+
 ## 后端书籍推荐
 ### Linux管理
 - [Linux 系统管理技术手册](http://book.douban.com/subject/3042029/)
