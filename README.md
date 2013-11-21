@@ -154,7 +154,7 @@ Frontend Knowledge Structure
     - 数据结构
 
 ## 前端书籍推荐
-★越少越简单,越适合入门
+★越少越简单,越适合入门,★多的要么是难度比较高,要么是比较适合在后面看,比如讲性能之类的书.
 
 ### CSS
 - [CSS权威指南 （第3版）](http://book.douban.com/subject/2308234/)★★
