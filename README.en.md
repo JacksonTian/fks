@@ -20,7 +20,7 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [CoffeeScript](http://coffeescript.org/)
         - [TypeScript](http://www.typescriptlang.org/)
     - Slicing
-        - [HTML](http://www.w3.org/html/)/HTML5
+        - [HTML](http://www.w3.org/html/)/[HTML5](http://www.w3.org/TR/html5/)
         - [CSS](http://www.w3.org/Style/CSS/)/CSS3
         - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)
     - Development tools
