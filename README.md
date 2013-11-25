@@ -55,6 +55,7 @@ Frontend Knowledge Structure
         - [AngularJS](http://angularjs.org/)
             - [Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)
         - [Bootstrap](http://getbootstrap.com/)
+        - [Semantic UI](http://www.semantic-ui.com/)
     - 前端标准/规范
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
         - [ECMAScript3/5](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
