@@ -1,55 +1,54 @@
 Frontend Knowledge Structure
 ========
-## 项目起源
-还记得@jayli 的这幅前端知识结构图么。
+## Original purpose
+Once upon a time, there's a graph of Frontend Knowledge Structure original posted by @jayli ...
 
-![前端知识结构](https://raw.github.com/JacksonTian/fks/master/figures/fks.jpg)
+![Frontend Knowledge](https://raw.github.com/JacksonTian/fks/master/figures/fks.jpg)
 
-图片的形式具有诸多的不便。缺失源图的我们，无法为此图贡献些什么，随着时间的迁移，或许有些技术点会发生改变，所以有了这个github项目。我们可以通过协作的方式来共同维护这个项目。Git的历史记录也可以见证前端行业的一些变迁。
+A shortcoming of releasing the graph in form of picture is, as the technology develops, we can't make any contribution to the graph without its source file -- That is why this GitHub repository comes. In this repository, every one could contribute to the project. The development of frontend profession will also be written to the history by Git.
 
-尽管会变成文字的方式来维护这些内容，但是我承诺写一个小工具帮大家生成更好玩的图形（基于DataV项目）。
+Although the project would be maintained in plain text instead, I promise a small tool based on project DataV would be developed for us to generate more funny graphs.
 
-## 前端开发知识结构
-- 前端工程师
-    - 浏览器
+## Knowledge Structure of Frontend Development
+- Frontend Engineer
+    - Web browsers
         - IE6/[7](http://www.microsoft.com/zh-cn/download/details.aspx?id=2)/[8](http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-8)/[9](http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-9/worldwide-languages)/[10](http://windows.microsoft.com/zh-cn/windows-8/internet-explorer)
         - [Firefox](http://www.mozilla.org/en-US/)
         - [Chrome](http://www.google.com/chrome)/[Safari](http://www.apple.com/safari/)/[Opera](http://www.opera.com/)
-    - 编程语言
+    - Languages
         - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
         - [CoffeeScript](http://coffeescript.org/)
         - [TypeScript](http://www.typescriptlang.org/)
-    - 切页面
+    - Slicing
         - [HTML](http://www.w3.org/html/)/[HTML5](http://www.w3.org/TR/html5/)
-        - [CSS/CSS3](http://www.w3.org/Style/CSS/)
+        - [CSS](http://www.w3.org/Style/CSS/)/CSS3
         - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)
-    - 开发工具
+    - Development tools
         - IDE
             - [VIM](http://www.vim.org/)/[Sublime Text2](http://www.sublimetext.com/)
             - [Notepad++](http://notepad-plus-plus.org/)/[EditPlus](http://www.editplus.com/)
             - [WebStorm](http://www.jetbrains.com/webstorm/)
             - [Emacs](http://www.gnu.org/software/emacs/)  [EmacsWiki](http://emacswiki.org)
-        - 调试工具
+        - Debugging
             - [Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
             - [YSlow](http://developer.yahoo.com/yslow/)
             - [IEDeveloperToolbar](http://www.microsoft.com/en-us/download/details.aspx?id=18359)/[IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
             - [Fiddler](http://www.fiddler2.com/fiddler2/)
-            - [Charles](http://www.charlesproxy.com/)
             - [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/)
-        - 版本管理
+        - Source Version Control
             - [Git](git-scm.com/)/[SVN](http://subversion.apache.org/)
             - [Github](https://github.com/)/[Bitbucket](https://bitbucket.org/)/[Google Code](http://code.google.com/hosting/)
-    - 代码质量
+    - Code quality
         - Coding style
             - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)
             - [CSSLint](http://csslint.net/)
             - [Markup Validation Service](http://validator.w3.org/)
-        - 单元测试
+        - Unit testing
             - [QUnit](http://qunitjs.com/)/[Jasmine](http://pivotal.github.com/jasmine/)
             - [Mocha](http://visionmedia.github.com/mocha/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
-        - 自动化测试
-            - [WebDriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)/[Karma Runner](https://github.com/karma-runner/karma)
-    - 前端库/框架
+        - Auto-testing
+            - WebDriver/[Karma Runner](https://github.com/karma-runner/karma)
+    - Frontend libraries / frameworks
         - [jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)
         - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)
         - [Backbone](http://backbonejs.org/)/[KnockoutJS](http://knockoutjs.com/)/[Emberjs](http://emberjs.com/)
@@ -57,137 +56,136 @@ Frontend Knowledge Structure
             - [Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)
         - [Bootstrap](http://getbootstrap.com/)
         - [Semantic UI](http://www.semantic-ui.com/)
-    - 前端标准/规范
+    - Frontend standards / specifications
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
         - [ECMAScript3/5](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
         - [W3C/DOM/BOM/XHTML/XML/JSON/JSONP](http://www.w3.org/TR/)
         - [CommonJS Modules](http://wiki.commonjs.org/wiki/Modules/1.0)/[AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)
         - [HTML5](http://www.w3.org/html/wg/drafts/html/master/)/[CSS3](http://www.w3.org/Style/CSS/specs.en.html)
-    - 性能
+    - Performance
         - [JSPerf](http://jsperf.com/)
         - [YSlow 35 rules](http://developer.yahoo.com/performance/rules.html)
         - [PageSpeed](https://developers.google.com/speed/pagespeed/)
         - [HTTPWatch](http://www.httpwatch.com/)
         - [DynaTrace's Ajax](http://www.compuware.com/application-performance-management/dynatrace-ajax-download.html)
-        - [高性能JavaScript](http://book.douban.com/subject/5362856/)
-    - 编程知识储备
-        - 数据结构
+        - [High-performance JavaScript](http://book.douban.com/subject/5362856/)
+    - Knownledge base
+        - Data structure
         - OOP/AOP
-        - [原型链](http://net.tutsplus.com/tutorials/javascript-ajax/prototypes-in-javascript-what-you-need-to-know/)/作用域链
-        - [闭包](http://www.jibbering.com/faq/notes/closures/)
-        - 函数式编程
-        - [设计模式](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+        - [Prototype chain](http://net.tutsplus.com/tutorials/javascript-ajax/prototypes-in-javascript-what-you-need-to-know/)/Scope chain
+        - [Closure](http://www.jibbering.com/faq/notes/closures/)
+        - Functional Programming
+        - [Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
         - [Javascript Tips](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
-    - 部署流程
-        - 压缩合并
+    - Deployment flow
+        - Compressing and merging
             - [YUI Compressor](http://developer.yahoo.com/yui/compressor/)
             - [Google Clousure Complier](https://developers.google.com/closure/compiler/)
             - [UglifyJS](https://github.com/mishoo/UglifyJS)
             - [CleanCSS](https://github.com/GoalSmashers/clean-css)
-        - 文档输出
+        - Documentation generating
             - [JSDoc](http://code.google.com/p/jsdoc-toolkit/)
             - [Dox](https://github.com/visionmedia/dox)/[Doxmate](https://github.com/JacksonTian/doxmate)
-        - 项目构建工具
+        - Building
             - [make](http://www.gnu.org/software/make/)/[Ant](http://ant.apache.org/)
             - [GYP](http://code.google.com/p/gyp/)
             - [Grunt](http://gruntjs.com/)
             - [Yeoman](http://yeoman.io/)
-    - 代码组织
-        - 类库模块化
+    - Code organizing
+        - Modularizing libraries
             - [CommonJS](http://www.commonjs.org/)/AMD
-            - [YUI3模块](http://yuilibrary.com/projects/yui3/)
-        - 业务逻辑模块化
+            - YUI3 Modules
+        - Modularizing business logic
             - [bower](https://github.com/twitter/bower)/[component](https://github.com/component/component)
-        - 文件加载
+        - File loaders
             - [LABjs](http://labjs.com/)
             - [SeaJS](http://seajs.org/)/[Require.js](http://requirejs.org/)
-        - 模块化预处理器
+        - Modular preprocessor
             - [Browserify](https://github.com/substack/node-browserify)
-    - 安全
+    - Security
         - [CSRF](http://en.wikipedia.org/wiki/Cross-site_request_forgery)/[XSS](http://en.wikipedia.org/wiki/Cross-site_scripting)
         - ADsafe/Caja/Sandbox
-    - 移动Web
+    - Mobile Web
         - HTML5/CSS3
-        - 响应式设计
+        - Responsive
         - [Zeptojs](http://zeptojs.com/)/[iScroll](http://cubiq.org/iscroll)
         - V5/[Sencha Touch](http://www.sencha.com/products/touch)
         - [PhoneGap](http://phonegap.com/)
         - [jQuery Mobile](http://jquerymobile.com/)
-    - 前沿技术社区/会议
+    - Advanced technology communities/conferences
         - [D2](http://d2forum.org)/[WebRebuild](http://www.webrebuild.org/)
-        - NodeParty/[W3CTech](http://w3ctech.com)/[HTML5梦工厂](http://www.html5dw.com)
+        - NodeParty/[W3CTech](http://w3ctech.com)/[HTML5梦工厂(HTML5 Dreamworks)](http://www.html5dw.com)
         - [JSConf](http://jsconf.com/)/[沪JS(JSConf.cn)](http://jsconf.cn)
         - QCon/Velocity/SDCC
         - [JSConf](http://jsconf.com/)/[NodeConf](http://www.nodeconf.com/)
         - [CSSConf](http://cssconf.com/)
         - YDN/YUIConf
-    - 计算机知识储备
-        - 编译原理
-        - 计算机网络
-        - 操作系统
-        - 算法原理
-        - 软件工程/软件测试原理
-    - 软技能
-        - 知识管理/总结分享
-        - 沟通技巧/团队协作
-        - 需求管理/PM
-        - 交互设计/可用性/可访问性知识
-    - 可视化
+    - Computer knowledge
+        - Compilation principle
+        - Network
+        - OS
+        - Algorithm principle
+        - Software Engineering/Software testing principle
+    - Soft skills
+        - Knowledge Management/Sharing
+        - Communication/Teamwork
+        - Requirements Management/PM
+        - Interaction Design/Availability/Accessibility
+    - Visualization
         - SVG/Canvas/VML
         - [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[DataV](http://datavlab.org/datavjs/)
-- 后端工程师
-    - 编程语言
+- Backend Engineer
+    - Languages
         - C/C++/Java/PHP/Ruby/Python/...
-    - 服务器
+    - Server
         - [Nginx](http://nginx.org/en/)
         - [Apache](http://httpd.apache.org/)
-    - 数据库
+    - Databases
         - SQL
         - MySQL/PostgreSQL/Oracle
         - [MongoDB](http://www.mongodb.org/)/[CouchDB](http://couchdb.apache.org/)
-    - 数据缓存
+    - Data Caching
         - [Redis](http://redis.io/)
         - [Memcached](http://memcached.org/)
-    - 文件缓存/代理
+    - File Cashing/Proxying
         - [Varnish](https://www.varnish-cache.org/)
         - [Squid](http://www.squid-cache.org/)
-    - 操作系统
+    - OS
         - Unix/Linux/OS X/Windows
-    - 数据结构
+    - Data structure
 
-## 前端书籍推荐
-★越少越简单,越适合入门,★多的要么是难度比较高,要么是比较适合在后面看,比如讲性能之类的书.
+## Book Recommendations for Frontend-ers
+The ★ less and easier, the more suitable for starters
 
 ### CSS
-- [CSS权威指南 （第3版）](http://book.douban.com/subject/2308234/)★★
-- [精通CSS](http://book.douban.com/subject/4736167/)★★★
+- [CSS: The Definitive Guide (3rd Edition)](http://www.amazon.com/CSS-Definitive-Eric-A-Meyer/dp/0596527330/)★★
+- [CSS Mastery: Advanced Web Standards Solutions](http://www.amazon.com/CSS-Mastery-Advanced-Standards-Solutions/dp/1430223979/)★★★
 
 ### JavaScript
-- [JavaScript DOM编程艺术 （第2版）](http://book.douban.com/subject/6038371/)★
-- [JavaScript高级程序设计（第3版）](http://book.douban.com/subject/10546125/)★★
+- [DOM Scripting: Web Design with JavaScript and the Document Object Model](http://www.amazon.com/DOM-Scripting-Design-JavaScript-Document/dp/1430233893/)★
+- [Professional JavaScript for Web Developsers (Third Edition)](http://www.amazon.com/Professional-JavaScript-Developers-Nicholas-Zakas/dp/1118026691/)★★
 - [锋利的jQuery](http://book.douban.com/subject/10792216/)★★
-- [高性能JavaScript](http://book.douban.com/subject/5362856/)★★★
-- [JavaScript语言精粹](http://book.douban.com/subject/3590768/)★★★
-- [JavaScript权威指南](http://book.douban.com/subject/10549733/)★★★
-- [编写可维护的JavaScript](http://book.douban.com/subject/21792530/)★★★
+- [High Performance JavaScript](ihttp://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/)★★★
+- [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/)★★★
+- [JavaScript: The Definitive Guide (Sixth Edition)](http://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides/dp/0596805527/)★★★
+- [Maintainable JavaScript](http://www.amazon.com/Maintainable-JavaScript-Nicholas-C-Zakas/dp/1449327680/)★★★
 - [JAVASCRIPT语言精髓与编程实践](http://book.douban.com/subject/3012828/)★★★
 - [Effective Javascript](http://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)★★★
 - [Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)★★★
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)★★★★
-
-### 版本控制工具
-- [版本控制之道 (git)](http://book.douban.com/subject/4813786/)★★
+### VCS
+- [Pragmatic Version Control Using Git](http://book.douban.com/subject/3105192/)★★
 - [Git权威指南](http://book.douban.com/subject/6526452/)★★★★
 
-## 后端书籍推荐
-### Linux管理
+## Book Recommendations for Backend-ers
+### Linux management
 - [Linux 系统管理技术手册](http://book.douban.com/subject/3042029/)
 - [鸟哥的 Linux 私房菜](http://book.douban.com/subject/4889838/)
 - [Linux 101 Hacks](http://www.thegeekstuff.com/linux-101-hacks-free-ebook-non-english/)
 - [UNIX Shell Scripting](http://book.douban.com/subject/3519360/)
 - [The Linux Command Line](http://book.douban.com/subject/6806862/)
 
-### Linux编程
+### Linux programming
 - [Linux程序设计](http://book.douban.com/subject/4831448/)
 - [Linux系统编程](http://book.douban.com/subject/3907181/)
 - [Unix环境高级编程](http://book.douban.com/subject/1788421/)
@@ -209,8 +207,8 @@ Frontend Knowledge Structure
 - [C++编程思想](http://book.douban.com/subject/1094797/)
 - [高质量程序设计指南---C/C++语言](http://book.douban.com/subject/2116929/)
 
-## 内容贡献者
-除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成于2013-04-17：
+## Contributors
+Thanks to Jayli who provided the original graph and contributors below. Generated by `git-summary` at 2013/04/17.
 
 ```
 
