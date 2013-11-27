@@ -34,6 +34,7 @@ Frontend Knowledge Structure
             - [YSlow](http://developer.yahoo.com/yslow/)
             - [IEDeveloperToolbar](http://www.microsoft.com/en-us/download/details.aspx?id=18359)/[IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
             - [Fiddler](http://www.fiddler2.com/fiddler2/)
+            - [Charles](http://www.charlesproxy.com/)
             - [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/)
         - 版本管理
             - [Git](git-scm.com/)/[SVN](http://subversion.apache.org/)
