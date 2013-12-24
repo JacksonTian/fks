@@ -26,7 +26,7 @@ Frontend Knowledge Structure
     - 开发工具
         - IDE
             - [VIM](http://www.vim.org/)/[Sublime Text2](http://www.sublimetext.com/)
-	    - [Brackets](http://brackets.io/)
+		- [Brackets](http://brackets.io/)
             - [Notepad++](http://notepad-plus-plus.org/)/[EditPlus](http://www.editplus.com/)
             - [WebStorm](http://www.jetbrains.com/webstorm/)
             - [Emacs](http://www.gnu.org/software/emacs/)  [EmacsWiki](http://emacswiki.org)
