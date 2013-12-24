@@ -134,7 +134,8 @@ Although the project would be maintained in plain text instead, I promise a smal
         - Interaction Design/Availability/Accessibility
     - Visualization
         - SVG/Canvas/VML
-        - [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[DataV](http://datavlab.org/datavjs/)
+        - SVG: [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[Snap.svg](http://snapsvg.io/)/[DataV](http://datavlab.org/datavjs/)
+        - Canvas: [CreateJS](http://www.createjs.com/)/[KineticJS](http://kineticjs.com/)
 - Backend Engineer
     - Languages
         - C/C++/Java/PHP/Ruby/Python/...
