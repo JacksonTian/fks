@@ -30,6 +30,7 @@ Although the project would be maintained in plain text instead, I promise a smal
             - [Notepad++](http://notepad-plus-plus.org/)/[EditPlus](http://www.editplus.com/)
             - [WebStorm](http://www.jetbrains.com/webstorm/)
             - [Emacs](http://www.gnu.org/software/emacs/)  [EmacsWiki](http://emacswiki.org)
+            - [Brackets](http://brackets.io)
         - Debugging
             - [Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
             - [YSlow](http://developer.yahoo.com/yslow/)
@@ -162,6 +163,7 @@ The ★ less and easier, the more suitable for starters
 ### CSS
 - [CSS: The Definitive Guide (3rd Edition)](http://www.amazon.com/CSS-Definitive-Eric-A-Meyer/dp/0596527330/)★★
 - [CSS Mastery: Advanced Web Standards Solutions](http://www.amazon.com/CSS-Mastery-Advanced-Standards-Solutions/dp/1430223979/)★★★
+- [The Zen of CSS Design: Visual Enlightenment for the Web](http://www.amazon.com/The-Zen-CSS-Design-Enlightenment/dp/0321303474/)★★★
 
 ### JavaScript
 - [DOM Scripting: Web Design with JavaScript and the Document Object Model](http://www.amazon.com/DOM-Scripting-Design-JavaScript-Document/dp/1430233893/)★
@@ -175,6 +177,7 @@ The ★ less and easier, the more suitable for starters
 - [Effective Javascript](http://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)★★★
 - [Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)★★★
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)★★★★
+- [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X)★★★★
 ### VCS
 - [Pragmatic Version Control Using Git](http://book.douban.com/subject/3105192/)★★
 - [Git权威指南](http://book.douban.com/subject/6526452/)★★★★

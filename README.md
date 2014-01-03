@@ -30,6 +30,7 @@ Frontend Knowledge Structure
             - [Notepad++](http://notepad-plus-plus.org/)/[EditPlus](http://www.editplus.com/)
             - [WebStorm](http://www.jetbrains.com/webstorm/)
             - [Emacs](http://www.gnu.org/software/emacs/)  [EmacsWiki](http://emacswiki.org)
+            - [Brackets](http://brackets.io)
         - 调试工具
             - [Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
             - [YSlow](http://developer.yahoo.com/yslow/)
@@ -162,6 +163,7 @@ Frontend Knowledge Structure
 ### CSS
 - [CSS权威指南 （第3版）](http://book.douban.com/subject/2308234/)★★
 - [精通CSS](http://book.douban.com/subject/4736167/)★★★
+- [CSS禅意花园](http://book.douban.com/subject/2052176/)★★★
 
 ### JavaScript
 - [JavaScript DOM编程艺术 （第2版）](http://book.douban.com/subject/6038371/)★
@@ -175,6 +177,7 @@ Frontend Knowledge Structure
 - [Effective Javascript](http://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)★★★
 - [Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)★★★
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)★★★★
+- [基于MVC的JavaScript Web富应用开发](http://book.douban.com/subject/10733304/)★★★
 
 ### 版本控制工具
 - [版本控制之道 (git)](http://book.douban.com/subject/4813786/)★★
