@@ -49,6 +49,7 @@ Although the project would be maintained in plain text instead, I promise a smal
             - [Mocha](http://visionmedia.github.com/mocha/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
         - Auto-testing
             - [WebDriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)/[Karma Runner](https://github.com/karma-runner/karma)/[Sahi](http://sahi.co.in/)
+            - [phantomjs](http://phantomjs.org/)
     - Frontend libraries / frameworks
         - [jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)
         - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)/[KISSY](http://docs.kissyui.com/)
@@ -92,6 +93,7 @@ Although the project would be maintained in plain text instead, I promise a smal
             - [GYP](http://code.google.com/p/gyp/)
             - [Grunt](http://gruntjs.com/)
             - [Yeoman](http://yeoman.io/)
+            - [FIS](http://fis.baidu.com/)
     - Code organizing
         - Modularizing libraries
             - [CommonJS](http://www.commonjs.org/)/AMD
@@ -121,6 +123,7 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [JSConf](http://jsconf.com/)/[NodeConf](http://www.nodeconf.com/)
         - [CSSConf](http://cssconf.com/)
         - YDN/YUIConf
+        - HybridApp
     - Computer knowledge
         - Compilation principle
         - Network
@@ -142,6 +145,7 @@ Although the project would be maintained in plain text instead, I promise a smal
     - Server
         - [Nginx](http://nginx.org/en/)
         - [Apache](http://httpd.apache.org/)
+        - [Nodejs](http://nodejs.org/)
     - Databases
         - SQL
         - MySQL/PostgreSQL/Oracle
