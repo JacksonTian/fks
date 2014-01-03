@@ -218,25 +218,42 @@ Frontend Knowledge Structure
 - [Inside the C++ Object Model](http://book.douban.com/subject/1484262/)
 
 ## 内容贡献者
-除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成于2013-04-17：
+除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成于2014-01-03：
 
 ```
 
  project  : fks
- repo age : 6 months
- active   : 23 days
- commits  : 46
- files    : 3
- authors  :
-    31  Jackson Tian            67.4%
-     3  fengxiaolong            6.5%
-     3  吴晓兰               6.5%
-     2  Johnny                  4.3%
-     2  Yinkan Li               4.3%
-     1  李亚川               2.2%
-     1  XiNGRZ                  2.2%
-     1  browsnet                2.2%
-     1  monkadd                 2.2%
-     1  Evan You                2.2%
+ repo age : 1 year, 3 months
+ active   : 53 days
+ commits  : 108
+ files    : 4
+ authors  : 
+    56  Jackson Tian            51.9%
+     9  吴晓兰               8.3%
+     5  liyinkan                4.6%
+     3  chriscai                2.8%
+     3  fengxiaolong            2.8%
+     3  XiNGRZ                  2.8%
+     2  monkadd                 1.9%
+     2  Johnny                  1.9%
+     2  weiwenqing              1.9%
+     2  Yinkan Li               1.9%
+     2  Copypeng                1.9%
+     2  左岸                  1.9%
+     2  Jakukyo Friel           1.9%
+     2  Glowin                  1.9%
+     1  李亚川               0.9%
+     1  Evan You                0.9%
+     1  Mickey                  0.9%
+     1  Mickey-                 0.9%
+     1  Qi Junyuan              0.9%
+     1  browsnet                0.9%
+     1  doabit                  0.9%
+     1  guoxiangyang            0.9%
+     1  linkgod                 0.9%
+     1  popomore                0.9%
+     1  vipzhicheng             0.9%
+     1  zhaqiang                0.9%
+     1  Colin Luo               0.9%
 
 ```
