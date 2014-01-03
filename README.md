@@ -145,7 +145,6 @@ Frontend Knowledge Structure
     - 服务器
         - [Nginx](http://nginx.org/en/)
         - [Apache](http://httpd.apache.org/)
-        - [Nodejs](http://nodejs.org/)
     - 数据库
         - SQL
         - MySQL/PostgreSQL/Oracle
@@ -236,6 +235,5 @@ Frontend Knowledge Structure
      1  browsnet                2.2%
      1  monkadd                 2.2%
      1  Evan You                2.2%
-     1  左岸                    2.2%
 
 ```
