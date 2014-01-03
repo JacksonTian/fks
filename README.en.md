@@ -235,5 +235,6 @@ Thanks to Jayli who provided the original graph and contributors below. Generate
      1  browsnet                2.2%
      1  monkadd                 2.2%
      1  Evan You                2.2%
+     1  Mickey-                 2.2%
 
 ```
