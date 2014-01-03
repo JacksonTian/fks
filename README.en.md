@@ -145,7 +145,6 @@ Although the project would be maintained in plain text instead, I promise a smal
     - Server
         - [Nginx](http://nginx.org/en/)
         - [Apache](http://httpd.apache.org/)
-        - [Nodejs](http://nodejs.org/)
     - Databases
         - SQL
         - MySQL/PostgreSQL/Oracle
@@ -235,6 +234,5 @@ Thanks to Jayli who provided the original graph and contributors below. Generate
      1  browsnet                2.2%
      1  monkadd                 2.2%
      1  Evan You                2.2%
-     1  Mickey-                 2.2%
 
 ```
