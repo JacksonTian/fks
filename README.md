@@ -174,7 +174,9 @@ Frontend Knowledge Structure
 - [JAVASCRIPT语言精髓与编程实践](http://book.douban.com/subject/3012828/)★★★
 - [Effective Javascript](http://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)★★★
 - [Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)★★★
+- [JavaScript模式](http://book.douban.com/subject/11506062/)★★★
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)★★★★
+- [JavaScript设计模式](http://book.douban.com/subject/24744217/)★★★★
 
 ### 版本控制工具
 - [版本控制之道 (git)](http://book.douban.com/subject/4813786/)★★
