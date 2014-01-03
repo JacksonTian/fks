@@ -50,6 +50,7 @@ Frontend Knowledge Structure
             - [Mocha](http://visionmedia.github.com/mocha/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
         - 自动化测试
             - [WebDriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)/[Karma Runner](https://github.com/karma-runner/karma)/[Sahi](http://sahi.co.in/)
+            - [phantomjs](http://phantomjs.org/)
     - 前端库/框架
         - [jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)
         - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)/[KISSY](http://docs.kissyui.com/)
@@ -93,6 +94,7 @@ Frontend Knowledge Structure
             - [GYP](http://code.google.com/p/gyp/)
             - [Grunt](http://gruntjs.com/)
             - [Yeoman](http://yeoman.io/)
+            - [FIS](http://fis.baidu.com/)
     - 代码组织
         - 类库模块化
             - [CommonJS](http://www.commonjs.org/)/AMD
@@ -122,6 +124,7 @@ Frontend Knowledge Structure
         - [JSConf](http://jsconf.com/)/[NodeConf](http://www.nodeconf.com/)
         - [CSSConf](http://cssconf.com/)
         - YDN/YUIConf
+        - HybridApp
     - 计算机知识储备
         - 编译原理
         - 计算机网络
