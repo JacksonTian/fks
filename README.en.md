@@ -177,6 +177,7 @@ The ★ less and easier, the more suitable for starters
 - [JavaScript Patterns](http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752)★★★
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)★★★★
 - [Learning JavaScript Design Patterns](http://www.amazon.com/Learning-JavaScript-Design-Patterns-Osmani/dp/1449331815)★★★★
+
 ### VCS
 - [Pragmatic Version Control Using Git](http://book.douban.com/subject/3105192/)★★
 - [Git权威指南](http://book.douban.com/subject/6526452/)★★★★
