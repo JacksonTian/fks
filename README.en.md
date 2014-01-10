@@ -179,6 +179,7 @@ The ★ less and easier, the more suitable for starters
 - [JAVASCRIPT语言精髓与编程实践](http://book.douban.com/subject/3012828/)★★★
 - [Effective Javascript](http://www.amazon.com/Effective-JavaScript-Specific-Software-Development/dp/0321812182)★★★
 - [Secrets of the JavaScript Ninja](http://book.douban.com/subject/3176860/)★★★
+- [JavaScript Patterns](http://www.amazon.cn/JavaScript-Patterns-Stefanov-Stoyan/dp/0596806752)★★★
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)★★★★
 - [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X)★★★★
 
