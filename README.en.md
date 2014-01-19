@@ -30,7 +30,6 @@ Although the project would be maintained in plain text instead, I promise a smal
             - [Notepad++](http://notepad-plus-plus.org/)/[EditPlus](http://www.editplus.com/)
             - [WebStorm](http://www.jetbrains.com/webstorm/)
             - [Emacs](http://www.gnu.org/software/emacs/)  [EmacsWiki](http://emacswiki.org)
-            - [Brackets](http://brackets.io)
         - Debugging
             - [Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
             - [YSlow](http://developer.yahoo.com/yslow/)
