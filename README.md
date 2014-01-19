@@ -94,6 +94,7 @@ Frontend Knowledge Structure
             - [Grunt](http://gruntjs.com/)
             - [Yeoman](http://yeoman.io/)
             - [FIS](http://fis.baidu.com/)
+            - [Mod](https://github.com/modulejs/modjs)
     - 代码组织
         - 类库模块化
             - [CommonJS](http://www.commonjs.org/)/AMD

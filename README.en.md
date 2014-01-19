@@ -95,6 +95,7 @@ Although the project would be maintained in plain text instead, I promise a smal
             - [Grunt](http://gruntjs.com/)
             - [Yeoman](http://yeoman.io/)
             - [FIS](http://fis.baidu.com/)
+            - [Mod](https://github.com/modulejs/modjs)
     - Code organizing
         - Modularizing libraries
             - [CommonJS](http://www.commonjs.org/)/AMD
