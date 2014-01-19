@@ -12,7 +12,7 @@ Frontend Knowledge Structure
 ## 前端开发知识结构
 - 前端工程师
     - 浏览器
-        - IE6/[7](http://www.microsoft.com/zh-cn/download/details.aspx?id=2)/[8](http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-8)/[9](http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-9/worldwide-languages)/[10](http://windows.microsoft.com/zh-cn/windows-8/internet-explorer)
+        - IE6/[7](http://www.microsoft.com/zh-cn/download/details.aspx?id=2)/[8](http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-8)/[9](http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-9/worldwide-languages)/[10](http://windows.microsoft.com/zh-CN/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/zh-CN/internet-explorer/ie-11-worldwide-languages)
         - [Firefox](http://www.mozilla.org/en-US/)
         - [Chrome](http://www.google.com/chrome)/[Safari](http://www.apple.com/safari/)/[Opera](http://www.opera.com/)
     - 编程语言
