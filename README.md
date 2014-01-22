@@ -164,6 +164,7 @@ Frontend Knowledge Structure
 ★越少越简单,越适合入门,★多的要么是难度比较高,要么是比较适合在后面看,比如讲性能之类的书.
 
 ### CSS
+- [Eric Meyer 谈 CSS（卷二）](http://www.amazon.cn/Eric-Meyer-谈-CSS-迈耶/dp/B00170M84I/)★★★
 - [CSS权威指南 （第3版）](http://book.douban.com/subject/2308234/)★★
 - [精通CSS](http://book.douban.com/subject/4736167/)★★★
 - [CSS禅意花园](http://book.douban.com/subject/2052176/)★★★
