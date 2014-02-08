@@ -87,7 +87,7 @@ Frontend Knowledge Structure
             - [CleanCSS](https://github.com/GoalSmashers/clean-css)
         - 文档输出
             - [JSDoc](http://code.google.com/p/jsdoc-toolkit/)
-            - [Dox](https://github.com/visionmedia/dox)/[Doxmate](https://github.com/JacksonTian/doxmate)
+            - [Dox](https://github.com/visionmedia/dox)/[Doxmate](https://github.com/JacksonTian/doxmate)/[Grunt-Doxmate](https://github.com/luozhihua/grunt-doxmate)
         - 项目构建工具
             - [make](http://www.gnu.org/software/make/)/[Ant](http://ant.apache.org/)
             - [GYP](http://code.google.com/p/gyp/)
