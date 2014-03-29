@@ -167,7 +167,6 @@ The ★ less and easier, the more suitable for starters
 - [More Eric Meyer on CSS](http://www.amazon.com/More-Eric-Meyer-Voices-Matter/dp/0735714258/)★★★
 - [CSS: The Definitive Guide (3rd Edition)](http://www.amazon.com/CSS-Definitive-Eric-A-Meyer/dp/0596527330/)★★
 - [CSS Mastery: Advanced Web Standards Solutions](http://www.amazon.com/CSS-Mastery-Advanced-Standards-Solutions/dp/1430223979/)★★★
-- [The Zen of CSS Design: Visual Enlightenment for the Web](http://www.amazon.com/The-Zen-CSS-Design-Enlightenment/dp/0321303474/)★★★
 
 ### JavaScript
 - [DOM Scripting: Web Design with JavaScript and the Document Object Model](http://www.amazon.com/DOM-Scripting-Design-JavaScript-Document/dp/1430233893/)★
