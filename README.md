@@ -41,7 +41,7 @@ Frontend Knowledge Structure
             - [Github](https://github.com/)/[Bitbucket](https://bitbucket.org/)/[Google Code](http://code.google.com/hosting/)
     - 代码质量
         - Coding style
-            - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)
+            - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)/[jscs](https://github.com/mdevils/node-jscs)
             - [CSSLint](http://csslint.net/)
             - [Markup Validation Service](http://validator.w3.org/)
         - 单元测试
