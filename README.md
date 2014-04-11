@@ -46,8 +46,8 @@ Frontend Knowledge Structure
             - [DebugBar](http://www.debugbar.com/)
             - [Venkman](https://developer.mozilla.org/en-US/docs/Venkman)
         - 版本管理
-            - [Git](git-scm.com/)/[SVN](http://subversion.apache.org/)
-            - [Github](https://github.com/)/[Bitbucket](https://bitbucket.org/)/[Google Code](http://code.google.com/hosting/)
+            - [Git](git-scm.com/)/[SVN](http://subversion.apache.org/)/[Mercurial](http://mercurial.selenic.com/)
+            - [Github](https://github.com/)/[Bitbucket](https://bitbucket.org/)/[Google Code](http://code.google.com/hosting/)/[Gitorious](https://gitorious.org/)/[GNU Savannah](http://savannah.gnu.org/)/[Launchpad](https://launchpad.net/)/[SourceForge](http://sourceforge.net/)
     - 代码质量
         - Coding style
             - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)
