@@ -204,6 +204,7 @@ Frontend Knowledge Structure
 - [Linux 101 Hacks](http://www.thegeekstuff.com/linux-101-hacks-free-ebook-non-english/)
 - [UNIX Shell Scripting](http://book.douban.com/subject/3519360/)
 - [The Linux Command Line](http://book.douban.com/subject/6806862/)
+- [Linux Network Administrator's Guide](http://oreilly.com/openbook/linag2/book/index.html)
 
 ### Linux编程
 - [Linux程序设计](http://book.douban.com/subject/4831448/)
@@ -227,6 +228,11 @@ Frontend Knowledge Structure
 - [C++编程思想](http://book.douban.com/subject/1094797/)
 - [高质量程序设计指南---C/C++语言](http://book.douban.com/subject/2116929/)
 - [Inside the C++ Object Model](http://book.douban.com/subject/1484262/)
+- [A Tour of C++](http://www.stroustrup.com/Tour.html)
+- [The C++ Programming Language](http://en.wikipedia.org/wiki/The_C%2B%2B_Programming_Language)
+- [The C++ Standard Library - A Tutorial and Reference](http://www.cppstdlib.com/)
+- [The C++ Standard (INCITS/ISO/IEC 14882-2011)](http://webstore.ansi.org/RecordDetail.aspx?sku=INCITS%2fISO%2fIEC+14882-2012)
+- [Overview of the New C++](http://www.artima.com/shop/overview_of_the_new_cpp)
 
 ## 内容贡献者
 除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成于2014-01-03：
