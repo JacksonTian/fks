@@ -5,7 +5,7 @@ Frontend Knowledge Structure
 
 ![前端知识结构](https://raw.github.com/JacksonTian/fks/master/figures/fks.jpg)
 
-图片的形式具有诸多的不便。缺失源图的我们，无法为此图贡献些什么，随着时间的迁移，或许有些技术点会发生改变，所以有了这个github项目。我们可以通过协作的方式来共同维护这个项目。Git的历史记录也可以见证前端行业的一些变迁。
+图片的形式具有诸多的不便。缺失源图的我们，无法为此图贡献些什么，随着时间的迁移，或许有些技术点会发生改变，所以有了这个GitHub项目。我们可以通过协作的方式来共同维护这个项目。Git的历史记录也可以见证前端行业的一些变迁。
 
 尽管会变成文字的方式来维护这些内容，但是我承诺写一个小工具帮大家生成更好玩的图形（基于DataV项目）。
 
@@ -14,7 +14,9 @@ Frontend Knowledge Structure
     - 浏览器
         - IE6/[7](http://www.microsoft.com/zh-cn/download/details.aspx?id=2)/[8](http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-8)/[9](http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-9/worldwide-languages)/[10](http://windows.microsoft.com/zh-CN/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/zh-CN/internet-explorer/ie-11-worldwide-languages)
         - [Firefox](http://www.mozilla.org/en-US/)
-        - [Chrome](http://www.google.com/chrome)/[Safari](http://www.apple.com/safari/)/[Opera](http://www.opera.com/)
+        - [Chrome](http://www.google.com/chrome)/[Chromium](http://www.chromium.org/)
+        - [Safari](http://www.apple.com/safari/)
+        - [Opera](http://www.opera.com/)
     - 编程语言
         - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
         - [CoffeeScript](http://coffeescript.org/)

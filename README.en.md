@@ -14,8 +14,10 @@ Although the project would be maintained in plain text instead, I promise a smal
     - Web browsers
         - IE6/[7](http://www.microsoft.com/en-US/download/details.aspx?id=2)/[8](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-8)/[9](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-9/worldwide-languages)/[10](http://windows.microsoft.com/en-US/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/en-US/internet-explorer/ie-11-worldwide-languages)
         - [Firefox](http://www.mozilla.org/en-US/)
-        - [Chrome](http://www.google.com/chrome)/[Safari](http://www.apple.com/safari/)/[Opera](http://www.opera.com/)
-    - Languages
+        - [Chrome](http://www.google.com/chrome)/[Chromium](http://www.chromium.org/)
+        - [Safari](http://www.apple.com/safari/)
+        - [Opera](http://www.opera.com/)
+    - Programming Languages
         - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
         - [CoffeeScript](http://coffeescript.org/)
         - [TypeScript](http://www.typescriptlang.org/)
