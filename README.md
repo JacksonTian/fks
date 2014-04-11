@@ -26,12 +26,16 @@ Frontend Knowledge Structure
         - [CSS/CSS3](http://www.w3.org/Style/CSS/)
         - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)/[GIMP](http://www.gimp.org/)
     - 开发工具
-        - IDE
+        - 编辑器和IDE
             - [VIM](http://www.vim.org/)/[Sublime Text2](http://www.sublimetext.com/)
             - [Notepad++](http://notepad-plus-plus.org/)/[EditPlus](http://www.editplus.com/)
             - [WebStorm](http://www.jetbrains.com/webstorm/)
             - [Emacs](http://www.gnu.org/software/emacs/)  [EmacsWiki](http://emacswiki.org)
             - [Brackets](http://brackets.io)
+            - [Komodo IDE / Edit](http://www.activestate.com/komodo-edit)
+            - [Eclipse](http://www.eclipse.org/)
+            - [Visual Studio](http://www.visualstudio.com/)
+            - [NetBeans](https://netbeans.org/)
         - 调试工具
             - [Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
             - [YSlow](http://developer.yahoo.com/yslow/)
