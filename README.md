@@ -81,11 +81,11 @@ Frontend Knowledge Structure
         - [DynaTrace's Ajax](http://www.compuware.com/application-performance-management/dynatrace-ajax-download.html)
         - [高性能JavaScript](http://book.douban.com/subject/5362856/)
     - 编程知识储备
-        - 数据结构
+        - [数据结构](http://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
         - OOP/AOP
         - [原型链](http://net.tutsplus.com/tutorials/javascript-ajax/prototypes-in-javascript-what-you-need-to-know/)/作用域链
         - [闭包](http://www.jibbering.com/faq/notes/closures/)
-        - 函数式编程
+        - [编程范型](http://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B%E8%8C%83%E5%9E%8B)
         - [设计模式](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
         - [Javascript Tips](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
     - 部署流程
@@ -120,7 +120,7 @@ Frontend Knowledge Structure
         - ADsafe/Caja/Sandbox
     - 移动Web
         - HTML5/CSS3
-        - 响应式设计
+        - [响应式网页设计](http://zh.wikipedia.org/wiki/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1)
         - [Zeptojs](http://zeptojs.com/)/[iScroll](http://cubiq.org/iscroll)
         - V5/[Sencha Touch](http://www.sencha.com/products/touch)
         - [PhoneGap](http://phonegap.com/)
@@ -136,8 +136,8 @@ Frontend Knowledge Structure
         - HybridApp
     - 计算机知识储备
         - 编译原理
-        - 计算机网络
-        - 操作系统
+        - [计算机网络](http://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
+        - [操作系统](http://zh.wikipedia.org/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
         - 算法原理
         - 软件工程/软件测试原理
     - 软技能
@@ -152,12 +152,13 @@ Frontend Knowledge Structure
 - 后端工程师
     - 编程语言
         - C/C++/Java/PHP/Ruby/Python/...
-    - 服务器
+    - 网页服务器
         - [Nginx](http://nginx.org/en/)
         - [Apache](http://httpd.apache.org/)
+        - [Lighttpd](http://www.lighttpd.net/)
     - 数据库
         - SQL
-        - MySQL/PostgreSQL/Oracle
+        - [MySQL](http://www.mysql.com/)/[PostgreSQL](http://www.postgresql.org/)/[Oracle](http://www.oracle.com/us/products/database/overview/index.html)
         - [MongoDB](http://www.mongodb.org/)/[CouchDB](http://couchdb.apache.org/)
     - 数据缓存
         - [Redis](http://redis.io/)

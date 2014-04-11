@@ -80,12 +80,12 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [HTTPWatch](http://www.httpwatch.com/)
         - [DynaTrace's Ajax](http://www.compuware.com/application-performance-management/dynatrace-ajax-download.html)
         - [High-performance JavaScript](http://book.douban.com/subject/5362856/)
-    - Knownledge base
-        - Data structure
+    - General programming knowledge
+        - [Data structure](http://en.wikipedia.org/wiki/Data_structure)
         - OOP/AOP
         - [Prototype chain](http://net.tutsplus.com/tutorials/javascript-ajax/prototypes-in-javascript-what-you-need-to-know/)/Scope chain
         - [Closure](http://www.jibbering.com/faq/notes/closures/)
-        - Functional Programming
+        - [Programming paradigms](http://en.wikipedia.org/wiki/Programming_paradigm)
         - [Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
         - [Javascript Tips](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
     - Deployment flow
@@ -120,7 +120,7 @@ Although the project would be maintained in plain text instead, I promise a smal
         - ADsafe/Caja/Sandbox
     - Mobile Web
         - HTML5/CSS3
-        - Responsive
+        - [Responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design)
         - [Zeptojs](http://zeptojs.com/)/[iScroll](http://cubiq.org/iscroll)
         - V5/[Sencha Touch](http://www.sencha.com/products/touch)
         - [PhoneGap](http://phonegap.com/)
@@ -134,10 +134,10 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [CSSConf](http://cssconf.com/)
         - YDN/YUIConf
         - HybridApp
-    - Computer knowledge
+    - Computer science
         - Compilation principle
-        - Network
-        - OS
+        - [Computer network](http://en.wikipedia.org/wiki/Computer_network)
+        - [OS](http://en.wikipedia.org/wiki/Operating_system)
         - Algorithm principle
         - Software Engineering/Software testing principle
     - Soft skills
@@ -150,14 +150,15 @@ Although the project would be maintained in plain text instead, I promise a smal
         - SVG: [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[Snap.svg](http://snapsvg.io/)/[DataV](http://datavlab.org/datavjs/)
         - Canvas: [CreateJS](http://www.createjs.com/)/[KineticJS](http://kineticjs.com/)
 - Backend Engineer
-    - Languages
+    - Programming languages
         - C/C++/Java/PHP/Ruby/Python/...
-    - Server
+    - Web server
         - [Nginx](http://nginx.org/en/)
         - [Apache](http://httpd.apache.org/)
+        - [Lighttpd](http://www.lighttpd.net/)
     - Databases
         - SQL
-        - MySQL/PostgreSQL/Oracle
+        - [MySQL](http://www.mysql.com/)/[PostgreSQL](http://www.postgresql.org/)/[Oracle](http://www.oracle.com/us/products/database/overview/index.html)
         - [MongoDB](http://www.mongodb.org/)/[CouchDB](http://couchdb.apache.org/)
     - Data Caching
         - [Redis](http://redis.io/)
