@@ -12,15 +12,16 @@ Frontend Knowledge Structure
 ## 前端开发知识结构
 - 前端工程师
     - 浏览器
-        - IE6/[7](http://www.microsoft.com/zh-cn/download/details.aspx?id=2)/[8](http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-8)/[9](http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-9/worldwide-languages)/[10](http://windows.microsoft.com/zh-CN/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/zh-CN/internet-explorer/ie-11-worldwide-languages)
-        - [Firefox](http://www.mozilla.org/en-US/)
-        - [Chrome](http://www.google.com/chrome)/[Chromium](http://www.chromium.org/)
-        - [Safari](http://www.apple.com/safari/)
-        - [Opera](http://www.opera.com/)
+        - IE6/[7](http://www.microsoft.com/en-US/download/details.aspx?id=2)/[8](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-8)/[9](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-9/worldwide-languages)/[10](http://windows.microsoft.com/en-US/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/en-US/internet-explorer/ie-11-worldwide-languages) (Trident)
+        - [Firefox](http://www.mozilla.org/en-US/) (Gecko)
+        - [Chrome](http://www.google.com/chrome)/[Chromium](http://www.chromium.org/) (Blink)
+        - [Safari](http://www.apple.com/safari/) (WebKit)
+        - [Opera](http://www.opera.com/) (Blink)
     - 编程语言
         - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
         - [CoffeeScript](http://coffeescript.org/)
         - [TypeScript](http://www.typescriptlang.org/)
+        - [Dart](https://www.dartlang.org/)
     - 切页面
         - [HTML](http://www.w3.org/html/)/[HTML5](http://www.w3.org/TR/html5/)
         - [CSS/CSS3](http://www.w3.org/Style/CSS/)
@@ -36,6 +37,7 @@ Frontend Knowledge Structure
             - [Eclipse](http://www.eclipse.org/)
             - [Visual Studio](http://www.visualstudio.com/)
             - [NetBeans](https://netbeans.org/)
+            - [Cloud9 IDE](http://c9.io/)
         - 调试工具
             - [Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
             - [YSlow](http://developer.yahoo.com/yslow/)
@@ -56,6 +58,7 @@ Frontend Knowledge Structure
         - 单元测试
             - [QUnit](http://qunitjs.com/)/[Jasmine](http://pivotal.github.com/jasmine/)
             - [Mocha](http://visionmedia.github.com/mocha/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
+            - [Unit JS](http://unitjs.com/)
         - 自动化测试
             - [WebDriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)/[Karma Runner](https://github.com/karma-runner/karma)/[Sahi](http://sahi.co.in/)
             - [phantomjs](http://phantomjs.org/)
@@ -67,6 +70,8 @@ Frontend Knowledge Structure
             - [Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)
         - [Bootstrap](http://getbootstrap.com/)
         - [Semantic UI](http://www.semantic-ui.com/)
+        - [ASP.NET Ajax](http://www.asp.net/ajax)
+        - [Web Atoms](http://webatomsjs.neurospeech.com/)
     - 前端标准/规范
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
         - [ECMAScript3/5](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
@@ -134,6 +139,7 @@ Frontend Knowledge Structure
         - [CSSConf](http://cssconf.com/)
         - YDN/YUIConf
         - HybridApp
+        - [WHATWG](http://whatwg.org/)
     - 计算机知识储备
         - 编译原理
         - [计算机网络](http://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
