@@ -5,16 +5,18 @@ Frontend Knowledge Structure
 
 ![前端知识结构](https://raw.github.com/JacksonTian/fks/master/figures/fks.jpg)
 
-图片的形式具有诸多的不便。缺失源图的我们，无法为此图贡献些什么，随着时间的迁移，或许有些技术点会发生改变，所以有了这个github项目。我们可以通过协作的方式来共同维护这个项目。Git的历史记录也可以见证前端行业的一些变迁。
+图片的形式具有诸多的不便。缺失源图的我们，无法为此图贡献些什么，随着时间的迁移，或许有些技术点会发生改变，所以有了这个GitHub项目。我们可以通过协作的方式来共同维护这个项目。Git的历史记录也可以见证前端行业的一些变迁。
 
 尽管会变成文字的方式来维护这些内容，但是我承诺写一个小工具帮大家生成更好玩的图形（基于DataV项目）。
 
 ## 前端开发知识结构
 - 前端工程师
     - 浏览器
-        - IE6/[7](http://www.microsoft.com/zh-cn/download/details.aspx?id=2)/[8](http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-8)/[9](http://windows.microsoft.com/zh-CN/internet-explorer/downloads/ie-9/worldwide-languages)/[10](http://windows.microsoft.com/zh-CN/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/zh-CN/internet-explorer/ie-11-worldwide-languages)
-        - [Firefox](http://www.mozilla.org/en-US/)
-        - [Chrome](http://www.google.com/chrome)/[Safari](http://www.apple.com/safari/)/[Opera](http://www.opera.com/)
+        - IE6/[7](http://www.microsoft.com/en-US/download/details.aspx?id=2)/[8](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-8)/[9](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-9/worldwide-languages)/[10](http://windows.microsoft.com/en-US/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/en-US/internet-explorer/ie-11-worldwide-languages) (Trident)
+        - [Firefox](http://www.mozilla.org/en-US/) (Gecko)
+        - [Chrome](http://www.google.com/chrome)/[Chromium](http://www.chromium.org/) (Blink)
+        - [Safari](http://www.apple.com/safari/) (WebKit)
+        - [Opera](http://www.opera.com/) (Blink)
     - 编程语言
         - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
         - [CoffeeScript](http://coffeescript.org/)
@@ -22,23 +24,31 @@ Frontend Knowledge Structure
     - 切页面
         - [HTML](http://www.w3.org/html/)/[HTML5](http://www.w3.org/TR/html5/)
         - [CSS/CSS3](http://www.w3.org/Style/CSS/)
-        - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)
+        - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)/[GIMP](http://www.gimp.org/)
     - 开发工具
-        - IDE
+        - 编辑器和IDE
             - [VIM](http://www.vim.org/)/[Sublime Text2](http://www.sublimetext.com/)
             - [Notepad++](http://notepad-plus-plus.org/)/[EditPlus](http://www.editplus.com/)
             - [WebStorm](http://www.jetbrains.com/webstorm/)
             - [Emacs](http://www.gnu.org/software/emacs/)  [EmacsWiki](http://emacswiki.org)
             - [Brackets](http://brackets.io)
+            - [Komodo IDE / Edit](http://www.activestate.com/komodo-edit)
+            - [Eclipse](http://www.eclipse.org/)
+            - [Visual Studio](http://www.visualstudio.com/)
+            - [NetBeans](https://netbeans.org/)
+            - [Cloud9 IDE](http://c9.io/)
         - 调试工具
             - [Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
             - [YSlow](http://developer.yahoo.com/yslow/)
             - [IEDeveloperToolbar](http://www.microsoft.com/en-us/download/details.aspx?id=18359)/[IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
             - [Fiddler](http://www.fiddler2.com/fiddler2/)
             - [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/)
+            - [Dragonfly](http://www.opera.com/dragonfly/)
+            - [DebugBar](http://www.debugbar.com/)
+            - [Venkman](https://developer.mozilla.org/en-US/docs/Venkman)
         - 版本管理
-            - [Git](git-scm.com/)/[SVN](http://subversion.apache.org/)
-            - [Github](https://github.com/)/[Bitbucket](https://bitbucket.org/)/[Google Code](http://code.google.com/hosting/)
+            - [Git](git-scm.com/)/[SVN](http://subversion.apache.org/)/[Mercurial](http://mercurial.selenic.com/)
+            - [Github](https://github.com/)/[Bitbucket](https://bitbucket.org/)/[Google Code](http://code.google.com/hosting/)/[Gitorious](https://gitorious.org/)/[GNU Savannah](http://savannah.gnu.org/)/[Launchpad](https://launchpad.net/)/[SourceForge](http://sourceforge.net/)
     - 代码质量
         - Coding style
             - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)/[jscs](https://github.com/mdevils/node-jscs)
@@ -47,6 +57,7 @@ Frontend Knowledge Structure
         - 单元测试
             - [QUnit](http://qunitjs.com/)/[Jasmine](http://pivotal.github.com/jasmine/)
             - [Mocha](http://visionmedia.github.com/mocha/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
+            - [Unit JS](http://unitjs.com/)
         - 自动化测试
             - [WebDriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)/[Karma Runner](https://github.com/karma-runner/karma)/[Sahi](http://sahi.co.in/)
             - [phantomjs](http://phantomjs.org/)
@@ -58,6 +69,8 @@ Frontend Knowledge Structure
             - [Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)
         - [Bootstrap](http://getbootstrap.com/)
         - [Semantic UI](http://www.semantic-ui.com/)
+        - [Juice UI](http://juiceui.com/)
+        - [Web Atoms](http://webatomsjs.neurospeech.com/)
     - 前端标准/规范
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
         - [ECMAScript3/5](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
@@ -72,11 +85,11 @@ Frontend Knowledge Structure
         - [DynaTrace's Ajax](http://www.compuware.com/application-performance-management/dynatrace-ajax-download.html)
         - [高性能JavaScript](http://book.douban.com/subject/5362856/)
     - 编程知识储备
-        - 数据结构
+        - [数据结构](http://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
         - OOP/AOP
         - [原型链](http://net.tutsplus.com/tutorials/javascript-ajax/prototypes-in-javascript-what-you-need-to-know/)/作用域链
         - [闭包](http://www.jibbering.com/faq/notes/closures/)
-        - 函数式编程
+        - [编程范型](http://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B%E8%8C%83%E5%9E%8B)
         - [设计模式](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
         - [Javascript Tips](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
     - 部署流程
@@ -111,7 +124,7 @@ Frontend Knowledge Structure
         - ADsafe/Caja/Sandbox
     - 移动Web
         - HTML5/CSS3
-        - 响应式设计
+        - [响应式网页设计](http://zh.wikipedia.org/wiki/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1)
         - [Zeptojs](http://zeptojs.com/)/[iScroll](http://cubiq.org/iscroll)
         - V5/[Sencha Touch](http://www.sencha.com/products/touch)
         - [PhoneGap](http://phonegap.com/)
@@ -125,10 +138,11 @@ Frontend Knowledge Structure
         - [CSSConf](http://cssconf.com/)
         - YDN/YUIConf
         - HybridApp
+        - [WHATWG](http://whatwg.org/)
     - 计算机知识储备
         - 编译原理
-        - 计算机网络
-        - 操作系统
+        - [计算机网络](http://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
+        - [操作系统](http://zh.wikipedia.org/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)
         - 算法原理
         - 软件工程/软件测试原理
     - 软技能
@@ -143,12 +157,13 @@ Frontend Knowledge Structure
 - 后端工程师
     - 编程语言
         - C/C++/Java/PHP/Ruby/Python/...
-    - 服务器
+    - 网页服务器
         - [Nginx](http://nginx.org/en/)
         - [Apache](http://httpd.apache.org/)
+        - [Lighttpd](http://www.lighttpd.net/)
     - 数据库
         - SQL
-        - MySQL/PostgreSQL/Oracle
+        - [MySQL](http://www.mysql.com/)/[PostgreSQL](http://www.postgresql.org/)/[Oracle](http://www.oracle.com/us/products/database/overview/index.html)
         - [MongoDB](http://www.mongodb.org/)/[CouchDB](http://couchdb.apache.org/)
     - 数据缓存
         - [Redis](http://redis.io/)
@@ -194,6 +209,7 @@ Frontend Knowledge Structure
 - [Linux 101 Hacks](http://www.thegeekstuff.com/linux-101-hacks-free-ebook-non-english/)
 - [UNIX Shell Scripting](http://book.douban.com/subject/3519360/)
 - [The Linux Command Line](http://book.douban.com/subject/6806862/)
+- [Linux Network Administrator's Guide](http://oreilly.com/openbook/linag2/book/index.html)
 
 ### Linux编程
 - [Linux程序设计](http://book.douban.com/subject/4831448/)
@@ -217,6 +233,11 @@ Frontend Knowledge Structure
 - [C++编程思想](http://book.douban.com/subject/1094797/)
 - [高质量程序设计指南---C/C++语言](http://book.douban.com/subject/2116929/)
 - [Inside the C++ Object Model](http://book.douban.com/subject/1484262/)
+- [A Tour of C++](http://www.stroustrup.com/Tour.html)
+- [The C++ Programming Language](http://en.wikipedia.org/wiki/The_C%2B%2B_Programming_Language)
+- [The C++ Standard Library - A Tutorial and Reference](http://www.cppstdlib.com/)
+- [The C++ Standard (INCITS/ISO/IEC 14882-2011)](http://webstore.ansi.org/RecordDetail.aspx?sku=INCITS%2fISO%2fIEC+14882-2012)
+- [Overview of the New C++](http://www.artima.com/shop/overview_of_the_new_cpp)
 
 ## 前端工作面试
 - [前端工作面试问题](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)

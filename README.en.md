@@ -12,33 +12,43 @@ Although the project would be maintained in plain text instead, I promise a smal
 ## Knowledge Structure of Frontend Development
 - Frontend Engineer
     - Web browsers
-        - IE6/[7](http://www.microsoft.com/en-US/download/details.aspx?id=2)/[8](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-8)/[9](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-9/worldwide-languages)/[10](http://windows.microsoft.com/en-US/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/en-US/internet-explorer/ie-11-worldwide-languages)
-        - [Firefox](http://www.mozilla.org/en-US/)
-        - [Chrome](http://www.google.com/chrome)/[Safari](http://www.apple.com/safari/)/[Opera](http://www.opera.com/)
-    - Languages
+        - IE6/[7](http://www.microsoft.com/en-US/download/details.aspx?id=2)/[8](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-8)/[9](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-9/worldwide-languages)/[10](http://windows.microsoft.com/en-US/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/en-US/internet-explorer/ie-11-worldwide-languages) (Trident)
+        - [Firefox](http://www.mozilla.org/en-US/) (Gecko)
+        - [Chrome](http://www.google.com/chrome)/[Chromium](http://www.chromium.org/) (Blink)
+        - [Safari](http://www.apple.com/safari/) (WebKit)
+        - [Opera](http://www.opera.com/) (Blink)
+    - Programming Languages
         - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
         - [CoffeeScript](http://coffeescript.org/)
         - [TypeScript](http://www.typescriptlang.org/)
     - Slicing
         - [HTML](http://www.w3.org/html/)/[HTML5](http://www.w3.org/TR/html5/)
         - [CSS](http://www.w3.org/Style/CSS/)/CSS3
-        - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)
+        - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)/[GIMP](http://www.gimp.org/)
     - Development tools
-        - IDE
+        - Editors and IDEs
             - [VIM](http://www.vim.org/)/[Sublime Text2](http://www.sublimetext.com/)
             - [Notepad++](http://notepad-plus-plus.org/)/[EditPlus](http://www.editplus.com/)
             - [WebStorm](http://www.jetbrains.com/webstorm/)
             - [Emacs](http://www.gnu.org/software/emacs/)  [EmacsWiki](http://emacswiki.org)
             - [Brackets](http://brackets.io)
+            - [Komodo IDE / Edit](http://www.activestate.com/komodo-edit)
+            - [Eclipse](http://www.eclipse.org/)
+            - [Visual Studio](http://www.visualstudio.com/)
+            - [NetBeans](https://netbeans.org/)
+            - [Cloud9 IDE](http://c9.io/)
         - Debugging
             - [Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
             - [YSlow](http://developer.yahoo.com/yslow/)
             - [IEDeveloperToolbar](http://www.microsoft.com/en-us/download/details.aspx?id=18359)/[IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
             - [Fiddler](http://www.fiddler2.com/fiddler2/)
             - [Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/)
-        - Source Version Control
-            - [Git](git-scm.com/)/[SVN](http://subversion.apache.org/)
-            - [Github](https://github.com/)/[Bitbucket](https://bitbucket.org/)/[Google Code](http://code.google.com/hosting/)
+            - [Dragonfly](http://www.opera.com/dragonfly/)
+            - [DebugBar](http://www.debugbar.com/)
+            - [Venkman](https://developer.mozilla.org/en-US/docs/Venkman)
+        - Revision Control
+            - [Git](git-scm.com/)/[SVN](http://subversion.apache.org/)/[Mercurial](http://mercurial.selenic.com/)
+            - [Github](https://github.com/)/[Bitbucket](https://bitbucket.org/)/[Google Code](http://code.google.com/hosting/)/[Gitorious](https://gitorious.org/)/[GNU Savannah](http://savannah.gnu.org/)/[Launchpad](https://launchpad.net/)/[SourceForge](http://sourceforge.net/)
     - Code quality
         - Coding style
             - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)/[jscs](https://github.com/mdevils/node-jscs)
@@ -47,6 +57,7 @@ Although the project would be maintained in plain text instead, I promise a smal
         - Unit testing
             - [QUnit](http://qunitjs.com/)/[Jasmine](http://pivotal.github.com/jasmine/)
             - [Mocha](http://visionmedia.github.com/mocha/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
+            - [Unit JS](http://unitjs.com/)
         - Auto-testing
             - [WebDriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)/[Karma Runner](https://github.com/karma-runner/karma)/[Sahi](http://sahi.co.in/)
             - [phantomjs](http://phantomjs.org/)
@@ -58,6 +69,8 @@ Although the project would be maintained in plain text instead, I promise a smal
             - [Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)
         - [Bootstrap](http://getbootstrap.com/)
         - [Semantic UI](http://www.semantic-ui.com/)
+        - [Juice UI](http://juiceui.com/)
+        - [Web Atoms](http://webatomsjs.neurospeech.com/)
     - Frontend standards / specifications
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
         - [ECMAScript3/5](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
@@ -71,12 +84,12 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [HTTPWatch](http://www.httpwatch.com/)
         - [DynaTrace's Ajax](http://www.compuware.com/application-performance-management/dynatrace-ajax-download.html)
         - [High-performance JavaScript](http://book.douban.com/subject/5362856/)
-    - Knownledge base
-        - Data structure
+    - General programming knowledge
+        - [Data structure](http://en.wikipedia.org/wiki/Data_structure)
         - OOP/AOP
         - [Prototype chain](http://net.tutsplus.com/tutorials/javascript-ajax/prototypes-in-javascript-what-you-need-to-know/)/Scope chain
         - [Closure](http://www.jibbering.com/faq/notes/closures/)
-        - Functional Programming
+        - [Programming paradigms](http://en.wikipedia.org/wiki/Programming_paradigm)
         - [Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
         - [Javascript Tips](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)
     - Deployment flow
@@ -111,7 +124,7 @@ Although the project would be maintained in plain text instead, I promise a smal
         - ADsafe/Caja/Sandbox
     - Mobile Web
         - HTML5/CSS3
-        - Responsive
+        - [Responsive web design](http://en.wikipedia.org/wiki/Responsive_web_design)
         - [Zeptojs](http://zeptojs.com/)/[iScroll](http://cubiq.org/iscroll)
         - V5/[Sencha Touch](http://www.sencha.com/products/touch)
         - [PhoneGap](http://phonegap.com/)
@@ -125,10 +138,11 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [CSSConf](http://cssconf.com/)
         - YDN/YUIConf
         - HybridApp
-    - Computer knowledge
+        - [WHATWG](http://whatwg.org/)
+    - Computer science
         - Compilation principle
-        - Network
-        - OS
+        - [Computer network](http://en.wikipedia.org/wiki/Computer_network)
+        - [OS](http://en.wikipedia.org/wiki/Operating_system)
         - Algorithm principle
         - Software Engineering/Software testing principle
     - Soft skills
@@ -141,14 +155,15 @@ Although the project would be maintained in plain text instead, I promise a smal
         - SVG: [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[Snap.svg](http://snapsvg.io/)/[DataV](http://datavlab.org/datavjs/)
         - Canvas: [CreateJS](http://www.createjs.com/)/[KineticJS](http://kineticjs.com/)
 - Backend Engineer
-    - Languages
+    - Programming languages
         - C/C++/Java/PHP/Ruby/Python/...
-    - Server
+    - Web server
         - [Nginx](http://nginx.org/en/)
         - [Apache](http://httpd.apache.org/)
+        - [Lighttpd](http://www.lighttpd.net/)
     - Databases
         - SQL
-        - MySQL/PostgreSQL/Oracle
+        - [MySQL](http://www.mysql.com/)/[PostgreSQL](http://www.postgresql.org/)/[Oracle](http://www.oracle.com/us/products/database/overview/index.html)
         - [MongoDB](http://www.mongodb.org/)/[CouchDB](http://couchdb.apache.org/)
     - Data Caching
         - [Redis](http://redis.io/)
@@ -188,23 +203,27 @@ The ★ less and easier, the more suitable for starters
 - [Git权威指南](http://book.douban.com/subject/6526452/)★★★★
 
 ## Book Recommendations for Backend-ers
-### Linux management
+### Linux administration
 - [Linux 系统管理技术手册](http://book.douban.com/subject/3042029/)
 - [鸟哥的 Linux 私房菜](http://book.douban.com/subject/4889838/)
 - [Linux 101 Hacks](http://www.thegeekstuff.com/linux-101-hacks-free-ebook-non-english/)
 - [UNIX Shell Scripting](http://book.douban.com/subject/3519360/)
-- [The Linux Command Line](http://book.douban.com/subject/6806862/)
+- [The Linux Command Line](http://linuxcommand.org/tlcl.php)
+- [Linux Network Administrator's Guide](http://oreilly.com/openbook/linag2/book/index.html)
 
 ### Linux programming
 - [Linux程序设计](http://book.douban.com/subject/4831448/)
 - [Linux系统编程](http://book.douban.com/subject/3907181/)
 - [Unix环境高级编程](http://book.douban.com/subject/1788421/)
-- [Unix编程艺术](http://book.douban.com/subject/1467587/)
+- [The Art of UNIX Programming](http://www.catb.org/esr/writings/taoup/)
 - [The Linux Programming Interface](http://book.douban.com/subject/4292217/)
 - [程序员的自我修养](http://book.douban.com/subject/3652388/)
 - [深入理解Linux内核](http://book.douban.com/subject/2287506/)
 - [Unix网络编程](http://book.douban.com/subject/1500149/)
 - [TCP/IP高级编程](http://book.douban.com/subject/1088054/)
+- [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
+- [Linux Device Drivers](http://lwn.net/Kernel/LDD3/)
+- [Advanced Linux Programming](http://www.advancedlinuxprogramming.com/)
 
 ### C/C++
 - [Linux C编程一站式学习](http://book.douban.com/subject/4141733/)
@@ -217,6 +236,11 @@ The ★ less and easier, the more suitable for starters
 - [C++编程思想](http://book.douban.com/subject/1094797/)
 - [高质量程序设计指南---C/C++语言](http://book.douban.com/subject/2116929/)
 - [Inside the C++ Object Model](http://book.douban.com/subject/1484262/)
+- [A Tour of C++](http://www.stroustrup.com/Tour.html)
+- [The C++ Programming Language](http://en.wikipedia.org/wiki/The_C%2B%2B_Programming_Language)
+- [The C++ Standard Library - A Tutorial and Reference](http://www.cppstdlib.com/)
+- [The C++ Standard (INCITS/ISO/IEC 14882-2011)](http://webstore.ansi.org/RecordDetail.aspx?sku=INCITS%2fISO%2fIEC+14882-2012)
+- [Overview of the New C++](http://www.artima.com/shop/overview_of_the_new_cpp)
 
 ## Front-end Developer Interview
 - [Front-end Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
