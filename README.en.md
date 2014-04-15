@@ -21,7 +21,6 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
         - [CoffeeScript](http://coffeescript.org/)
         - [TypeScript](http://www.typescriptlang.org/)
-        - [Dart](https://www.dartlang.org/)
     - Slicing
         - [HTML](http://www.w3.org/html/)/[HTML5](http://www.w3.org/TR/html5/)
         - [CSS](http://www.w3.org/Style/CSS/)/CSS3
@@ -70,7 +69,7 @@ Although the project would be maintained in plain text instead, I promise a smal
             - [Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)
         - [Bootstrap](http://getbootstrap.com/)
         - [Semantic UI](http://www.semantic-ui.com/)
-        - [ASP.NET Ajax](http://www.asp.net/ajax)
+        - [Juice UI](http://juiceui.com/)
         - [Web Atoms](http://webatomsjs.neurospeech.com/)
     - Frontend standards / specifications
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)

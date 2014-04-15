@@ -21,7 +21,6 @@ Frontend Knowledge Structure
         - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
         - [CoffeeScript](http://coffeescript.org/)
         - [TypeScript](http://www.typescriptlang.org/)
-        - [Dart](https://www.dartlang.org/)
     - 切页面
         - [HTML](http://www.w3.org/html/)/[HTML5](http://www.w3.org/TR/html5/)
         - [CSS/CSS3](http://www.w3.org/Style/CSS/)
@@ -70,7 +69,7 @@ Frontend Knowledge Structure
             - [Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)
         - [Bootstrap](http://getbootstrap.com/)
         - [Semantic UI](http://www.semantic-ui.com/)
-        - [ASP.NET Ajax](http://www.asp.net/ajax)
+        - [Juice UI](http://juiceui.com/)
         - [Web Atoms](http://webatomsjs.neurospeech.com/)
     - 前端标准/规范
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
