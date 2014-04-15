@@ -125,6 +125,14 @@ Frontend Knowledge Structure
         - [CSSConf](http://cssconf.com/)
         - YDN/YUIConf
         - HybridApp
+    - 真机调试
+        - 安卓
+        - IOS
+        - win8
+        - firefox os
+    - 云计算
+        - open-stack
+        - docker
     - 计算机知识储备
         - 编译原理
         - 计算机网络
