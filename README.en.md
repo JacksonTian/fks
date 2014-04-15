@@ -41,7 +41,7 @@ Although the project would be maintained in plain text instead, I promise a smal
             - [Github](https://github.com/)/[Bitbucket](https://bitbucket.org/)/[Google Code](http://code.google.com/hosting/)
     - Code quality
         - Coding style
-            - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)
+            - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)/[jscs](https://github.com/mdevils/node-jscs)
             - [CSSLint](http://csslint.net/)
             - [Markup Validation Service](http://validator.w3.org/)
         - Unit testing
