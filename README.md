@@ -108,7 +108,7 @@ Frontend Knowledge Structure
             - [Yeoman](http://yeoman.io/)
             - [FIS](http://fis.baidu.com/)
             - [Mod](https://github.com/modulejs/modjs)
-            - [Gulp](https://github.com/gulpjs/gulp)
+            - [Gulp.js](http://gulpjs.com/)
     - 代码组织
         - 类库模块化
             - [CommonJS](http://www.commonjs.org/)/AMD
