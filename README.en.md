@@ -198,6 +198,10 @@ The ★ less and easier, the more suitable for starters
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)★★★★
 - [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X)★★★★
 
+### 性能实践
+- [Web性能实践日志](http://book.douban.com/subject/25891125/)★★★
+- [Web性能权威指南](http://book.douban.com/subject/25856314/)★★★
+
 ### CVS
 - [Pragmatic Version Control Using Git](http://book.douban.com/subject/3105192/)★★
 - [Git权威指南](http://book.douban.com/subject/6526452/)★★★★

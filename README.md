@@ -198,6 +198,10 @@ Frontend Knowledge Structure
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)★★★★
 - [基于MVC的JavaScript Web富应用开发](http://book.douban.com/subject/10733304/)★★★
 
+### 性能实践
+- [Web性能实践日志](http://book.douban.com/subject/25891125/)★★★
+- [Web性能权威指南](http://book.douban.com/subject/25856314/)★★★
+
 ### 版本控制工具
 - [版本控制之道 (git)](http://book.douban.com/subject/4813786/)★★
 - [Git权威指南](http://book.douban.com/subject/6526452/)★★★★
