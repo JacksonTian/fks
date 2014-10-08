@@ -105,6 +105,7 @@ Frontend Knowledge Structure
             - [make](http://www.gnu.org/software/make/)/[Ant](http://ant.apache.org/)
             - [GYP](http://code.google.com/p/gyp/)
             - [Grunt](http://gruntjs.com/)
+            - [Gulp](http://gulpjs.com/)
             - [Yeoman](http://yeoman.io/)
             - [FIS](http://fis.baidu.com/)
             - [Mod](https://github.com/modulejs/modjs)
