@@ -77,6 +77,12 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [W3C/DOM/BOM/XHTML/XML/JSON/JSONP](http://www.w3.org/TR/)
         - [CommonJS Modules](http://wiki.commonjs.org/wiki/Modules/1.0)/[AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)
         - [HTML5](http://www.w3.org/html/wg/drafts/html/master/)/[CSS3](http://www.w3.org/Style/CSS/specs.en.html)
+        - [Semantic Web](http://semanticweb.org/)
+            - [MicroData](http://schema.org) 
+            - [RDFa](http://www.w3.org/TR/rdfa-core/)
+        - [Web Accessibility](http://www.w3.org/TR/WAI-WEBCONTENT/)
+            - [Role Attribute](http://www.w3.org/TR/role-attribute/)  
+            - [WAI-ARIA](http://www.w3.org/TR/wai-aria/)
     - Performance
         - [JSPerf](http://jsperf.com/)
         - [YSlow 35 rules](http://developer.yahoo.com/performance/rules.html)
@@ -84,6 +90,7 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [HTTPWatch](http://www.httpwatch.com/)
         - [DynaTrace's Ajax](http://www.compuware.com/application-performance-management/dynatrace-ajax-download.html)
         - [High-performance JavaScript](http://book.douban.com/subject/5362856/)
+    - SEO
     - General programming knowledge
         - [Data structure](http://en.wikipedia.org/wiki/Data_structure)
         - OOP/AOP

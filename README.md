@@ -77,6 +77,12 @@ Frontend Knowledge Structure
         - [W3C/DOM/BOM/XHTML/XML/JSON/JSONP](http://www.w3.org/TR/)
         - [CommonJS Modules](http://wiki.commonjs.org/wiki/Modules/1.0)/[AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)
         - [HTML5](http://www.w3.org/html/wg/drafts/html/master/)/[CSS3](http://www.w3.org/Style/CSS/specs.en.html)
+        - [Semantic Web](http://semanticweb.org/)
+            - [MicroData](http://schema.org) 
+            - [RDFa](http://www.w3.org/TR/rdfa-core/)
+        - [Web Accessibility](http://www.w3.org/TR/WAI-WEBCONTENT/)
+            - [Role Attribute](http://www.w3.org/TR/role-attribute/)  
+            - [WAI-ARIA](http://www.w3.org/TR/wai-aria/)
     - 性能
         - [JSPerf](http://jsperf.com/)
         - [YSlow 35 rules](http://developer.yahoo.com/performance/rules.html)
@@ -84,6 +90,7 @@ Frontend Knowledge Structure
         - [HTTPWatch](http://www.httpwatch.com/)
         - [DynaTrace's Ajax](http://www.compuware.com/application-performance-management/dynatrace-ajax-download.html)
         - [高性能JavaScript](http://book.douban.com/subject/5362856/)
+    - SEO
     - 编程知识储备
         - [数据结构](http://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
         - OOP/AOP
