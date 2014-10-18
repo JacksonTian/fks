@@ -71,6 +71,7 @@ Frontend Knowledge Structure
         - [Semantic UI](http://www.semantic-ui.com/)
         - [Juice UI](http://juiceui.com/)
         - [Web Atoms](http://webatomsjs.neurospeech.com/)
+        - [Polymer](http://docs.polymerchina.org/)
     - 前端标准/规范
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
         - [ECMAScript3/5](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
