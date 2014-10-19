@@ -71,6 +71,7 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [Semantic UI](http://www.semantic-ui.com/)
         - [Juice UI](http://juiceui.com/)
         - [Web Atoms](http://webatomsjs.neurospeech.com/)
+        - [Polymer](https://www.polymer-project.org/)
     - Frontend standards / specifications
         - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
         - [ECMAScript3/5](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
@@ -207,12 +208,13 @@ The ★ less and easier, the more suitable for starters
 - [JavaScript设计模式](http://book.douban.com/subject/3329540/)★★★★
 - [JavaScript Web Applications](http://www.amazon.com/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X)★★★★
 
-### 性能实践
+### Performance && Practice
 - [Web性能实践日志](http://book.douban.com/subject/25891125/)★★★
 - [Web性能权威指南](http://book.douban.com/subject/25856314/)★★★
 
 ### CVS
 - [Pragmatic Version Control Using Git](http://book.douban.com/subject/3105192/)★★
+- [Pro Git](http://git-scm.com/book)★★★
 - [Git权威指南](http://book.douban.com/subject/6526452/)★★★★
 
 ## Book Recommendations for Backend-ers
