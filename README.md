@@ -213,6 +213,7 @@ Frontend Knowledge Structure
 
 ### 版本控制工具
 - [版本控制之道 (git)](http://book.douban.com/subject/4813786/)★★
+- [Pro Git](http://iissnan.com/progit/)★★★
 - [Git权威指南](http://book.douban.com/subject/6526452/)★★★★
 
 ## 后端书籍推荐
