@@ -7,8 +7,6 @@ Frontend Knowledge Structure
 
 图片的形式具有诸多的不便。缺失源图的我们，无法为此图贡献些什么，随着时间的迁移，或许有些技术点会发生改变，所以有了这个GitHub项目。我们可以通过协作的方式来共同维护这个项目。Git的历史记录也可以见证前端行业的一些变迁。
 
-尽管会变成文字的方式来维护这些内容，但是我承诺写一个小工具帮大家生成更好玩的图形（基于DataV项目）。
-
 ## 前端开发知识结构
 - 前端工程师
     - 浏览器
@@ -79,10 +77,10 @@ Frontend Knowledge Structure
         - [CommonJS Modules](http://wiki.commonjs.org/wiki/Modules/1.0)/[AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)
         - [HTML5](http://www.w3.org/html/wg/drafts/html/master/)/[CSS3](http://www.w3.org/Style/CSS/specs.en.html)
         - [Semantic Web](http://semanticweb.org/)
-            - [MicroData](http://schema.org) 
+            - [MicroData](http://schema.org)
             - [RDFa](http://www.w3.org/TR/rdfa-core/)
         - [Web Accessibility](http://www.w3.org/TR/WAI-WEBCONTENT/)
-            - [Role Attribute](http://www.w3.org/TR/role-attribute/)  
+            - [Role Attribute](http://www.w3.org/TR/role-attribute/)
             - [WAI-ARIA](http://www.w3.org/TR/wai-aria/)
     - 性能
         - [JSPerf](http://jsperf.com/)
@@ -164,6 +162,7 @@ Frontend Knowledge Structure
         - SVG: [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[Snap.svg](http://snapsvg.io/)/[DataV](http://datavlab.org/datavjs/)
         - Canvas: [CreateJS](http://www.createjs.com/)/[KineticJS](http://kineticjs.com/)
         - WebGL(http://zh.wikipedia.org/wiki/WebGL):[Three.JS](http://threejs.org/)
+
 - 后端工程师
     - 编程语言
         - C/C++/Java/PHP/Ruby/Python/...
@@ -267,7 +266,7 @@ Frontend Knowledge Structure
  active   : 53 days
  commits  : 108
  files    : 4
- authors  : 
+ authors  :
     56  Jackson Tian            51.9%
      9  吴晓兰               8.3%
      5  liyinkan                4.6%
