@@ -82,4 +82,4 @@ var buildTree = function (list) {
 };
 
 var tree = buildTree(formated);
-fs.writeFileSync(path.join(__dirname, '../frontend_knowledge/f2e.json'), JSON.stringify(tree, null, '  '));
+fs.writeFileSync(path.join(__dirname, '../chart/f2e.json'), JSON.stringify(tree, null, '  '));
