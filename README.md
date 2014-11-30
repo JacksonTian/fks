@@ -24,6 +24,7 @@ Frontend Knowledge Structure
     - 切页面
         - [HTML](http://www.w3.org/html/)/[HTML5](http://www.w3.org/TR/html5/)
         - [CSS/CSS3](http://www.w3.org/Style/CSS/)
+        - [Sass](http://sass-lang.com/)/[LESS](http://lesscss.org/)/[Stylus](http://learnboost.github.io/stylus/)
         - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)/[GIMP](http://www.gimp.org/)
     - 开发工具
         - 编辑器和IDE
