@@ -32,6 +32,12 @@ Although the project would be maintained in plain text instead, I promise a smal
             - [WebStorm](http://www.jetbrains.com/webstorm/)
             - [Emacs](http://www.gnu.org/software/emacs/)  [EmacsWiki](http://emacswiki.org)
             - [Brackets](http://brackets.io)
+            - [Atom](https://atom.io/)
+            - [Lime Text](http://limetext.org/)
+            - [Light Table](http://lighttable.com/)
+            - [Codebox](https://www.codebox.io/)
+            - [TextMate](http://macromates.com/)
+            - [Neovim](http://neovim.org/)
             - [Komodo IDE / Edit](http://www.activestate.com/komodo-edit)
             - [Eclipse](http://www.eclipse.org/)
             - [Visual Studio](http://www.visualstudio.com/)
@@ -54,6 +60,7 @@ Although the project would be maintained in plain text instead, I promise a smal
             - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)/[jscs](https://github.com/mdevils/node-jscs)
             - [CSSLint](http://csslint.net/)
             - [Markup Validation Service](http://validator.w3.org/)
+            - [HTML Validators](https://validator.whatwg.org/)
         - Unit testing
             - [QUnit](http://qunitjs.com/)/[Jasmine](http://pivotal.github.com/jasmine/)
             - [Mocha](http://visionmedia.github.com/mocha/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
@@ -72,16 +79,23 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [Juice UI](http://juiceui.com/)
         - [Web Atoms](http://webatomsjs.neurospeech.com/)
         - [Polymer](https://www.polymer-project.org/)
+        - [Dhtmlx](http://dhtmlx.com/)
+        - [qooxdoo](http://qooxdoo.org/)
+        - [React](http://facebook.github.io/react/)
+        - [Brick](http://mozbrick.github.io/)
+        - [Knockout](http://knockoutjs.com/)
     - Frontend standards / specifications
-        - [HTTP1.1](http://www.w3.org/Protocols/rfc2616/rfc2616.html)
+        - HTTP/1.1: RFCs 7230-7235
+        - [HTTP/2](https://http2.github.io/)
         - [ECMAScript3/5](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
-        - [W3C/DOM/BOM/XHTML/XML/JSON/JSONP](http://www.w3.org/TR/)
+        - [W3C: DOM/BOM/XHTML/XML/JSON/JSONP/...](http://www.w3.org/TR/)
         - [CommonJS Modules](http://wiki.commonjs.org/wiki/Modules/1.0)/[AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)
         - [HTML5](http://www.w3.org/html/wg/drafts/html/master/)/[CSS3](http://www.w3.org/Style/CSS/specs.en.html)
         - [Semantic Web](http://semanticweb.org/)
             - [MicroData](http://schema.org) 
             - [RDFa](http://www.w3.org/TR/rdfa-core/)
-        - [Web Accessibility](http://www.w3.org/TR/WAI-WEBCONTENT/)
+        - [Web Accessibility](http://www.w3.org/WAI/)
+            - [WCAG](http://www.w3.org/TR/WAI-WEBCONTENT/)
             - [Role Attribute](http://www.w3.org/TR/role-attribute/)  
             - [WAI-ARIA](http://www.w3.org/TR/wai-aria/)
     - Performance
@@ -130,6 +144,8 @@ Although the project would be maintained in plain text instead, I promise a smal
             - [Browserify](https://github.com/substack/node-browserify)
     - Security
         - [CSRF](http://en.wikipedia.org/wiki/Cross-site_request_forgery)/[XSS](http://en.wikipedia.org/wiki/Cross-site_scripting)
+        - [CSP](http://www.w3.org/TR/CSP/)
+        - [Same-origin policy](https://developer.mozilla.org/docs/Web/Security/Same-origin_policy)
         - ADsafe/Caja/Sandbox
     - Mobile Web
         - HTML5/CSS3
@@ -138,6 +154,9 @@ Although the project would be maintained in plain text instead, I promise a smal
         - V5/[Sencha Touch](http://www.sencha.com/products/touch)
         - [PhoneGap](http://phonegap.com/)
         - [jQuery Mobile](http://jquerymobile.com/)
+        - [W3C Mobile Web Initiative](http://www.w3.org/Mobile/)
+        - [W3C mobileOK Checker](http://validator.w3.org/mobile/)
+        - [Open Mobile Alliance](http://openmobilealliance.org/)
     - Advanced technology communities/conferences
         - [D2](http://d2forum.org)/[WebRebuild](http://www.webrebuild.org/)
         - NodeParty/[W3CTech](http://w3ctech.com)/[HTML5梦工厂(HTML5 Dreamworks)](http://www.html5dw.com)
@@ -154,6 +173,7 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [OS](http://en.wikipedia.org/wiki/Operating_system)
         - Algorithm principle
         - Software Engineering/Software testing principle
+        - [Unicode](http://www.unicode.org/)
     - Soft skills
         - Knowledge Management/Sharing
         - Communication/Teamwork
@@ -163,7 +183,7 @@ Although the project would be maintained in plain text instead, I promise a smal
         - SVG/Canvas/VML
         - SVG: [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[Snap.svg](http://snapsvg.io/)/[DataV](http://datavlab.org/datavjs/)
         - Canvas: [CreateJS](http://www.createjs.com/)/[KineticJS](http://kineticjs.com/)
-        - WebGL(http://zh.wikipedia.org/wiki/WebGL):[Three.JS](http://threejs.org/)
+        - [WebGL](http://zh.wikipedia.org/wiki/WebGL)/[Three.JS](http://threejs.org/)
 - Backend Engineer
     - Programming languages
         - C/C++/Java/PHP/Ruby/Python/...
@@ -173,7 +193,7 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [Lighttpd](http://www.lighttpd.net/)
     - Databases
         - SQL
-        - [MySQL](http://www.mysql.com/)/[PostgreSQL](http://www.postgresql.org/)/[Oracle](http://www.oracle.com/us/products/database/overview/index.html)
+        - [MySQL](http://www.mysql.com/)/[PostgreSQL](http://www.postgresql.org/)/[Oracle](http://www.oracle.com/us/products/database/overview/index.html)/[DB2](http://www-01.ibm.com/software/data/db2)
         - [MongoDB](http://www.mongodb.org/)/[CouchDB](http://couchdb.apache.org/)
     - Data Caching
         - [Redis](http://redis.io/)
