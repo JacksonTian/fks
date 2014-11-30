@@ -43,6 +43,7 @@ Although the project would be maintained in plain text instead, I promise a smal
             - [Visual Studio](http://www.visualstudio.com/)
             - [NetBeans](https://netbeans.org/)
             - [Cloud9 IDE](http://c9.io/)
+            - [HBuilder](http://www.dcloud.io/)
         - Debugging
             - [Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
             - [YSlow](http://developer.yahoo.com/yslow/)

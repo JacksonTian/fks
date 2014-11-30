@@ -43,6 +43,7 @@ Frontend Knowledge Structure
             - [Visual Studio](http://www.visualstudio.com/)
             - [NetBeans](https://netbeans.org/)
             - [Cloud9 IDE](http://c9.io/)
+            - [HBuilder](http://www.dcloud.io/)
         - 调试工具
             - [Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
             - [YSlow](http://developer.yahoo.com/yslow/)
