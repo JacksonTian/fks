@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="example-app">
+  <head>
+    <meta charset="utf-8" />
+    <title>angular-marked example</title>
+    <style>
+    body {
+      margin: 0;
+      padding: 20px;
+      font-family: Helvetica, sans-serif;
+      font-size: 14px;
+    }
+
+    </style>
+    <script src="../bower_components/angular/angular.js"></script>
+    <script src="../bower_components/marked/lib/marked.js"></script>
+    <script src="../angular-marked.js"></script>
+  </head>
+  <body>
+
+    <h1>angular-marked</h1>
+
+    <div ng-controller="MainController">
+
+<marked>
+### What?
+Convert markdown to html at run time.
+</marked>
+
+For example, this:
+<p>
+<form>
+  <p><textarea placeholder="Enter markdown here" ng-model="my_markdown" cols="60" rows="5"></textarea></p>
+</form>
+</p>
+
+Becomes this:
+<div marked="my_markdown">
+</div>
+
+<marked>
+### Why?
+I wanted to use `marked` instead of `showdown` as used in `angular-markdown-directive` as well as expose the option to globally set defaults.
+
+### How?
+</marked>
+
+<p>A block of text:</p>
+<div class="highlight highlight-html"><pre>    <span class="nt">&lt;marked&gt;</span>
+#Markdown directive   
+*It works!*
+    <span class="nt">&lt;/marked&gt;</span>
+</pre></div>
+<p>Bind the markdown input to a scope variable:</p>
+<div class="highlight highlight-html"><pre>    <span class="nt">&lt;div</span> <span class="na">marked=</span><span class="s">"my_markdown"</span><span class="nt">&gt;</span> 
+    <span class="nt">&lt;/div&gt;</span>
+    <span class="c">&lt;!-- Uses $scope.my_markdown --&gt;</span>
+</pre></div>
+<p>Include a markdown file:</p>
+<div class="highlight highlight-html"><pre>    <span class="nt">&lt;div</span> <span class="na">marked</span> <span class="na">ng-include=</span><span class="s">"'README.md'"</span><span class="nt">&gt;</span> 
+    <span class="nt">&lt;/div&gt;</span>
+    <span class="c">&lt;!-- Uses markdown content from README.md --&gt;</span>
+</pre></div>
+
+<marked>
+Set default options
+
+```js
+app.config(['markedProvider', function(markedProvider) {
+  markedProvider.setOptions({gfm: true});
+}]);
+
+```
+
+</marked>
+
+    </div>
+  </body>
+
+  <script>
+    var app = angular.module('example-app', ['hc.marked']);
+
+    app.config(['markedProvider', function(markedProvider) {
+      markedProvider.setOptions({gfm: true});
+    }]);
+
+    app.controller('MainController', ['$scope', function($scope) {
+      $scope.my_markdown = "*This* **is** [markdown](https://daringfireball.net/projects/markdown/)";
+    }]);
+  </script>
+</html>
