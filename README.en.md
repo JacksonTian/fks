@@ -194,6 +194,7 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [Nginx](http://nginx.org/en/)
         - [Apache](http://httpd.apache.org/)
         - [Lighttpd](http://www.lighttpd.net/)
+        - [HAProxy](http://www.haproxy.org/)
     - Databases
         - SQL
         - [MySQL](http://www.mysql.com/)/[PostgreSQL](http://www.postgresql.org/)/[Oracle](http://www.oracle.com/us/products/database/overview/index.html)/[DB2](http://www-01.ibm.com/software/data/db2)
