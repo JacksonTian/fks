@@ -86,7 +86,6 @@ Frontend Knowledge Structure
         - [qooxdoo](http://qooxdoo.org/)
         - [React](http://facebook.github.io/react/)
         - [Brick](http://mozbrick.github.io/)
-        - [Knockout](http://knockoutjs.com/)
     - 前端标准/规范
         - HTTP/1.1: RFCs 7230-7235
         - [HTTP/2](https://http2.github.io/)
