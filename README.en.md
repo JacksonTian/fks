@@ -23,7 +23,7 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [TypeScript](http://www.typescriptlang.org/)
     - Slicing
         - [HTML](http://www.w3.org/html/)/[HTML5](http://www.w3.org/TR/html5/)
-        - [CSS](http://www.w3.org/Style/CSS/)/CSS3 
+        - [CSS](http://www.w3.org/Style/CSS/)/CSS3
         - [Sass](http://sass-lang.com/)/[LESS](http://lesscss.org/)/[Stylus](http://learnboost.github.io/stylus/)
         - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)/[GIMP](http://www.gimp.org/)/[Sketch](http://bohemiancoding.com/sketch/)
     - Development tools
@@ -86,7 +86,6 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [qooxdoo](http://qooxdoo.org/)
         - [React](http://facebook.github.io/react/)
         - [Brick](http://mozbrick.github.io/)
-        - [Knockout](http://knockoutjs.com/)
     - Frontend standards / specifications
         - HTTP/1.1: RFCs 7230-7235
         - [HTTP/2](https://http2.github.io/)
@@ -95,11 +94,11 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [CommonJS Modules](http://wiki.commonjs.org/wiki/Modules/1.0)/[AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)
         - [HTML5](http://www.w3.org/html/wg/drafts/html/master/)/[CSS3](http://www.w3.org/Style/CSS/specs.en.html)
         - [Semantic Web](http://semanticweb.org/)
-            - [MicroData](http://schema.org) 
+            - [MicroData](http://schema.org)
             - [RDFa](http://www.w3.org/TR/rdfa-core/)
         - [Web Accessibility](http://www.w3.org/WAI/)
             - [WCAG](http://www.w3.org/TR/WAI-WEBCONTENT/)
-            - [Role Attribute](http://www.w3.org/TR/role-attribute/)  
+            - [Role Attribute](http://www.w3.org/TR/role-attribute/)
             - [WAI-ARIA](http://www.w3.org/TR/wai-aria/)
     - Performance
         - [JSPerf](http://jsperf.com/)
@@ -293,7 +292,7 @@ Thanks to Jayli who provided the original graph and contributors below. Generate
  active   : 53 days
  commits  : 108
  files    : 4
- authors  : 
+ authors  :
     56  Jackson Tian            51.9%
      9  吴晓兰               8.3%
      5  liyinkan                4.6%
