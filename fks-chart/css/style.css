@@ -1,0 +1,70 @@
+/*Dendrogram*/
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node {
+  font: 20px sans-serif;
+  cursor: pointer;
+}
+
+.node text:hover {
+  fill: steelblue;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+
+/*tooltip*/
+#tooltip {
+  position: fixed;
+  min-width: 200px;
+  height: auto;
+  padding: 10px;
+  background-color: #444;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  color: #fff;
+}
+
+#tooltip.hidden {
+  display: none;
+}
+
+#tooltip p {
+  margin: 0;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.title { 
+  width: 460px; 
+  position: fixed;
+  top: 10px;
+  right: -40px;
+  height: auto;
+  padding: 10px;
+  margin: 15px;
+  background-color: #444;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: none;
+}

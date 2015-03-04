@@ -1,0 +1,776 @@
+{
+  "id": "0",
+  "name": "前端工程师",
+  "children": [
+    {
+      "id": "1",
+      "name": "浏览器",
+      "children": [
+        {
+          "id": "2",
+          "name": "IE6/[7](http://www.microsoft.com/en-US/download/details.aspx?id=2)/[8](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-8)/[9](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-9/worldwide-languages)/[10](http://windows.microsoft.com/en-US/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/en-US/internet-explorer/ie-11-worldwide-languages) (Trident)"
+        },
+        {
+          "id": "3",
+          "name": "[Firefox](http://www.mozilla.org/en-US/) (Gecko)"
+        },
+        {
+          "id": "4",
+          "name": "[Chrome](http://www.google.com/chrome)/[Chromium](http://www.chromium.org/) (Blink)"
+        },
+        {
+          "id": "5",
+          "name": "[Safari](http://www.apple.com/safari/) (WebKit)"
+        },
+        {
+          "id": "6",
+          "name": "[Opera](http://www.opera.com/) (Blink)"
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "编程语言",
+      "children": [
+        {
+          "id": "8",
+          "name": "[JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)"
+        },
+        {
+          "id": "9",
+          "name": "[CoffeeScript](http://coffeescript.org/)"
+        },
+        {
+          "id": "10",
+          "name": "[TypeScript](http://www.typescriptlang.org/)"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "切页面",
+      "children": [
+        {
+          "id": "12",
+          "name": "[HTML](http://www.w3.org/html/)/[HTML5](http://www.w3.org/TR/html5/)"
+        },
+        {
+          "id": "13",
+          "name": "[CSS/CSS3](http://www.w3.org/Style/CSS/)"
+        },
+        {
+          "id": "14",
+          "name": "[Sass](http://sass-lang.com/)/[LESS](http://lesscss.org/)/[Stylus](http://learnboost.github.io/stylus/)"
+        },
+        {
+          "id": "15",
+          "name": "[PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)/[GIMP](http://www.gimp.org/)"
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "开发工具",
+      "children": [
+        {
+          "id": "17",
+          "name": "编辑器和IDE",
+          "children": [
+            {
+              "id": "18",
+              "name": "[VIM](http://www.vim.org/)/[Sublime Text2](http://www.sublimetext.com/)"
+            },
+            {
+              "id": "19",
+              "name": "[Notepad++](http://notepad-plus-plus.org/)/[EditPlus](http://www.editplus.com/)"
+            },
+            {
+              "id": "20",
+              "name": "[WebStorm](http://www.jetbrains.com/webstorm/)"
+            },
+            {
+              "id": "21",
+              "name": "[Emacs](http://www.gnu.org/software/emacs/)  [EmacsWiki](http://emacswiki.org)"
+            },
+            {
+              "id": "22",
+              "name": "[Brackets](http://brackets.io)"
+            },
+            {
+              "id": "23",
+              "name": "[Atom](https://atom.io/)"
+            },
+            {
+              "id": "24",
+              "name": "[Lime Text](http://limetext.org/)"
+            },
+            {
+              "id": "25",
+              "name": "[Light Table](http://lighttable.com/)"
+            },
+            {
+              "id": "26",
+              "name": "[Codebox](https://www.codebox.io/)"
+            },
+            {
+              "id": "27",
+              "name": "[TextMate](http://macromates.com/)"
+            },
+            {
+              "id": "28",
+              "name": "[Neovim](http://neovim.org/)"
+            },
+            {
+              "id": "29",
+              "name": "[Komodo IDE / Edit](http://www.activestate.com/komodo-edit)"
+            },
+            {
+              "id": "30",
+              "name": "[Eclipse](http://www.eclipse.org/)"
+            },
+            {
+              "id": "31",
+              "name": "[Visual Studio](http://www.visualstudio.com/)"
+            },
+            {
+              "id": "32",
+              "name": "[NetBeans](https://netbeans.org/)"
+            },
+            {
+              "id": "33",
+              "name": "[Cloud9 IDE](http://c9.io/)"
+            },
+            {
+              "id": "34",
+              "name": "[HBuilder](http://www.dcloud.io/)"
+            }
+          ]
+        },
+        {
+          "id": "35",
+          "name": "调试工具",
+          "children": [
+            {
+              "id": "36",
+              "name": "[Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)"
+            },
+            {
+              "id": "37",
+              "name": "[YSlow](http://developer.yahoo.com/yslow/)"
+            },
+            {
+              "id": "38",
+              "name": "[IEDeveloperToolbar](http://www.microsoft.com/en-us/download/details.aspx?id=18359)/[IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)"
+            },
+            {
+              "id": "39",
+              "name": "[Fiddler](http://www.fiddler2.com/fiddler2/)"
+            },
+            {
+              "id": "40",
+              "name": "[Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/)"
+            },
+            {
+              "id": "41",
+              "name": "[Dragonfly](http://www.opera.com/dragonfly/)"
+            },
+            {
+              "id": "42",
+              "name": "[DebugBar](http://www.debugbar.com/)"
+            },
+            {
+              "id": "43",
+              "name": "[Venkman](https://developer.mozilla.org/en-US/docs/Venkman)"
+            }
+          ]
+        },
+        {
+          "id": "44",
+          "name": "版本管理",
+          "children": [
+            {
+              "id": "45",
+              "name": "[Git](git-scm.com/)/[SVN](http://subversion.apache.org/)/[Mercurial](http://mercurial.selenic.com/)"
+            },
+            {
+              "id": "46",
+              "name": "[Github](https://github.com/)/[GitLab](https://about.gitlab.com/)/[Bitbucket](https://bitbucket.org/)/[Google Code](http://code.google.com/hosting/)/[Gitorious](https://gitorious.org/)/[GNU Savannah](http://savannah.gnu.org/)/[Launchpad](https://launchpad.net/)/[SourceForge](http://sourceforge.net/)/[TeamForge](http://www.collab.net/products/teamforge)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "name": "代码质量",
+      "children": [
+        {
+          "id": "48",
+          "name": "Coding style",
+          "children": [
+            {
+              "id": "49",
+              "name": "[JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)/[jscs](https://github.com/mdevils/node-jscs)"
+            },
+            {
+              "id": "50",
+              "name": "[CSSLint](http://csslint.net/)"
+            },
+            {
+              "id": "51",
+              "name": "[Markup Validation Service](http://validator.w3.org/)"
+            },
+            {
+              "id": "52",
+              "name": "[HTML Validators](https://validator.whatwg.org/)"
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "name": "单元测试",
+          "children": [
+            {
+              "id": "54",
+              "name": "[QUnit](http://qunitjs.com/)/[Jasmine](http://pivotal.github.com/jasmine/)"
+            },
+            {
+              "id": "55",
+              "name": "[Mocha](http://visionmedia.github.com/mocha/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)"
+            },
+            {
+              "id": "56",
+              "name": "[Unit JS](http://unitjs.com/)"
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "name": "自动化测试",
+          "children": [
+            {
+              "id": "58",
+              "name": "[WebDriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)/[Protractor](https://github.com/angular/protractor)/[Karma Runner](https://github.com/karma-runner/karma)/[Sahi](http://sahi.co.in/)"
+            },
+            {
+              "id": "59",
+              "name": "[phantomjs](http://phantomjs.org/)"
+            },
+            {
+              "id": "60",
+              "name": "[SourceLabs](https://saucelabs.com/)/[BrowserStack](http://www.browserstack.com/)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "61",
+      "name": "前端库/框架",
+      "children": [
+        {
+          "id": "62",
+          "name": "[jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)"
+        },
+        {
+          "id": "63",
+          "name": "[YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)/[KISSY](http://docs.kissyui.com/)"
+        },
+        {
+          "id": "64",
+          "name": "[Backbone](http://backbonejs.org/)/[KnockoutJS](http://knockoutjs.com/)/[Emberjs](http://emberjs.com/)"
+        },
+        {
+          "id": "65",
+          "name": "[AngularJS](http://angularjs.org/)",
+          "children": [
+            {
+              "id": "66",
+              "name": "[Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)"
+            }
+          ]
+        },
+        {
+          "id": "67",
+          "name": "[Bootstrap](http://getbootstrap.com/)"
+        },
+        {
+          "id": "68",
+          "name": "[Semantic UI](http://www.semantic-ui.com/)"
+        },
+        {
+          "id": "69",
+          "name": "[Juice UI](http://juiceui.com/)"
+        },
+        {
+          "id": "70",
+          "name": "[Web Atoms](http://webatomsjs.neurospeech.com/)"
+        },
+        {
+          "id": "71",
+          "name": "[Polymer](http://docs.polymerchina.org/)"
+        },
+        {
+          "id": "72",
+          "name": "[Dhtmlx](http://dhtmlx.com/)"
+        },
+        {
+          "id": "73",
+          "name": "[qooxdoo](http://qooxdoo.org/)"
+        },
+        {
+          "id": "74",
+          "name": "[React](http://facebook.github.io/react/)"
+        },
+        {
+          "id": "75",
+          "name": "[Brick](http://mozbrick.github.io/)"
+        },
+        {
+          "id": "76",
+          "name": "[Knockout](http://knockoutjs.com/)"
+        }
+      ]
+    },
+    {
+      "id": "77",
+      "name": "前端标准/规范",
+      "children": [
+        {
+          "id": "78",
+          "name": "HTTP/1.1: RFCs 7230-7235"
+        },
+        {
+          "id": "79",
+          "name": "[HTTP/2](https://http2.github.io/)"
+        },
+        {
+          "id": "80",
+          "name": "[ECMAScript3/5](http://www.ecma-international.org/publications/standards/Ecma-262.htm)"
+        },
+        {
+          "id": "81",
+          "name": "[W3C: DOM/BOM/XHTML/XML/JSON/JSONP/...](http://www.w3.org/TR/)"
+        },
+        {
+          "id": "82",
+          "name": "[CommonJS Modules](http://wiki.commonjs.org/wiki/Modules/1.0)/[AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)"
+        },
+        {
+          "id": "83",
+          "name": "[HTML5](http://www.w3.org/html/wg/drafts/html/master/)/[CSS3](http://www.w3.org/Style/CSS/specs.en.html)"
+        },
+        {
+          "id": "84",
+          "name": "[Semantic Web](http://semanticweb.org/)",
+          "children": [
+            {
+              "id": "85",
+              "name": "[MicroData](http://schema.org)"
+            },
+            {
+              "id": "86",
+              "name": "[RDFa](http://www.w3.org/TR/rdfa-core/)"
+            }
+          ]
+        },
+        {
+          "id": "87",
+          "name": "[Web Accessibility](http://www.w3.org/WAI/)",
+          "children": [
+            {
+              "id": "88",
+              "name": "[WCAG](http://www.w3.org/TR/WAI-WEBCONTENT/)"
+            },
+            {
+              "id": "89",
+              "name": "[Role Attribute](http://www.w3.org/TR/role-attribute/)"
+            },
+            {
+              "id": "90",
+              "name": "[WAI-ARIA](http://www.w3.org/TR/wai-aria/)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "91",
+      "name": "性能",
+      "children": [
+        {
+          "id": "92",
+          "name": "[JSPerf](http://jsperf.com/)"
+        },
+        {
+          "id": "93",
+          "name": "[YSlow 35 rules](http://developer.yahoo.com/performance/rules.html)"
+        },
+        {
+          "id": "94",
+          "name": "[PageSpeed](https://developers.google.com/speed/pagespeed/)"
+        },
+        {
+          "id": "95",
+          "name": "[HTTPWatch](http://www.httpwatch.com/)"
+        },
+        {
+          "id": "96",
+          "name": "[DynaTrace's Ajax](http://www.compuware.com/application-performance-management/dynatrace-ajax-download.html)"
+        },
+        {
+          "id": "97",
+          "name": "[高性能JavaScript](http://book.douban.com/subject/5362856/)"
+        }
+      ]
+    },
+    {
+      "id": "98",
+      "name": "SEO"
+    },
+    {
+      "id": "99",
+      "name": "编程知识储备",
+      "children": [
+        {
+          "id": "100",
+          "name": "[数据结构](http://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)"
+        },
+        {
+          "id": "101",
+          "name": "OOP/AOP"
+        },
+        {
+          "id": "102",
+          "name": "[原型链](http://net.tutsplus.com/tutorials/javascript-ajax/prototypes-in-javascript-what-you-need-to-know/)/作用域链"
+        },
+        {
+          "id": "103",
+          "name": "[闭包](http://www.jibbering.com/faq/notes/closures/)"
+        },
+        {
+          "id": "104",
+          "name": "[编程范型](http://zh.wikipedia.org/wiki/%E7%BC%96%E7%A8%8B%E8%8C%83%E5%9E%8B)"
+        },
+        {
+          "id": "105",
+          "name": "[设计模式](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)"
+        },
+        {
+          "id": "106",
+          "name": "[Javascript Tips](http://sanshi.me/articles/JavaScript-Garden-CN/html/index.html)"
+        }
+      ]
+    },
+    {
+      "id": "107",
+      "name": "部署流程",
+      "children": [
+        {
+          "id": "108",
+          "name": "压缩合并",
+          "children": [
+            {
+              "id": "109",
+              "name": "[YUI Compressor](http://developer.yahoo.com/yui/compressor/)"
+            },
+            {
+              "id": "110",
+              "name": "[Google Clousure Complier](https://developers.google.com/closure/compiler/)"
+            },
+            {
+              "id": "111",
+              "name": "[UglifyJS](https://github.com/mishoo/UglifyJS)"
+            },
+            {
+              "id": "112",
+              "name": "[CleanCSS](https://github.com/GoalSmashers/clean-css)"
+            }
+          ]
+        },
+        {
+          "id": "113",
+          "name": "文档输出",
+          "children": [
+            {
+              "id": "114",
+              "name": "[JSDoc](https://github.com/jsdoc3/jsdoc)"
+            },
+            {
+              "id": "115",
+              "name": "[Dox](https://github.com/visionmedia/dox)/[Doxmate](https://github.com/JacksonTian/doxmate)/[Grunt-Doxmate](https://github.com/luozhihua/grunt-doxmate)"
+            }
+          ]
+        },
+        {
+          "id": "116",
+          "name": "项目构建工具",
+          "children": [
+            {
+              "id": "117",
+              "name": "[make](http://www.gnu.org/software/make/)/[Ant](http://ant.apache.org/)"
+            },
+            {
+              "id": "118",
+              "name": "[GYP](http://code.google.com/p/gyp/)"
+            },
+            {
+              "id": "119",
+              "name": "[Grunt](http://gruntjs.com/)"
+            },
+            {
+              "id": "120",
+              "name": "[Gulp](http://gulpjs.com/)"
+            },
+            {
+              "id": "121",
+              "name": "[Yeoman](http://yeoman.io/)"
+            },
+            {
+              "id": "122",
+              "name": "[FIS](http://fis.baidu.com/)"
+            },
+            {
+              "id": "123",
+              "name": "[Mod](https://github.com/modulejs/modjs)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "124",
+      "name": "代码组织",
+      "children": [
+        {
+          "id": "125",
+          "name": "类库模块化",
+          "children": [
+            {
+              "id": "126",
+              "name": "[CommonJS](http://www.commonjs.org/)/AMD"
+            },
+            {
+              "id": "127",
+              "name": "[YUI3模块](http://yuilibrary.com/projects/yui3/)"
+            }
+          ]
+        },
+        {
+          "id": "128",
+          "name": "业务逻辑模块化",
+          "children": [
+            {
+              "id": "129",
+              "name": "[bower](https://github.com/twitter/bower)/[component](https://github.com/component/component)"
+            }
+          ]
+        },
+        {
+          "id": "130",
+          "name": "文件加载",
+          "children": [
+            {
+              "id": "131",
+              "name": "[LABjs](http://labjs.com/)"
+            },
+            {
+              "id": "132",
+              "name": "[SeaJS](http://seajs.org/)/[Require.js](http://requirejs.org/)"
+            }
+          ]
+        },
+        {
+          "id": "133",
+          "name": "模块化预处理器",
+          "children": [
+            {
+              "id": "134",
+              "name": "[Browserify](https://github.com/substack/node-browserify)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "135",
+      "name": "安全",
+      "children": [
+        {
+          "id": "136",
+          "name": "[CSRF](http://en.wikipedia.org/wiki/Cross-site_request_forgery)/[XSS](http://en.wikipedia.org/wiki/Cross-site_scripting)"
+        },
+        {
+          "id": "137",
+          "name": "[CSP](http://www.w3.org/TR/CSP/)"
+        },
+        {
+          "id": "138",
+          "name": "[Same-origin policy](https://developer.mozilla.org/docs/Web/Security/Same-origin_policy)"
+        },
+        {
+          "id": "139",
+          "name": "ADsafe/Caja/Sandbox"
+        }
+      ]
+    },
+    {
+      "id": "140",
+      "name": "移动Web",
+      "children": [
+        {
+          "id": "141",
+          "name": "HTML5/CSS3"
+        },
+        {
+          "id": "142",
+          "name": "[响应式网页设计](http://zh.wikipedia.org/wiki/%E5%93%8D%E5%BA%94%E5%BC%8F%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1)"
+        },
+        {
+          "id": "143",
+          "name": "[Zeptojs](http://zeptojs.com/)/[iScroll](http://cubiq.org/iscroll)"
+        },
+        {
+          "id": "144",
+          "name": "V5/[Sencha Touch](http://www.sencha.com/products/touch)"
+        },
+        {
+          "id": "145",
+          "name": "[PhoneGap](http://phonegap.com/)"
+        },
+        {
+          "id": "146",
+          "name": "[jQuery Mobile](http://jquerymobile.com/)"
+        },
+        {
+          "id": "147",
+          "name": "[W3C Mobile Web Initiative](http://www.w3.org/Mobile/)"
+        },
+        {
+          "id": "148",
+          "name": "[W3C mobileOK Checker](http://validator.w3.org/mobile/)"
+        },
+        {
+          "id": "149",
+          "name": "[Open Mobile Alliance](http://openmobilealliance.org/)"
+        }
+      ]
+    },
+    {
+      "id": "150",
+      "name": "前沿技术社区/会议",
+      "children": [
+        {
+          "id": "151",
+          "name": "[D2](http://d2forum.org)/[WebRebuild](http://www.webrebuild.org/)"
+        },
+        {
+          "id": "152",
+          "name": "NodeParty/[W3CTech](http://w3ctech.com)/[HTML5梦工厂](http://www.html5dw.com)"
+        },
+        {
+          "id": "153",
+          "name": "[JSConf](http://jsconf.com/)/[沪JS(JSConf.cn)](http://jsconf.cn)"
+        },
+        {
+          "id": "154",
+          "name": "QCon/Velocity/SDCC"
+        },
+        {
+          "id": "155",
+          "name": "[JSConf](http://jsconf.com/)/[NodeConf](http://www.nodeconf.com/)"
+        },
+        {
+          "id": "156",
+          "name": "[CSSConf](http://cssconf.com/)"
+        },
+        {
+          "id": "157",
+          "name": "YDN/YUIConf"
+        },
+        {
+          "id": "158",
+          "name": "HybridApp"
+        },
+        {
+          "id": "159",
+          "name": "[WHATWG](http://whatwg.org/)"
+        }
+      ]
+    },
+    {
+      "id": "160",
+      "name": "计算机知识储备",
+      "children": [
+        {
+          "id": "161",
+          "name": "编译原理"
+        },
+        {
+          "id": "162",
+          "name": "[计算机网络](http://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)"
+        },
+        {
+          "id": "163",
+          "name": "[操作系统](http://zh.wikipedia.org/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)"
+        },
+        {
+          "id": "164",
+          "name": "算法原理"
+        },
+        {
+          "id": "165",
+          "name": "软件工程/软件测试原理"
+        },
+        {
+          "id": "166",
+          "name": "[Unicode](http://www.unicode.org/)"
+        }
+      ]
+    },
+    {
+      "id": "167",
+      "name": "软技能",
+      "children": [
+        {
+          "id": "168",
+          "name": "知识管理/总结分享"
+        },
+        {
+          "id": "169",
+          "name": "沟通技巧/团队协作"
+        },
+        {
+          "id": "170",
+          "name": "需求管理/PM"
+        },
+        {
+          "id": "171",
+          "name": "交互设计/可用性/可访问性知识"
+        }
+      ]
+    },
+    {
+      "id": "172",
+      "name": "可视化",
+      "children": [
+        {
+          "id": "173",
+          "name": "SVG/Canvas/VML"
+        },
+        {
+          "id": "174",
+          "name": "SVG: [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[Snap.svg](http://snapsvg.io/)/[DataV](http://datavlab.org/datavjs/)"
+        },
+        {
+          "id": "175",
+          "name": "Canvas: [CreateJS](http://www.createjs.com/)/[KineticJS](http://kineticjs.com/)"
+        },
+        {
+          "id": "176",
+          "name": "[WebGL](http://en.wikipedia.org/wiki/WebGL)/[Three.JS](http://threejs.org/)"
+        }
+      ]
+    }
+  ]
+}

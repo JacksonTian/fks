@@ -1,0 +1,20 @@
+{
+  "name": "front-end-collect-",
+  "version": "0.0.0",
+  "authors": [
+    "hjzheng <zhenghaoju700@163.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.19",
+    "d3": "~3.4.9",
+    "angular-marked": "~0.0.12",
+    "jquery": "~2.1.3"
+  }
+}
