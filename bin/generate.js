@@ -82,4 +82,4 @@ var buildTree = function (list) {
 };
 
 var tree = buildTree(formated);
-fs.writeFileSync(path.join(__dirname, '../fks-chart/data/front-end.json'), JSON.stringify(tree, null, '  '));
+fs.writeFileSync(path.join(__dirname, '../fks_chart/data/front-end.json'), JSON.stringify(tree, null, '  '));
