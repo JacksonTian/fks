@@ -12,7 +12,7 @@
     <link rel="stylesheet" type="text/css" href="assets/base.css" />
   </head>
   <body>
-    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-inverse navbar-static-top top-navbar" role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -89,7 +89,7 @@
       <section>
         <h1>Frontend Knowledge Structure</h1>
 <h2>项目起源</h2>
-<p>还记得@jayli 的这幅前端知识结构图么。</p><p><img src="https://raw.github.com/JacksonTian/fks/master/figures/fks.jpg" alt="前端知识结构"></p><p>图片的形式具有诸多的不便。缺失源图的我们，无法为此图贡献些什么，随着时间的迁移，或许有些技术点会发生改变，所以有了这个GitHub项目。我们可以通过协作的方式来共同维护这个项目。Git的历史记录也可以见证前端行业的一些变迁。</p><p><a href="http://html5ify.com/fks/fks-chart/">可视化效果</a></p><h2>前端开发知识结构</h2>
+<p>还记得@jayli 的这幅前端知识结构图么。</p><p><img src="https://raw.github.com/JacksonTian/fks/master/figures/fks.jpg" alt="前端知识结构"></p><p>图片的形式具有诸多的不便。缺失源图的我们，无法为此图贡献些什么，随着时间的迁移，或许有些技术点会发生改变，所以有了这个GitHub项目。我们可以通过协作的方式来共同维护这个项目。Git的历史记录也可以见证前端行业的一些变迁。</p><p><a href="http://html5ify.com/fks/fks_chart/">可视化效果</a></p><h2>前端开发知识结构</h2>
 <ul>
 <li><p>前端工程师</p><ul>
 <li>浏览器<ul>
@@ -110,7 +110,7 @@
 <li><a href="http://www.w3.org/html/">HTML</a>/<a href="http://www.w3.org/TR/html5/">HTML5</a></li>
 <li><a href="http://www.w3.org/Style/CSS/">CSS/CSS3</a></li>
 <li><a href="http://sass-lang.com/">Sass</a>/<a href="http://lesscss.org/">LESS</a>/<a href="http://learnboost.github.io/stylus/">Stylus</a></li>
-<li><a href="http://www.photoshop.com/products/photoshop">PhotoShop</a>/<a href="http://www.getpaint.net/">Paint.net</a>/<a href="http://www.adobe.com/cn/products/fireworks.html">Fireworks</a>/<a href="http://www.gimp.org/">GIMP</a></li>
+<li><a href="http://www.photoshop.com/products/photoshop">PhotoShop</a>/<a href="http://www.getpaint.net/">Paint.net</a>/<a href="http://www.adobe.com/cn/products/fireworks.html">Fireworks</a>/<a href="http://www.gimp.org/">GIMP</a>/<a href="http://bohemiancoding.com/sketch/">Sketch</a></li>
 </ul>
 </li>
 <li>开发工具<ul>
@@ -510,19 +510,28 @@
         $('td pre').removeClass('prettyprint');
         prettyPrint();
         var $window = $(window);
-        $('.bs-docs-sidenav').affix({
-          offset: {
-            top: function () {
-              return $window.width() <= 980 ? 290 : 210
-            },
-            bottom: 270
-          }
-        });
+        var sidenav = $('.bs-docs-sidenav');
+        if (sidenav.height() < window.innerHeight) {
+          sidenav.affix({
+            offset: {
+              top: function () {
+                return $window.width() <= 980 ? 290 : 210
+              },
+              bottom: 200
+            }
+          });
+        } else {
+          sidenav.removeClass('affix');
+        }
         $(".content").find('h1, h2, h3, h4, h5, h6').each(function () {
           var node = $(this);
           // 总是设置id
           node.attr("id", node.data('id') || "index_" + node.text());
-          node.css("paddingTop", 50);
+        });
+
+        $('.bs-docs-sidenav .accordion-marker').on('click', function(event) {
+          var current = $(event.currentTarget);
+          current.find('.glyphicon').toggleClass('glyphicon-chevron-right glyphicon-chevron-down');
         });
       });
     </script>

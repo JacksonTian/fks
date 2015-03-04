@@ -5,14 +5,6 @@
   Special styles for presenting Bootstrap's documentation and examples
 */
 
-
-
-/* Body and structure
--------------------------------------------------- */
-
-body {
-  padding-top: 40px;
-}
 /* Code in headings */
 h3 code {
   font-size: 14px;
@@ -282,11 +274,7 @@ h2 + .row {
   margin: 30px 0 0;
   padding: 0;
   background-color: #fff;
-  -webkit-border-radius: 6px;
-  -moz-border-radius: 6px;
   border-radius: 6px;
-  -webkit-box-shadow: 0 1px 4px rgba(0,0,0,.065);
-  -moz-box-shadow: 0 1px 4px rgba(0,0,0,.065);
   box-shadow: 0 1px 4px rgba(0,0,0,.065);
 }
 .bs-docs-sidenav > li > a {
@@ -432,12 +420,16 @@ h2 + .row {
   opacity: 1;
 }
 .bs-docs-sidenav.affix {
-  top: 40px;
+  top: 0;
 }
 .bs-docs-sidenav.affix-bottom {
   position: absolute;
   top: auto;
   bottom: 270px;
+}
+
+.top-navbar {
+  margin-bottom: 0;
 }
 
 .navbar .nav > li > .dropdown-menu::after {
@@ -476,11 +468,6 @@ ol.linenums li {
   text-shadow: 0 1px 0 #fff;
 }
 
-.content > h1,
-.content > h2,
-.content > h3,
-.content > h4,
-.content > h5,
-.content > h6 {
-  padding-top: 45px;
+.table p {
+  margin: 0;
 }

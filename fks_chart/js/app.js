@@ -40,8 +40,8 @@ angular.module('frontEnd', ["hc.marked"])
         });
 
       var svg = d3.select($el[0]).append("svg")
-        .attr("width", radius * 2)
-        .attr("height", radius * 2)
+        .attr("width", document.documentElement.clientWidth)
+        .attr("height", document.documentElement.clientHeight - 5)
         .call(
           d3.behavior.zoom().scaleExtent([0.6, 3]).on("zoom", zoom)
         );
@@ -50,7 +50,7 @@ angular.module('frontEnd', ["hc.marked"])
         .attr("transform", "translate(" + radius + "," + radius + ")");
 
       function zoom () {
-        //svg.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")" );
+        g.attr("transform", "translate(" + d3.event.translate + ")scale(" + d3.event.scale + ")" );
       }
 
       var update = function() {
