@@ -12,7 +12,7 @@ Frontend Knowledge Structure
 ## 前端开发知识结构
 - 前端工程师
     - 浏览器
-        - IE6/[7](http://www.microsoft.com/en-US/download/details.aspx?id=2)/[8](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-8)/[9](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-9/worldwide-languages)/[10](http://windows.microsoft.com/en-US/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/en-US/internet-explorer/ie-11-worldwide-languages) (Trident)
+        - IE6/[7](http://windows.microsoft.com/en-us/internet-explorer/download-ie)/[8](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-8)/[9](http://windows.microsoft.com/en-US/internet-explorer/downloads/ie-9/worldwide-languages)/[10](http://windows.microsoft.com/en-US/internet-explorer/ie-10-worldwide-languages)/[11](http://windows.microsoft.com/en-US/internet-explorer/ie-11-worldwide-languages) (Trident)
         - [Firefox](http://www.mozilla.org/en-US/) (Gecko)
         - [Chrome](http://www.google.com/chrome)/[Chromium](http://www.chromium.org/) (Blink)
         - [Safari](http://www.apple.com/safari/) (WebKit)
@@ -55,7 +55,7 @@ Frontend Knowledge Structure
             - [DebugBar](http://www.debugbar.com/)
             - [Venkman](https://developer.mozilla.org/en-US/docs/Venkman)
         - 版本管理
-            - [Git](git-scm.com/)/[SVN](http://subversion.apache.org/)/[Mercurial](http://mercurial.selenic.com/)
+            - [Git](http://git-scm.com/)/[SVN](http://subversion.apache.org/)/[Mercurial](http://mercurial.selenic.com/)
             - [Github](https://github.com/)/[GitLab](https://about.gitlab.com/)/[Bitbucket](https://bitbucket.org/)/[Gitorious](https://gitorious.org/)/[GNU Savannah](http://savannah.gnu.org/)/[Launchpad](https://launchpad.net/)/[SourceForge](http://sourceforge.net/)/[TeamForge](http://www.collab.net/products/teamforge)
     - 代码质量
         - Coding style
@@ -64,8 +64,8 @@ Frontend Knowledge Structure
             - [Markup Validation Service](http://validator.w3.org/)
             - [HTML Validators](https://validator.whatwg.org/)
         - 单元测试
-            - [QUnit](http://qunitjs.com/)/[Jasmine](http://pivotal.github.com/jasmine/)
-            - [Mocha](http://visionmedia.github.com/mocha/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
+            - [QUnit](http://qunitjs.com/)/[Jasmine](http://jasmine.github.io/)
+            - [Mocha](http://mochajs.org/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
             - [Unit JS](http://unitjs.com/)
         - 自动化测试
             - [WebDriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)/[Protractor](https://github.com/angular/protractor)/[Karma Runner](https://github.com/karma-runner/karma)/[Sahi](http://sahi.co.in/)
