@@ -41,7 +41,7 @@ Although the project would be maintained in plain text instead, I promise a smal
             - [Neovim](http://neovim.org/)
             - [Komodo IDE / Edit](http://www.activestate.com/komodo-edit)
             - [Eclipse](http://www.eclipse.org/)
-            - [Visual Studio](http://www.visualstudio.com/)
+            - [Visual Studio](http://www.visualstudio.com/)/[Visual Studio Code](https://code.visualstudio.com/)
             - [NetBeans](https://netbeans.org/)
             - [Cloud9 IDE](http://c9.io/)
             - [HBuilder](http://www.dcloud.io/)
