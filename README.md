@@ -170,6 +170,10 @@ Frontend Knowledge Structure
         - YDN/YUIConf
         - HybridApp
         - [WHATWG](http://whatwg.org/)
+        - [MDN](https://developer.mozilla.org/zh-CN/)
+        - [codepen](http://codepen.io/)
+        - [w3cplus](http://www.w3cplus.com/)
+        - [CNode](https://cnodejs.org/)
     - 计算机知识储备
         - 编译原理
         - [计算机网络](http://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
