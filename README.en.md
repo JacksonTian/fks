@@ -170,6 +170,10 @@ Although the project would be maintained in plain text instead, I promise a smal
         - YDN/YUIConf
         - HybridApp
         - [WHATWG](http://whatwg.org/)
+        - [MDN](https://developer.mozilla.org/en-US/)
+        - [codepen](http://codepen.io/)
+        - [w3cplus](http://www.w3cplus.com/)
+        - [CNode](https://cnodejs.org/)
     - Computer science
         - Compilation principle
         - [Computer network](http://en.wikipedia.org/wiki/Computer_network)
