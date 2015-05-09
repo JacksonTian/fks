@@ -130,7 +130,7 @@
             },
             {
               "id": "31",
-              "name": "[Visual Studio](http://www.visualstudio.com/)"
+              "name": "[Visual Studio](http://www.visualstudio.com/)/[Visual Studio Code](https://code.visualstudio.com/)"
             },
             {
               "id": "32",
@@ -143,57 +143,61 @@
             {
               "id": "34",
               "name": "[HBuilder](http://www.dcloud.io/)"
+            },
+            {
+              "id": "35",
+              "name": "[Nuclide](http://nuclide.io/)"
             }
           ]
         },
         {
-          "id": "35",
+          "id": "36",
           "name": "调试工具",
           "children": [
             {
-              "id": "36",
+              "id": "37",
               "name": "[Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)"
             },
             {
-              "id": "37",
+              "id": "38",
               "name": "[YSlow](http://developer.yahoo.com/yslow/)"
             },
             {
-              "id": "38",
+              "id": "39",
               "name": "[IEDeveloperToolbar](http://www.microsoft.com/en-us/download/details.aspx?id=18359)/[IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)"
             },
             {
-              "id": "39",
+              "id": "40",
               "name": "[Fiddler](http://www.fiddler2.com/fiddler2/)"
             },
             {
-              "id": "40",
+              "id": "41",
               "name": "[Chrome Dev Tools](https://developers.google.com/chrome-developer-tools/)"
             },
             {
-              "id": "41",
+              "id": "42",
               "name": "[Dragonfly](http://www.opera.com/dragonfly/)"
             },
             {
-              "id": "42",
+              "id": "43",
               "name": "[DebugBar](http://www.debugbar.com/)"
             },
             {
-              "id": "43",
+              "id": "44",
               "name": "[Venkman](https://developer.mozilla.org/en-US/docs/Venkman)"
             }
           ]
         },
         {
-          "id": "44",
+          "id": "45",
           "name": "版本管理",
           "children": [
             {
-              "id": "45",
+              "id": "46",
               "name": "[Git](http://git-scm.com/)/[SVN](http://subversion.apache.org/)/[Mercurial](http://mercurial.selenic.com/)"
             },
             {
-              "id": "46",
+              "id": "47",
               "name": "[Github](https://github.com/)/[GitLab](https://about.gitlab.com/)/[Bitbucket](https://bitbucket.org/)/[Gitorious](https://gitorious.org/)/[GNU Savannah](http://savannah.gnu.org/)/[Launchpad](https://launchpad.net/)/[SourceForge](http://sourceforge.net/)/[TeamForge](http://www.collab.net/products/teamforge)"
             }
           ]
@@ -201,63 +205,63 @@
       ]
     },
     {
-      "id": "47",
+      "id": "48",
       "name": "代码质量",
       "children": [
         {
-          "id": "48",
+          "id": "49",
           "name": "Coding style",
           "children": [
             {
-              "id": "49",
+              "id": "50",
               "name": "[JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)/[jscs](https://github.com/mdevils/node-jscs)"
             },
             {
-              "id": "50",
+              "id": "51",
               "name": "[CSSLint](http://csslint.net/)"
             },
             {
-              "id": "51",
+              "id": "52",
               "name": "[Markup Validation Service](http://validator.w3.org/)"
             },
             {
-              "id": "52",
+              "id": "53",
               "name": "[HTML Validators](https://validator.whatwg.org/)"
             }
           ]
         },
         {
-          "id": "53",
+          "id": "54",
           "name": "单元测试",
           "children": [
             {
-              "id": "54",
+              "id": "55",
               "name": "[QUnit](http://qunitjs.com/)/[Jasmine](http://jasmine.github.io/)"
             },
             {
-              "id": "55",
+              "id": "56",
               "name": "[Mocha](http://mochajs.org/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)"
             },
             {
-              "id": "56",
+              "id": "57",
               "name": "[Unit JS](http://unitjs.com/)"
             }
           ]
         },
         {
-          "id": "57",
+          "id": "58",
           "name": "自动化测试",
           "children": [
             {
-              "id": "58",
+              "id": "59",
               "name": "[WebDriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)/[Protractor](https://github.com/angular/protractor)/[Karma Runner](https://github.com/karma-runner/karma)/[Sahi](http://sahi.co.in/)"
             },
             {
-              "id": "59",
+              "id": "60",
               "name": "[phantomjs](http://phantomjs.org/)"
             },
             {
-              "id": "60",
+              "id": "61",
               "name": "[SourceLabs](https://saucelabs.com/)/[BrowserStack](http://www.browserstack.com/)"
             }
           ]
@@ -265,65 +269,65 @@
       ]
     },
     {
-      "id": "61",
+      "id": "62",
       "name": "前端库/框架",
       "children": [
         {
-          "id": "62",
+          "id": "63",
           "name": "[jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)"
         },
         {
-          "id": "63",
+          "id": "64",
           "name": "[YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)/[KISSY](http://docs.kissyui.com/)"
         },
         {
-          "id": "64",
+          "id": "65",
           "name": "[Backbone](http://backbonejs.org/)/[KnockoutJS](http://knockoutjs.com/)/[Emberjs](http://emberjs.com/)"
         },
         {
-          "id": "65",
+          "id": "66",
           "name": "[AngularJS](http://angularjs.org/)",
           "children": [
             {
-              "id": "66",
+              "id": "67",
               "name": "[Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk)"
             }
           ]
         },
         {
-          "id": "67",
+          "id": "68",
           "name": "[Bootstrap](http://getbootstrap.com/)"
         },
         {
-          "id": "68",
+          "id": "69",
           "name": "[Semantic UI](http://www.semantic-ui.com/)"
         },
         {
-          "id": "69",
+          "id": "70",
           "name": "[Juice UI](http://juiceui.com/)"
         },
         {
-          "id": "70",
+          "id": "71",
           "name": "[Web Atoms](http://webatomsjs.neurospeech.com/)"
         },
         {
-          "id": "71",
+          "id": "72",
           "name": "[Polymer](http://docs.polymerchina.org/)"
         },
         {
-          "id": "72",
+          "id": "73",
           "name": "[Dhtmlx](http://dhtmlx.com/)"
         },
         {
-          "id": "73",
+          "id": "74",
           "name": "[qooxdoo](http://qooxdoo.org/)"
         },
         {
-          "id": "74",
+          "id": "75",
           "name": "[React](http://facebook.github.io/react/)"
         },
         {
-          "id": "75",
+          "id": "76",
           "name": "[Brick](http://mozbrick.github.io/)"
         }
       ]
@@ -691,79 +695,95 @@
         {
           "id": "158",
           "name": "[WHATWG](http://whatwg.org/)"
+        },
+        {
+          "id": "160",
+          "name": "[MDN](https://developer.mozilla.org/zh-CN/)"
+        },
+        {
+          "id": "161",
+          "name": "[codepen](http://codepen.io/)"
+        },
+        {
+          "id": "162",
+          "name": "[w3cplus](http://www.w3cplus.com/)"
+        },
+        {
+          "id": "163",
+          "name": "[CNode](https://cnodejs.org/)"
         }
       ]
     },
     {
-      "id": "159",
+      "id": "164",
       "name": "计算机知识储备",
       "children": [
         {
-          "id": "160",
+          "id": "165",
           "name": "编译原理"
         },
         {
-          "id": "161",
+          "id": "166",
           "name": "[计算机网络](http://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)"
         },
         {
-          "id": "162",
+          "id": "167",
           "name": "[操作系统](http://zh.wikipedia.org/wiki/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F)"
         },
         {
-          "id": "163",
+          "id": "168",
           "name": "算法原理"
         },
         {
-          "id": "164",
+          "id": "169",
           "name": "软件工程/软件测试原理"
         },
         {
-          "id": "165",
+          "id": "170",
           "name": "[Unicode](http://www.unicode.org/)"
         }
       ]
     },
     {
-      "id": "166",
+      "id": "171",
       "name": "软技能",
       "children": [
         {
-          "id": "167",
+          "id": "172",
           "name": "知识管理/总结分享"
         },
         {
-          "id": "168",
+          "id": "173",
           "name": "沟通技巧/团队协作"
         },
         {
-          "id": "169",
+          "id": "174",
           "name": "需求管理/PM"
         },
         {
-          "id": "170",
+          "id": "175",
           "name": "交互设计/可用性/可访问性知识"
         }
       ]
     },
     {
-      "id": "171",
+      "id": "176",
       "name": "可视化",
       "children": [
         {
-          "id": "172",
+          "id": "177",
           "name": "SVG/Canvas/VML"
         },
         {
-          "id": "173",
+          "id": "178",
           "name": "SVG: [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[Snap.svg](http://snapsvg.io/)/[DataV](http://datavlab.org/datavjs/)"
         },
         {
-          "id": "174",
+          "id": "179",
           "name": "Canvas: [CreateJS](http://www.createjs.com/)/[KineticJS](http://kineticjs.com/)"
         },
         {
-          "id": "175",
+          "id": "180",
           "name": "[WebGL](http://en.wikipedia.org/wiki/WebGL)/[Three.JS](http://threejs.org/)"
         }
       ]
