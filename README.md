@@ -220,8 +220,10 @@ Frontend Knowledge Structure
 - [Eric Meyer 谈 CSS（卷二）](http://www.amazon.cn/Eric-Meyer-谈-CSS-迈耶/dp/B00170M84I/)★★★
 - [CSS权威指南 （第3版）](http://book.douban.com/subject/2308234/)★★
 - [精通CSS](http://book.douban.com/subject/4736167/)★★★
+- [HTML & CSS设计与构建网站](http://book.douban.com/subject/21338365/)★ 
 
 ### JavaScript
+- [JavaScript & jQuery交互式Web前端开发](http://book.douban.com/subject/26433805/)★ 
 - [JavaScript DOM编程艺术 （第2版）](http://book.douban.com/subject/6038371/)★
 - [JavaScript高级程序设计（第3版）](http://book.douban.com/subject/10546125/)★★
 - [锋利的jQuery](http://book.douban.com/subject/10792216/)★★
