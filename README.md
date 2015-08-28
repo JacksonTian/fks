@@ -60,7 +60,7 @@ Frontend Knowledge Structure
             - [Github](https://github.com/)/[GitLab](https://about.gitlab.com/)/[Bitbucket](https://bitbucket.org/)/[Gitorious](https://gitorious.org/)/[GNU Savannah](http://savannah.gnu.org/)/[Launchpad](https://launchpad.net/)/[SourceForge](http://sourceforge.net/)/[TeamForge](http://www.collab.net/products/teamforge)
     - 代码质量
         - Coding style
-            - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)/[jscs](https://github.com/mdevils/node-jscs)
+            - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)/[jscs](https://github.com/mdevils/node-jscs)/[ESLint](https://github.com/eslint/eslint)
             - [CSSLint](http://csslint.net/)
             - [Markup Validation Service](http://validator.w3.org/)
             - [HTML Validators](https://validator.whatwg.org/)
@@ -87,10 +87,12 @@ Frontend Knowledge Structure
         - [qooxdoo](http://qooxdoo.org/)
         - [React](http://facebook.github.io/react/)
         - [Brick](http://mozbrick.github.io/)
+        - [vue.js](http://cn.vuejs.org/)
     - 前端标准/规范
         - HTTP/1.1: RFCs 7230-7235
         - [HTTP/2](https://http2.github.io/)
         - [ECMAScript3/5](http://www.ecma-international.org/publications/standards/Ecma-262.htm)
+        - [ECMAScript6](http://www.ecma-international.org/ecma-262/6.0/index.html)
         - [W3C: DOM/BOM/XHTML/XML/JSON/JSONP/...](http://www.w3.org/TR/)
         - [CommonJS Modules](http://wiki.commonjs.org/wiki/Modules/1.0)/[AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)
         - [HTML5](http://www.w3.org/html/wg/drafts/html/master/)/[CSS3](http://www.w3.org/Style/CSS/specs.en.html)
@@ -138,6 +140,7 @@ Frontend Knowledge Structure
         - 类库模块化
             - [CommonJS](http://www.commonjs.org/)/AMD
             - [YUI3模块](http://yuilibrary.com/projects/yui3/)
+            - [webpack](http://webpack.github.io/)
         - 业务逻辑模块化
             - [bower](https://github.com/twitter/bower)/[component](https://github.com/component/component)
         - 文件加载
@@ -220,8 +223,10 @@ Frontend Knowledge Structure
 - [Eric Meyer 谈 CSS（卷二）](http://www.amazon.cn/Eric-Meyer-谈-CSS-迈耶/dp/B00170M84I/)★★★
 - [CSS权威指南 （第3版）](http://book.douban.com/subject/2308234/)★★
 - [精通CSS](http://book.douban.com/subject/4736167/)★★★
+- [HTML & CSS设计与构建网站](http://book.douban.com/subject/21338365/)★ 
 
 ### JavaScript
+- [JavaScript & jQuery交互式Web前端开发](http://book.douban.com/subject/26433805/)★ 
 - [JavaScript DOM编程艺术 （第2版）](http://book.douban.com/subject/6038371/)★
 - [JavaScript高级程序设计（第3版）](http://book.douban.com/subject/10546125/)★★
 - [锋利的jQuery](http://book.douban.com/subject/10792216/)★★
