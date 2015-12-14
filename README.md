@@ -24,7 +24,7 @@ Frontend Knowledge Structure
     - 切页面
         - [HTML](http://www.w3.org/html/)/[HTML5](http://www.w3.org/TR/html5/)
         - [CSS/CSS3](http://www.w3.org/Style/CSS/)
-        - [Sass](http://sass-lang.com/)/[LESS](http://lesscss.org/)/[Stylus](http://learnboost.github.io/stylus/)
+        - [Sass](http://sass-lang.com/)/[LESS](http://lesscss.org/)/[Stylus](http://learnboost.github.io/stylus/)/[postCSS](https://github.com/postcss/postcss)
         - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)/[GIMP](http://www.gimp.org/)/[Sketch](http://bohemiancoding.com/sketch/)
     - 开发工具
         - 编辑器和IDE
@@ -223,10 +223,10 @@ Frontend Knowledge Structure
 - [Eric Meyer 谈 CSS（卷二）](http://www.amazon.cn/Eric-Meyer-谈-CSS-迈耶/dp/B00170M84I/)★★★
 - [CSS权威指南 （第3版）](http://book.douban.com/subject/2308234/)★★
 - [精通CSS](http://book.douban.com/subject/4736167/)★★★
-- [HTML & CSS设计与构建网站](http://book.douban.com/subject/21338365/)★ 
+- [HTML & CSS设计与构建网站](http://book.douban.com/subject/21338365/)★
 
 ### JavaScript
-- [JavaScript & jQuery交互式Web前端开发](http://book.douban.com/subject/26433805/)★ 
+- [JavaScript & jQuery交互式Web前端开发](http://book.douban.com/subject/26433805/)★
 - [JavaScript DOM编程艺术 （第2版）](http://book.douban.com/subject/6038371/)★
 - [JavaScript高级程序设计（第3版）](http://book.douban.com/subject/10546125/)★★
 - [锋利的jQuery](http://book.douban.com/subject/10792216/)★★
