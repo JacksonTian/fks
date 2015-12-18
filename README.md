@@ -289,7 +289,7 @@ Frontend Knowledge Structure
 
 ## 前端工作面试
 - [前端工作面试问题](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
-- [前端开发面试题（中文）](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Question#web)
+- [前端开发面试题（中文）](https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Question)
 
 ## 内容贡献者
 除了感谢Jayli提供了知识结构图的原本来，还感谢以下的内容贡献者们，结果由`git-summary`生成于2014-01-03：
