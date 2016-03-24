@@ -46,6 +46,7 @@ Frontend Knowledge Structure
             - [Cloud9 IDE](http://c9.io/)
             - [HBuilder](http://www.dcloud.io/)
             - [Nuclide](http://nuclide.io/)
+            - [sublimeText](http://www.sublimetext.com/)
         - 调试工具
             - [Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
             - [YSlow](http://developer.yahoo.com/yslow/)
