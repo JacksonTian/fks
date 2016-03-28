@@ -85,7 +85,8 @@ Frontend Knowledge Structure
         - [Polymer](http://docs.polymerchina.org/)
         - [Dhtmlx](http://dhtmlx.com/)
         - [qooxdoo](http://qooxdoo.org/)
-        - [React](http://facebook.github.io/react/)
+        - [Nwjs](https://github.com/nwjs/nw.js)
+        - [React](http://facebook.github.io/react/)/[React-native](https://github.com/facebook/react-native)
         - [Brick](http://mozbrick.github.io/)
         - [vue.js](http://cn.vuejs.org/)
     - 前端标准/规范
