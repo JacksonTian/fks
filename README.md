@@ -243,6 +243,8 @@ Frontend Knowledge Structure
 - [基于MVC的JavaScript Web富应用开发](http://book.douban.com/subject/10733304/)★★★
 
 ### 性能实践
+- [高性能网站建设指南](https://book.douban.com/subject/3132277/)★
+- [高性能网站建设进阶指南](https://book.douban.com/subject/4719162/)★★
 - [Web性能实践日志](http://book.douban.com/subject/25891125/)★★★
 - [Web性能权威指南](http://book.douban.com/subject/25856314/)★★★
 
