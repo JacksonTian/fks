@@ -24,7 +24,7 @@ Although the project would be maintained in plain text instead, I promise a smal
     - Slicing
         - [HTML](http://www.w3.org/html/)/[HTML5](http://www.w3.org/TR/html5/)
         - [CSS](http://www.w3.org/Style/CSS/)/CSS3
-        - [Sass](http://sass-lang.com/)/[LESS](http://lesscss.org/)/[Stylus](http://learnboost.github.io/stylus/)
+        - [Sass](http://sass-lang.com/)/[LESS](http://lesscss.org/)/[Stylus](http://learnboost.github.io/stylus/)/[PostCSS](http://postcss.org/)
         - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)/[GIMP](http://www.gimp.org/)/[Sketch](http://bohemiancoding.com/sketch/)
     - Development tools
         - Editors and IDEs
@@ -134,6 +134,9 @@ Although the project would be maintained in plain text instead, I promise a smal
             - [Yeoman](http://yeoman.io/)
             - [FIS](http://fis.baidu.com/)
             - [Mod](https://github.com/modulejs/modjs)
+        - ES6+ transpiler
+            - [Traceur](https://github.com/google/traceur-compiler)
+            - [Babel](https://babeljs.io/)
     - Code organizing
         - Modularizing libraries
             - [CommonJS](http://www.commonjs.org/)/AMD

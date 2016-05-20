@@ -136,6 +136,9 @@ Frontend Knowledge Structure
             - [Yeoman](http://yeoman.io/)
             - [FIS](http://fis.baidu.com/)
             - [Mod](https://github.com/modulejs/modjs)
+        - ES6＋ 转换器
+            - [Traceur](https://github.com/google/traceur-compiler)
+            - [Babel](https://babeljs.io/)
     - 代码组织
         - 类库模块化
             - [CommonJS](http://www.commonjs.org/)/AMD
