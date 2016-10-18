@@ -197,7 +197,7 @@ Frontend Knowledge Structure
         - 交互设计/可用性/可访问性知识
     - 可视化
         - SVG/Canvas/VML
-        - SVG: [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[Snap.svg](http://snapsvg.io/)/[DataV](http://datavlab.org/datavjs/)
+        - SVG: [D3](http://d3js.org/)/[Raphaël](http://dmitrybaranovskiy.github.io/raphael/)/[Snap.svg](http://snapsvg.io/)/[DataV](http://datavlab.org/datavjs/)
         - Canvas: [CreateJS](http://www.createjs.com/)/[KineticJS](http://kineticjs.com/)
         - [WebGL](http://en.wikipedia.org/wiki/WebGL)/[Three.JS](http://threejs.org/)
 
