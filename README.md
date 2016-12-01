@@ -200,6 +200,7 @@ Frontend Knowledge Structure
         - SVG: [D3](http://d3js.org/)/[Raphaël](http://dmitrybaranovskiy.github.io/raphael/)/[Snap.svg](http://snapsvg.io/)/[DataV](http://datavlab.org/datavjs/)
         - Canvas: [CreateJS](http://www.createjs.com/)/[KineticJS](http://kineticjs.com/)
         - [WebGL](http://en.wikipedia.org/wiki/WebGL)/[Three.JS](http://threejs.org/)
+        - [Stack.gl](http://stack.gl/)
 
 - 后端工程师
     - 编程语言
@@ -208,6 +209,7 @@ Frontend Knowledge Structure
         - [Nginx](http://nginx.org/en/)
         - [Apache](http://httpd.apache.org/)
         - [Lighttpd](http://www.lighttpd.net/)
+        - [HAProxy](http://www.haproxy.org/)
     - 数据库
         - SQL
         - [MySQL](http://www.mysql.com/)/[PostgreSQL](http://www.postgresql.org/)/[Oracle](http://www.oracle.com/us/products/database/overview/index.html)/[DB2](http://www-01.ibm.com/software/data/db2)

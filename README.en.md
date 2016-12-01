@@ -196,6 +196,8 @@ Although the project would be maintained in plain text instead, I promise a smal
         - SVG: [D3](http://d3js.org/)/[Raphaël](http://raphaeljs.com/)/[Snap.svg](http://snapsvg.io/)/[DataV](http://datavlab.org/datavjs/)
         - Canvas: [CreateJS](http://www.createjs.com/)/[KineticJS](http://kineticjs.com/)
         - [WebGL](http://zh.wikipedia.org/wiki/WebGL)/[Three.JS](http://threejs.org/)
+        - [Stack.gl](http://stack.gl/)
+
 - Backend Engineer
     - Programming languages
         - C/C++/Java/PHP/Ruby/Python/...
@@ -203,6 +205,7 @@ Although the project would be maintained in plain text instead, I promise a smal
         - [Nginx](http://nginx.org/en/)
         - [Apache](http://httpd.apache.org/)
         - [Lighttpd](http://www.lighttpd.net/)
+        - [HAProxy](http://www.haproxy.org/)
     - Databases
         - SQL
         - [MySQL](http://www.mysql.com/)/[PostgreSQL](http://www.postgresql.org/)/[Oracle](http://www.oracle.com/us/products/database/overview/index.html)/[DB2](http://www-01.ibm.com/software/data/db2)
