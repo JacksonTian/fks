@@ -219,11 +219,17 @@ Although the project would be maintained in plain text instead, I promise a smal
 
 ## Book Recommendations for Frontend-ers
 The ★ less and easier, the more suitable for starters
+###HTML 
+- [Pro HTML5 Programming](http://book.douban.com/subject/7067727/)★★★
+
 
 ### CSS
 - [More Eric Meyer on CSS](http://www.amazon.com/More-Eric-Meyer-Voices-Matter/dp/0735714258/)★★★
 - [CSS: The Definitive Guide (3rd Edition)](http://www.amazon.com/CSS-Definitive-Eric-A-Meyer/dp/0596527330/)★★
 - [CSS Mastery: Advanced Web Standards Solutions](http://www.amazon.com/CSS-Mastery-Advanced-Standards-Solutions/dp/1430223979/)★★★
+
+### Responsive Web Design
+- [Responsive Web Design with HTML5 and CSS3](http://book.douban.com/subject/10766186/)★★★
 
 ### JavaScript
 - [DOM Scripting: Web Design with JavaScript and the Document Object Model](http://www.amazon.com/DOM-Scripting-Design-JavaScript-Document/dp/1430233893/)★
