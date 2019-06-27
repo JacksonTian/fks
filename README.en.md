@@ -72,7 +72,7 @@ Although the project would be maintained in plain text instead, I promise a smal
         - Auto-testing
             - [WebDriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)/[Protractor](https://github.com/angular/protractor)/[Karma Runner](https://github.com/karma-runner/karma)/[Sahi](http://sahi.co.in/)
             - [phantomjs](http://phantomjs.org/)
-            - [SourceLabs](https://saucelabs.com/)/[BrowserStack](http://www.browserstack.com/)
+            - [LambdaTest](https://www.lambdatest.com/)/[SourceLabs](https://saucelabs.com/)/[BrowserStack](http://www.browserstack.com/)
     - Frontend libraries / frameworks
         - [jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)
         - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)/[KISSY](http://docs.kissyui.com/)
