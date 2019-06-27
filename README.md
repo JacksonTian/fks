@@ -73,7 +73,7 @@ Frontend Knowledge Structure
         - 自动化测试
             - [WebDriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)/[Protractor](https://github.com/angular/protractor)/[Karma Runner](https://github.com/karma-runner/karma)/[Sahi](http://sahi.co.in/)
             - [phantomjs](http://phantomjs.org/)
-            - [SourceLabs](https://saucelabs.com/)/[BrowserStack](http://www.browserstack.com/)
+            - [LambdaTest](http://www.lambdatest.com/)/[SourceLabs](https://saucelabs.com/)/[BrowserStack](http://www.browserstack.com/)
     - 前端库/框架
         - [jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)
         - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)/[KISSY](http://docs.kissyui.com/)
