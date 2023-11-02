@@ -34,6 +34,7 @@ Frontend Knowledge Structure
             - [Emacs](http://www.gnu.org/software/emacs/)  [EmacsWiki](http://emacswiki.org)
             - [Brackets](http://brackets.io)
             - [Atom](https://atom.io/)
+            - [CodeLobster](https://codelobster.com/)
             - [Lime Text](http://limetext.org/)
             - [Light Table](http://lighttable.com/)
             - [Codebox](https://www.codebox.io/)
