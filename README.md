@@ -18,16 +18,17 @@ Frontend Knowledge Structure
         - [Safari](http://www.apple.com/safari/) (WebKit)
         - [Opera](http://www.opera.com/) (Blink)
     - 编程语言
-        - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)/[Node.js](http://nodejs.org/)
+        - [JavaScript](https://developer.mozilla.org/en-US/docs/JavaScript)★/[Node.js](http://nodejs.org/)
+        - [TypeScript](http://www.typescriptlang.org/)★
         - [CoffeeScript](http://coffeescript.org/)
-        - [TypeScript](http://www.typescriptlang.org/)
     - 切页面
-        - [HTML](http://www.w3.org/html/)/[HTML5](http://www.w3.org/TR/html5/)
+        - [HTML5](http://www.w3.org/TR/html5/)
         - [CSS/CSS3](http://www.w3.org/Style/CSS/)
         - [Sass](http://sass-lang.com/)/[LESS](http://lesscss.org/)/[Stylus](http://learnboost.github.io/stylus/)/[postCSS](https://github.com/postcss/postcss)
         - [PhotoShop](http://www.photoshop.com/products/photoshop)/[Paint.net](http://www.getpaint.net/)/[Fireworks](http://www.adobe.com/cn/products/fireworks.html)/[GIMP](http://www.gimp.org/)/[Sketch](http://bohemiancoding.com/sketch/)
     - 开发工具
         - 编辑器和IDE
+            - [Visual Studio Code](https://code.visualstudio.com/)★
             - [VIM](http://www.vim.org/)/[Sublime Text2](http://www.sublimetext.com/)
             - [Notepad++](http://notepad-plus-plus.org/)/[EditPlus](http://www.editplus.com/)
             - [WebStorm](http://www.jetbrains.com/webstorm/)
@@ -43,17 +44,16 @@ Frontend Knowledge Structure
             - [Komodo IDE / Edit](http://www.activestate.com/komodo-edit)
             - [Eclipse](http://www.eclipse.org/)
             - [Visual Studio](http://www.visualstudio.com/)
-            - [Visual Studio Code](https://code.visualstudio.com/)
             - [NetBeans](https://netbeans.org/)
             - [Cloud9 IDE](http://c9.io/)
             - [HBuilder](http://www.dcloud.io/)
             - [Nuclide](http://nuclide.io/)
         - 调试工具
+            - [Chrome Dev Tools](https://developer.chrome.com/devtools)★
             - [Firebug](http://getfirebug.com/)/[Firecookie](https://addons.mozilla.org/en-US/firefox/addon/firecookie/)
             - [YSlow](http://developer.yahoo.com/yslow/)
             - [IEDeveloperToolbar](http://www.microsoft.com/en-us/download/details.aspx?id=18359)/[IETester](http://www.my-debugbar.com/wiki/IETester/HomePage)
             - [Fiddler](http://www.telerik.com/fiddler)
-            - [Chrome Dev Tools](https://developer.chrome.com/devtools)
             - [Dragonfly](http://www.opera.com/dragonfly/)
             - [DebugBar](http://www.debugbar.com/)
             - [Venkman](https://developer.mozilla.org/en-US/docs/Venkman)
@@ -63,19 +63,23 @@ Frontend Knowledge Structure
             - [Github](https://github.com/)/[GitLab](https://about.gitlab.com/)/[Bitbucket](https://bitbucket.org/)/[Gitorious](https://gitorious.org/)/[GNU Savannah](http://savannah.gnu.org/)/[Launchpad](https://launchpad.net/)/[SourceForge](http://sourceforge.net/)/[TeamForge](http://www.collab.net/products/teamforge)
     - 代码质量
         - Coding style
-            - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)/[jscs](https://github.com/mdevils/node-jscs)/[ESLint](https://github.com/eslint/eslint)
+            - [ESLint](https://github.com/eslint/eslint)★
+            - [JSLint](http://www.jslint.com/)/[JSHint](http://www.jshint.com/)/[jscs](https://github.com/mdevils/node-jscs)/
             - [CSSLint](http://csslint.net/)
             - [Markup Validation Service](http://validator.w3.org/)
             - [HTML Validators](https://validator.whatwg.org/)
         - 单元测试
+            - [Mocha](http://mochajs.org/)★
             - [QUnit](http://qunitjs.com/)/[Jasmine](http://jasmine.github.io/)
-            - [Mocha](http://mochajs.org/)/[Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
+            - [Should](https://github.com/visionmedia/should.js/)/[Chai](http://chaijs.com/)/[Expect](https://github.com/LearnBoost/expect.js/)
             - [Unit JS](http://unitjs.com/)
         - 自动化测试
             - [WebDriver](http://docs.seleniumhq.org/docs/03_webdriver.jsp)/[Protractor](https://github.com/angular/protractor)/[Karma Runner](https://github.com/karma-runner/karma)/[Sahi](http://sahi.co.in/)
             - [phantomjs](http://phantomjs.org/)
             - [SourceLabs](https://saucelabs.com/)/[BrowserStack](http://www.browserstack.com/)
     - 前端库/框架
+        - [Vue](http://cn.vuejs.org/)★
+        - [React](http://facebook.github.io/react/)★
         - [jQuery](http://jquery.com/)/[Underscore](http://underscorejs.org/)/[Mootools](http://mootools.net/)/[Prototype.js](http://www.prototypejs.org/)
         - [YUI3](http://yuilibrary.com/projects/yui3/)/[Dojo](http://dojotoolkit.org/)/[ExtJS](http://www.sencha.com/products/extjs)/[KISSY](http://docs.kissyui.com/)
         - [Backbone](http://backbonejs.org/)/[KnockoutJS](http://knockoutjs.com/)/[Emberjs](http://emberjs.com/)
@@ -89,9 +93,8 @@ Frontend Knowledge Structure
         - [Dhtmlx](http://dhtmlx.com/)
         - [qooxdoo](http://qooxdoo.org/)
         - [Nwjs](https://github.com/nwjs/nw.js)
-        - [React](http://facebook.github.io/react/)/[React-native](https://github.com/facebook/react-native)
+        - [React-native](https://github.com/facebook/react-native)
         - [Brick](http://mozbrick.github.io/)
-        - [vue.js](http://cn.vuejs.org/)
     - 前端标准/规范
         - HTTP/1.1: RFCs 7230-7235
         - [HTTP/2](https://http2.github.io/)
@@ -142,7 +145,7 @@ Frontend Knowledge Structure
             - [Mod](https://github.com/modulejs/modjs)
         - ES6＋ 转换器
             - [Traceur](https://github.com/google/traceur-compiler)
-            - [Babel](https://babeljs.io/)
+            - [Babel](https://babeljs.io/)★
     - 代码组织
         - 类库模块化
             - [CommonJS](http://www.commonjs.org/)/AMD
@@ -151,8 +154,8 @@ Frontend Knowledge Structure
         - 业务逻辑模块化
             - [bower](https://github.com/twitter/bower)/[component](https://github.com/component/component)
         - 文件加载
-            - [LABjs](http://labjs.com/)
             - [SeaJS](http://seajs.org/)/[Require.js](http://requirejs.org/)
+            - [LABjs](http://labjs.com/)
         - 模块化预处理器
             - [Browserify](https://github.com/substack/node-browserify)
     - 安全
